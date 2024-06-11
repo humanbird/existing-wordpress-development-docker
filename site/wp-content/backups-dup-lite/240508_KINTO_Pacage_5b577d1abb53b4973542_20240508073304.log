@@ -1,0 +1,73 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 8. May 2024 7:35
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.9
+WORDPRESS:	6.5.3
+PHP INFO:	8.1.28 | SAPI: fpm-fcgi
+SERVER:		nginx/1.25.2 
+PHP TIME LIMIT: [1200] not allowed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 20MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 240508_KINTO_Pacage_5b577d1abb53b4973542_20240508073304_database.sql
+SQL FILE SIZE: 23.03MB (24153775)
+SQL FILE TIME: 2024-05-08 07:35:42
+SQL RUNTIME: 0.30 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /var/www/clients/client1/web100/web
+ARCHIVE FILE: 240508_KINTO_Pacage_5b577d1abb53b4973542_20240508073304_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	1.79GB
+STATS:	Dirs 3,146 | Files 22,032
+SQL ADDED: 240508_KINTO_Pacage_5b577d1abb53b4973542_20240508073304_database.sql
+ZipArchive Object
+(
+    [lastId] => 25177
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 25178
+    [filename] => /var/www/clients/client1/web100/web/wp-content/backups-dup-lite/tmp/240508_KINTO_Pacage_5b577d1abb53b4973542_20240508073304_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 25177
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 1.47GB
+ARCHIVE RUNTIME: 75.78 sec.
+MEMORY STACK: 29.28MB
+building installer
+KONSISTENZPRÜFUNG DES ARCHIVS: ERFOLGREICH
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 23.03MB
+INSTALLER FILE: 73.48KB
+ARCHIVE FILE: 1.47GB 
+ERWARTETE MENGE DATEIEN/VERZEICHNISSE: 25,178
+TATSÄCHLICHE MENGE DATEIEN/VERZEICHNISSE: 25,177
+ARCHIV-KONSISTENZ-TEST: Bestanden
+
+********************************************************************************
+RECORD ID:[6]
+TOTAL PROCESS RUNTIME: 80.14 sec.
+PEAK PHP MEMORY USED: 33.28MB
+DONE PROCESSING => 240508_KINTO_Pacage 8. May 2024 7:37
+

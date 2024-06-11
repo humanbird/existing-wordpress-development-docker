@@ -1,0 +1,5 @@
+18-05-2021 07:29:47 - ERROR - v: 7.1.4 - m: 18,3 MB, u: 0 - Open tracking request for unexistant subscriber
+18-05-2021 07:29:47 - ERROR - v: 7.1.4 - m: 18,3 MB, u: 0 - Open tracking request for unexistant subscriber
+18-05-2021 07:32:54 - ERROR - v: 7.1.4 - m: 18,3 MB, u: 0 - Open tracking request for unexistant subscriber
+18-05-2021 07:43:04 - ERROR - v: 7.1.4 - m: 18,3 MB, u: 0 - Open tracking request for unexistant subscriber
+18-05-2021 07:43:04 - ERROR - v: 7.1.4 - m: 18,3 MB, u: 0 - Open tracking request for unexistant subscriber

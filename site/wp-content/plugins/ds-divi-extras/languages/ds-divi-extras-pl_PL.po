@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi Extras\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-01 21:37+0000\n"
+"PO-Revision-Date: 2020-09-01 21:52+0000\n"
+"Last-Translator: admin\n"
+"Language-Team: Polski\n"
+"Language: pl-PL\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: ds-divi-extras.php:305
+msgid "About & License Key"
+msgstr "Informacje i klucz licencyjny "
+
+#: ds-divi-extras.php:323
+msgid "Activate License Key"
+msgstr "Aktywuj"
+
+#: updater/license-key-activation.php:146
+msgid ""
+"An error occurred during license key deactivation (your license key may be "
+"expired). Your license key has been removed from this site, but it may not "
+"have been properly deactivated on our server."
+msgstr ""
+"Wystąpił błąd podczas dezaktywacji klucza licencyjnego (Twój klucz "
+"licencyjny mógł utracić ważność). Twój klucz licencyjny został usunięty z "
+"tej witryny, ale mógł nie zostać prawidłowo dezaktywowany na naszym serwerze."
+
+#: updater/license-key-activation.php:133
+#, php-format
+msgid ""
+"An error occurred during license key deactivation. Please try again or "
+"%scontact support%s."
+msgstr ""
+"Wystąpił błąd podczas dezaktywacji klucza licencyjnego. Spróbuj ponownie "
+"lub% skontaktuj się z %scontact support%s."
+
+#: updater/license-key-activation.php:126
+#, php-format
+msgid ""
+"An error occurred during license key deactivation: %s. Please try again or "
+"%scontact support%s."
+msgstr ""
+"Wystąpił błąd podczas dezaktywacji klucza licencyjnego: %s. Spróbuj ponownie "
+"lub% skontaktuj się z pomocą techniczną %s."
+
+#: updater/license-key-activation.php:27 updater/license-key-activation.php:74
+msgid "An error occurred, please try again."
+msgstr "Wystąpił błąd. Proszę spróbować ponownie."
+
+#: updater/updater.php:46 updater/updater.php:87
+msgid "An unknown error has occurred. Please try again."
+msgstr "Wystąpił nieznany błąd. Proszę spróbuj ponownie."
+
+#: updater/updater.php:93
+msgid "Continue"
+msgstr "Kontynnuj"
+
+#: updater/updater.php:129
+msgid "Deactivate License Key"
+msgstr "Dezaktywuj klucz licencyjny"
+
+#. Name of the plugin
+#: ds-divi-extras.php:277 ds-divi-extras.php:278 ds-divi-extras.php:284 
+#: ds-divi-extras.php:285 ds-divi-extras.php:297
+msgid "Divi Extras"
+msgstr "Divi Extras"
+
+#: includes/admin.php:334
+msgid "Divi Extras Settings"
+msgstr "Divi Extras Ustawienia"
+
+#. Author of the plugin
+msgid "Divi Space"
+msgstr "Divi Space"
+
+#: includes/layouts.php:354 includes/layouts.php:355
+msgid "Edit Default Layout"
+msgstr "Edytuj układ domyślny"
+
+#: includes/layouts.php:344 includes/layouts.php:345
+msgid "Edit Home Layout"
+msgstr "Edytuj Szablon Strony Głównej"
+
+#: includes/layouts.php:326
+msgid "Edit Layout"
+msgstr "Edytuj Szablon"
+
+#: ds-divi-extras.php:221
+msgid "Enter tags separated by commas."
+msgstr "Wpisz tagi oddzielone przecinkami."
+
+#: updater/EDD_SL_Plugin_Updater.php:398
+msgid "Error"
+msgstr "Błąd"
+
+#. Description of the plugin
+msgid "Extra Theme blog modules added to Divi Builder"
+msgstr "Dodatkowe moduły bloga dodane do Divi Builder"
+
+#: includes/admin.php:350
+msgid "Featured Post"
+msgstr "Wyróżniony post"
+
+#. Author URI of the plugin
+msgid "https://divi.space/"
+msgstr "https://divi.space/"
+
+#: ds-divi-extras.php:233
+msgid ""
+"If unchecked, only posts matching all of the above criteria (categories and "
+"tags) will be shown. If multiple categories or tags are specified, posts "
+"will only need to match one of each."
+msgstr ""
+"Jeśli odznaczone, będą wyświetlane tylko posty spełniające wszystkie "
+"powyższe kryteria (kategorie i tagi). Jeśli określono wiele kategorii lub "
+"tagów, posty będą musiały pasować tylko do jednej z nich."
+
+#: updater/license-key-activation.php:53
+msgid "Invalid license key."
+msgstr "Nieprawidłowy klucz licencyjny."
+
+#: ds-divi-extras.php:323
+msgid "License Key Information"
+msgstr "Informacje o kluczu licencyjnym"
+
+#: updater/updater.php:81 updater/updater.php:120
+msgid "License Key:"
+msgstr "Klucz licencyjny:"
+
+#: includes/build/extra-functions.php:88
+msgid "Loading"
+msgstr "Ładowanie"
+
+#: ds-divi-extras.php:230 includes/layouts.php:99
+msgid "No"
+msgstr "Nie"
+
+#: ds-divi-extras.php:227
+msgid "Show posts matching any of the above criteria"
+msgstr "Pokaż posty spełniające którekolwiek z powyższych kryteriów"
+
+#: includes/layouts.php:96
+msgid "Show Top Border?"
+msgstr "Wyświetlać górne obramowanie?"
+
+#: ds-divi-extras.php:300
+msgid "Support"
+msgstr "Wsparcie"
+
+#: ds-divi-extras.php:219
+msgid "Tags"
+msgstr "Tagi"
+
+#: updater/updater.php:76
+#, php-format
+msgid "Thank you for purchasing %s! %s Please enter your license key below."
+msgstr "Dziękujemy za zakup %s! %s Wprowadź poniżej swój klucz licencyjny."
+
+#: updater/EDD_SL_Plugin_Updater.php:211
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+"Dostępna jest nowa wersja %1$s. %2$sWyświetl szczegóły wersji %3$s %4$s  lub "
+" %5$zaktualizuj teraz %6$s."
+
+#: updater/EDD_SL_Plugin_Updater.php:203
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr "Dostępna jest nowa wersja %1$s. %2$sWyświetl szczegóły%4$s wersji %3$s"
+
+#: updater/license-key-activation.php:64
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr "Nieprawidłowy klucz licencyjny dla %s."
+
+#: includes/layouts.php:103
+msgid "This will add a border to the top side of the module."
+msgstr "Spowoduje to dodanie obramowania do górnej części modułu."
+
+#: ds-divi-extras.php:231 includes/layouts.php:100
+msgid "Yes"
+msgstr "Tak"
+
+#: updater/EDD_SL_Plugin_Updater.php:398
+msgid "You do not have permission to install plugin updates"
+msgstr "Nie masz uprawnień do instalowania aktualizacji wtyczek"
+
+#: ds-divi-extras.php:335
+#, php-format
+msgid ""
+"You haven't activated your Divi Extras license key yet. Please %sactivate "
+"your license key%s to use the Divi Extras modules."
+msgstr ""
+"Nie aktywowałeś jeszcze swojego klucza licencyjnego Divi Extras. %saktywuj "
+"klucz licencyjny%s, aby korzystać z modułów Divi Extras."
+
+#: updater/license-key-activation.php:41
+#, php-format
+msgid "Your license key expired on %s."
+msgstr "Twój klucz licencyjny wygasł %s."
+
+#: updater/license-key-activation.php:48
+msgid "Your license key has been disabled."
+msgstr "Twój klucz licencyjny został dezaktywowany"
+
+#: updater/license-key-activation.php:69
+msgid ""
+"Your license key has reached its activation limit. Please deactivate the key "
+"on one of your other sites before activating it on this site."
+msgstr ""
+"Twój klucz licencyjny osiągnął limit aktywacji. Przed aktywacją klucza w tej "
+"witrynie należy dezaktywować klucz na jednej ze swoich innych witryn."
+
+#: updater/license-key-activation.php:59
+msgid "Your license key is not active for this URL."
+msgstr "Twój klucz licencyjny nie jest aktywny dla tego adresu URL."

@@ -1,0 +1,14 @@
+.rmagic .rm-two-columns-wrap .rmrow .iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.rm_theme_matchmytheme.rm_layout_two_columns .rm-two-columns-wrap .rmrow .rm-flip-clock-wrapper ul.flip  {
+     width: 46px;
+     height: 80px;
+}
+
+.rm_theme_matchmytheme.rm_layout_two_columns .rm-two-columns-wrap .rmrow .rm-flip-clock-wrapper ul.flip li a div div.rm-clock-inner {
+    font-size: 60px;
+    line-height: 72px;
+}

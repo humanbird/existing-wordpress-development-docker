@@ -1,0 +1,1315 @@
+0000.001 (0) Opened log file at time: Sun, 24 Dec 2023 01:55:15 +0000 on https://kinto-training.de
+0000.001 (0) InfiniteWP WordPress plugin (https://infinitewp.com): 1.12.5 WP: 6.4.2 PHP: 8.0.30 (fpm-fcgi, Linux k66j88 5.10.0-8-amd64 #1 SMP Debian 5.10.46-5 (2021-09-23) x86_64) MySQL: 10.6.16 WPLANG: de_DE Server: nginx/1.25.2 safe_mode: 0 max_execution_time: 1200 memory_limit: 512M (used: 21.7M | 24M) multisite: N openssl: OpenSSL 1.1.1n  15 Mar 2022 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.002 (0) Free space on disk containing InfiniteWP's temporary directory: 39967.6 MB
+0000.003 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.007 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.008 (0) Set semaphore last lock (fd) time to 2023-12-24 01:55:15
+0000.009 (0) Semaphore lock (fd) complete
+0000.012 (0) Backup run: resumption=0, nonce=04eebe8babb5, begun at=1703382915 (0s ago), job type=backup, label=899869b50553c095d0aee700c7a4f34b
+0000.013 (0) Scheduling a resumption (1) after 300 seconds (1703383215) in case this run gets aborted
+0000.019 (0) Checking if we have a zip executable available
+0000.020 (0) Testing: /usr/bin/zip
+0000.022 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.022 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.023 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.023 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=129) (out=108) (deflated 16%)
+0000.023 (0) Output: total bytes=129, compressed=108 -> 16% savings
+0000.029 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=136) (out=113) (deflated 17%)
+0000.030 (0) Output: total bytes=265, compressed=221 -> 17% savings
+0000.036 (0) Working binary zip found: /usr/bin/zip
+0000.037 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.037 (0) Creation of backups of directories: beginning
+0000.039 (0) Beginning creation of dump of plugins (split every: 200 MB)
+0000.158 (0) Total entities for the zip file: 2076 directories, 11259 files (0 skipped as non-modified), 163.6 MB
+0000.160 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.161 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.161 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.162 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.163 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.163 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (5.7 MB, 11259 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0000.386 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: size is now: 2.20 MB
+0000.388 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 600 files added (on-disk size: 2227 KB)
+0000.390 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 700 files added (on-disk size: 2227 KB)
+0000.391 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 800 files added (on-disk size: 2227 KB)
+0000.393 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 900 files added (on-disk size: 2227 KB)
+0000.394 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 1000 files added (on-disk size: 2227 KB)
+0000.395 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (7.3 MB, 11259 files batched, 501 (1002) added so far); re-opening (prior size: 2227 KB)
+0000.570 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: size is now: 5.70 MB
+0000.573 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 1100 files added (on-disk size: 5853.9 KB)
+0000.574 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 1200 files added (on-disk size: 5853.9 KB)
+0000.576 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 1300 files added (on-disk size: 5853.9 KB)
+0000.577 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 1400 files added (on-disk size: 5853.9 KB)
+0000.579 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 1500 files added (on-disk size: 5853.9 KB)
+0000.579 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (10.7 MB, 11259 files batched, 501 (1503) added so far); re-opening (prior size: 5853.9 KB)
+0000.931 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: size is now: 9.00 MB
+0000.933 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 1600 files added (on-disk size: 9218 KB)
+0000.935 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 1700 files added (on-disk size: 9218 KB)
+0000.936 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 1800 files added (on-disk size: 9218 KB)
+0000.938 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 1900 files added (on-disk size: 9218 KB)
+0000.939 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 2000 files added (on-disk size: 9218 KB)
+0000.940 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (14.6 MB, 11259 files batched, 501 (2004) added so far); re-opening (prior size: 9218 KB)
+0001.368 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: size is now: 13.10 MB
+0001.371 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 2100 files added (on-disk size: 13453.5 KB)
+0001.373 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 2200 files added (on-disk size: 13453.5 KB)
+0001.374 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 2300 files added (on-disk size: 13453.5 KB)
+0001.376 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 2400 files added (on-disk size: 13453.5 KB)
+0001.377 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 2500 files added (on-disk size: 13453.5 KB)
+0001.378 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (2.7 MB, 11259 files batched, 501 (2505) added so far); re-opening (prior size: 13453.5 KB)
+0001.490 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 2600 files added (on-disk size: 14356.1 KB)
+0001.492 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 2700 files added (on-disk size: 14356.1 KB)
+0001.493 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 2800 files added (on-disk size: 14356.1 KB)
+0001.495 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 2900 files added (on-disk size: 14356.1 KB)
+0001.496 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 3000 files added (on-disk size: 14356.1 KB)
+0001.497 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (11.7 MB, 11259 files batched, 501 (3006) added so far); re-opening (prior size: 14356.1 KB)
+0001.856 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: size is now: 17.10 MB
+0001.859 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 3100 files added (on-disk size: 17544.5 KB)
+0001.861 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 3200 files added (on-disk size: 17544.5 KB)
+0001.862 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 3300 files added (on-disk size: 17544.5 KB)
+0001.864 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 3400 files added (on-disk size: 17544.5 KB)
+0001.865 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 3500 files added (on-disk size: 17544.5 KB)
+0001.866 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (10.2 MB, 11259 files batched, 501 (3507) added so far); re-opening (prior size: 17544.5 KB)
+0002.224 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: size is now: 21.00 MB
+0002.227 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 3600 files added (on-disk size: 21502.8 KB)
+0002.228 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 3700 files added (on-disk size: 21502.8 KB)
+0002.230 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 3800 files added (on-disk size: 21502.8 KB)
+0002.231 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 3900 files added (on-disk size: 21502.8 KB)
+0002.233 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 4000 files added (on-disk size: 21502.8 KB)
+0002.233 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (2 MB, 11259 files batched, 501 (4008) added so far); re-opening (prior size: 21502.8 KB)
+0002.319 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 4100 files added (on-disk size: 22171.1 KB)
+0002.320 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 4200 files added (on-disk size: 22171.1 KB)
+0002.322 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 4300 files added (on-disk size: 22171.1 KB)
+0002.323 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 4400 files added (on-disk size: 22171.1 KB)
+0002.325 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 4500 files added (on-disk size: 22171.1 KB)
+0002.325 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (3.1 MB, 11259 files batched, 501 (4509) added so far); re-opening (prior size: 22171.1 KB)
+0002.479 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 4600 files added (on-disk size: 23168.1 KB)
+0002.480 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 4700 files added (on-disk size: 23168.1 KB)
+0002.482 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 4800 files added (on-disk size: 23168.1 KB)
+0002.483 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 4900 files added (on-disk size: 23168.1 KB)
+0002.485 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 5000 files added (on-disk size: 23168.1 KB)
+0002.485 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (15.1 MB, 11259 files batched, 501 (5010) added so far); re-opening (prior size: 23168.1 KB)
+0002.923 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: size is now: 28.40 MB
+0002.926 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 5100 files added (on-disk size: 29053 KB)
+0002.927 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 5200 files added (on-disk size: 29053 KB)
+0002.929 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 5300 files added (on-disk size: 29053 KB)
+0002.931 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 5400 files added (on-disk size: 29053 KB)
+0002.932 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 5500 files added (on-disk size: 29053 KB)
+0002.933 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (1.7 MB, 11259 files batched, 501 (5511) added so far); re-opening (prior size: 29053 KB)
+0003.078 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 5600 files added (on-disk size: 29694 KB)
+0003.079 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 5700 files added (on-disk size: 29694 KB)
+0003.079 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 5800 files added (on-disk size: 29694 KB)
+0003.080 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 5900 files added (on-disk size: 29694 KB)
+0003.081 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 6000 files added (on-disk size: 29694 KB)
+0003.082 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (2.4 MB, 11259 files batched, 501 (6012) added so far); re-opening (prior size: 29694 KB)
+0003.197 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 6100 files added (on-disk size: 30549.6 KB)
+0003.198 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 6200 files added (on-disk size: 30549.6 KB)
+0003.200 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 6300 files added (on-disk size: 30549.6 KB)
+0003.202 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 6400 files added (on-disk size: 30549.6 KB)
+0003.203 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 6500 files added (on-disk size: 30549.6 KB)
+0003.204 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (8.7 MB, 11259 files batched, 501 (6513) added so far); re-opening (prior size: 30549.6 KB)
+0003.470 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 6600 files added (on-disk size: 35224.3 KB)
+0003.472 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 6700 files added (on-disk size: 35224.3 KB)
+0003.473 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 6800 files added (on-disk size: 35224.3 KB)
+0003.475 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 6900 files added (on-disk size: 35224.3 KB)
+0003.477 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 7000 files added (on-disk size: 35224.3 KB)
+0003.477 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (10.6 MB, 11259 files batched, 501 (7014) added so far); re-opening (prior size: 35224.3 KB)
+0003.802 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 7100 files added (on-disk size: 38754.4 KB)
+0003.803 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 7200 files added (on-disk size: 38754.4 KB)
+0003.805 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 7300 files added (on-disk size: 38754.4 KB)
+0003.806 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 7400 files added (on-disk size: 38754.4 KB)
+0003.808 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 7500 files added (on-disk size: 38754.4 KB)
+0003.808 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (4.7 MB, 11259 files batched, 501 (7515) added so far); re-opening (prior size: 38754.4 KB)
+0003.972 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 7600 files added (on-disk size: 41057.1 KB)
+0003.973 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 7700 files added (on-disk size: 41057.1 KB)
+0003.975 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 7800 files added (on-disk size: 41057.1 KB)
+0003.976 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 7900 files added (on-disk size: 41057.1 KB)
+0003.978 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 8000 files added (on-disk size: 41057.1 KB)
+0003.979 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (5.5 MB, 11259 files batched, 501 (8016) added so far); re-opening (prior size: 41057.1 KB)
+0004.166 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 8100 files added (on-disk size: 44273.9 KB)
+0004.168 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 8200 files added (on-disk size: 44273.9 KB)
+0004.170 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 8300 files added (on-disk size: 44273.9 KB)
+0004.172 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 8400 files added (on-disk size: 44273.9 KB)
+0004.173 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 8500 files added (on-disk size: 44273.9 KB)
+0004.174 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (3.8 MB, 11259 files batched, 501 (8517) added so far); re-opening (prior size: 44273.9 KB)
+0004.366 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 8600 files added (on-disk size: 45803.3 KB)
+0004.367 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 8700 files added (on-disk size: 45803.3 KB)
+0004.369 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 8800 files added (on-disk size: 45803.3 KB)
+0004.370 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 8900 files added (on-disk size: 45803.3 KB)
+0004.372 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 9000 files added (on-disk size: 45803.3 KB)
+0004.372 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (6 MB, 11259 files batched, 501 (9018) added so far); re-opening (prior size: 45803.3 KB)
+0004.593 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 9100 files added (on-disk size: 48268.4 KB)
+0004.594 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 9200 files added (on-disk size: 48268.4 KB)
+0004.596 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 9300 files added (on-disk size: 48268.4 KB)
+0004.598 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 9400 files added (on-disk size: 48268.4 KB)
+0004.599 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 9500 files added (on-disk size: 48268.4 KB)
+0004.600 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (2.6 MB, 11259 files batched, 501 (9519) added so far); re-opening (prior size: 48268.4 KB)
+0004.741 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 9600 files added (on-disk size: 49236.7 KB)
+0004.742 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 9700 files added (on-disk size: 49236.7 KB)
+0004.744 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 9800 files added (on-disk size: 49236.7 KB)
+0004.745 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 9900 files added (on-disk size: 49236.7 KB)
+0004.747 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 10000 files added (on-disk size: 49236.7 KB)
+0004.747 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (7.8 MB, 11259 files batched, 501 (10020) added so far); re-opening (prior size: 49236.7 KB)
+0005.018 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 10100 files added (on-disk size: 51589.9 KB)
+0005.020 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 10200 files added (on-disk size: 51589.9 KB)
+0005.021 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 10300 files added (on-disk size: 51589.9 KB)
+0005.023 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 10400 files added (on-disk size: 51589.9 KB)
+0005.024 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 10500 files added (on-disk size: 51589.9 KB)
+0005.025 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (4.4 MB, 11259 files batched, 501 (10521) added so far); re-opening (prior size: 51589.9 KB)
+0005.283 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 10600 files added (on-disk size: 53345.1 KB)
+0005.284 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 10700 files added (on-disk size: 53345.1 KB)
+0005.285 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 10800 files added (on-disk size: 53345.1 KB)
+0005.286 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 10900 files added (on-disk size: 53345.1 KB)
+0005.286 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 11000 files added (on-disk size: 53345.1 KB)
+0005.287 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (15.2 MB, 11259 files batched, 501 (11022) added so far); re-opening (prior size: 53345.1 KB)
+0006.017 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 11100 files added (on-disk size: 58883.1 KB)
+0006.018 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip.tmp: 11200 files added (on-disk size: 58883.1 KB)
+0006.745 (0) Created plugins zip (0) - 60669.1 KB in 6.7 s (9048.5 KB/s) (sha1: f048dccfa55f1adac93bf1d0b0a5499d2fe386c0, sha256: 956d58e72f001787e9cfa480d8a8763f637004c881f4de45be0887759324b2a9)
+0006.746 (0) Beginning creation of dump of themes (split every: 200 MB)
+0006.761 (0) Total entities for the zip file: 250 directories, 1750 files (0 skipped as non-modified), 66.8 MB
+0006.762 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0006.762 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0006.763 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0006.764 (0) Adding batch to zip file (IWP_MMB_BinZip): over 25 MB added on this batch (25.5 MB, 1750 files batched, 362 (362) added so far); re-opening (prior size: 0 KB)
+0007.782 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: size is now: 8.80 MB
+0007.783 (0) A useful amount of data was added after this amount of zip processing: 1.4 s (normalised: 1.4 s, rate: 18680.9 KB/s)
+0007.784 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.3980040550232, normalised_time=1.3703830556963, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=114775499)
+0007.786 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: 400 files added (on-disk size: 8965.2 KB)
+0007.787 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: 500 files added (on-disk size: 8965.2 KB)
+0007.789 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: 600 files added (on-disk size: 8965.2 KB)
+0007.791 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: 700 files added (on-disk size: 8965.2 KB)
+0007.792 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: 800 files added (on-disk size: 8965.2 KB)
+0007.793 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (9.5 MB, 1750 files batched, 501 (863) added so far); re-opening (prior size: 8965.2 KB)
+0008.212 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: size is now: 11.20 MB
+0008.213 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: 900 files added (on-disk size: 11497.6 KB)
+0008.215 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: 1000 files added (on-disk size: 11497.6 KB)
+0008.216 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: 1100 files added (on-disk size: 11497.6 KB)
+0008.218 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: 1200 files added (on-disk size: 11497.6 KB)
+0008.219 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: 1300 files added (on-disk size: 11497.6 KB)
+0008.220 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (16.2 MB, 1750 files batched, 501 (1364) added so far); re-opening (prior size: 11497.6 KB)
+0008.727 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: size is now: 15.20 MB
+0008.729 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: 1400 files added (on-disk size: 15531.3 KB)
+0008.730 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: 1500 files added (on-disk size: 15531.3 KB)
+0008.732 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: 1600 files added (on-disk size: 15531.3 KB)
+0008.733 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: 1700 files added (on-disk size: 15531.3 KB)
+0009.218 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip.tmp: size is now: 26.30 MB
+0009.424 (0) Created themes zip (0) - 26922.4 KB in 2.7 s (10055.3 KB/s) (sha1: a4f14a03b1749e1a360082c3ba82404c18bd5da7, sha256: 332dd6092cdbc7858a857c99d036819d63ec06b96115f9234e58c7428e4dae30)
+0009.425 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots,db-backup,backupbuddy_backups,vcf,pb_backupbuddy,sucuri,aiowps_backups,mainwp,wp_system,wpcf7_captcha,wc-logs,siteorigin-widgets,wp-hummingbird-cache,wp-security-audit-log,backwpup-12b462-backups,backwpup-12b462-logs,backwpup-12b462-temp,Dropbox_Backup,cache
+0009.425 (0) Looking for candidates to back up in: /var/www/clients/client4/web3/web/wp-content/uploads
+0009.425 (0) finding files: et_temp: adding to list (1)
+0009.425 (0) finding files: 2023: adding to list (2)
+0009.425 (0) finding files: 2021: adding to list (3)
+0009.426 (0) finding files: ultimatemember: adding to list (4)
+0009.426 (0) finding files: newsletter: adding to list (5)
+0009.426 (0) finding files: user_registration_styles: adding to list (6)
+0009.426 (0) finding files: wpallexport: adding to list (7)
+0009.426 (0) finding files: content-control-debug-13904935416536508ad45cc9.57554764.log: adding to list (8)
+0009.427 (0) finding files: sucuri: skipping: excluded by options
+0009.427 (0) finding files: content-control_v1_data-backup.json: adding to list (9)
+0009.427 (0) finding files: ur-logs: adding to list (10)
+0009.427 (0) finding files: 2022: adding to list (11)
+0009.427 (0) finding files: et-fonts: adding to list (12)
+0009.427 (0) Beginning creation of dump of uploads (split every: 200 MB)
+0009.446 (0) Total entities for the zip file: 62 directories, 2820 files (0 skipped as non-modified), 341.3 MB
+0009.447 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0009.448 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0009.449 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0009.449 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0009.450 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0009.450 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (39.4 MB, 2820 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0009.949 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: size is now: 37.20 MB
+0009.952 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: 600 files added (on-disk size: 38103.5 KB)
+0009.954 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: 700 files added (on-disk size: 38103.5 KB)
+0009.955 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: 800 files added (on-disk size: 38103.5 KB)
+0009.957 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: 900 files added (on-disk size: 38103.5 KB)
+0009.958 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: 1000 files added (on-disk size: 38103.5 KB)
+0009.959 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (45.7 MB, 2820 files batched, 501 (1002) added so far); re-opening (prior size: 38103.5 KB)
+0010.548 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: size is now: 80.80 MB
+0010.550 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: 1100 files added (on-disk size: 82707.3 KB)
+0010.551 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: 1200 files added (on-disk size: 82707.3 KB)
+0010.552 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: 1300 files added (on-disk size: 82707.3 KB)
+0010.552 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: 1400 files added (on-disk size: 82707.3 KB)
+0010.553 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: 1500 files added (on-disk size: 82707.3 KB)
+0010.554 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (83.6 MB, 2820 files batched, 501 (1503) added so far); re-opening (prior size: 82707.3 KB)
+0011.906 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: size is now: 152.10 MB
+0011.908 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: 1600 files added (on-disk size: 155762.9 KB)
+0011.910 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: 1700 files added (on-disk size: 155762.9 KB)
+0011.911 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: 1800 files added (on-disk size: 155762.9 KB)
+0011.912 (0) Adding batch to zip file (IWP_MMB_BinZip): possibly approaching split limit (51 MB, 347 (1850) files added so far); last ratio: 0.8536; re-opening (prior size: 155762.9 KB)
+0012.480 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip.tmp: size is now: 201.20 MB
+0012.481 (0) Zip size is at/near split limit (201.2 MB / 200 MB) - bumping index (from: 0)
+0013.776 (0) Created uploads zip (0) - 206045.2 KB in 3.1 s (67484.9 KB/s) (checksums: sha1: 0f40915f97c94d77f56589a9fd4d4fb59d8d8d29, sha256: b3dd302aae60cff80aefc50719e08f8391cabbee1ec891f54477c53463b8cf7e)
+0013.777 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads2.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0013.778 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads2.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0013.778 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads2.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0013.779 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads2.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0013.780 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads2.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0013.781 (0) Adding batch to zip file (IWP_MMB_BinZip): over 500 files added on this batch (72.2 MB, 2820 files batched, 501 (2351) added so far); re-opening (prior size: 0 KB)
+0015.026 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads2.zip.tmp: size is now: 57.60 MB
+0015.028 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads2.zip.tmp: 2400 files added (on-disk size: 58940.4 KB)
+0015.030 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads2.zip.tmp: 2500 files added (on-disk size: 58940.4 KB)
+0015.032 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads2.zip.tmp: 2600 files added (on-disk size: 58940.4 KB)
+0015.033 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads2.zip.tmp: 2700 files added (on-disk size: 58940.4 KB)
+0015.035 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads2.zip.tmp: 2800 files added (on-disk size: 58940.4 KB)
+0015.814 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads2.zip.tmp: size is now: 101.80 MB
+0016.495 (0) Created uploads zip (1) - 104243.4 KB in 2.7 s (38343.5 KB/s) (sha1: 36d7327255c32a7e8437b07d77fc773e30c6ae14, sha256: 5efad516e5da19520f99d5b964cfbd6291afb83b6b4ec8e9c660adf33c459154)
+0016.496 (0) Beginning backup of other directories found in the content directory (index: 0)
+0016.496 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log,managewp,infinity-cache,backupwordpress,old-cache,nfwlog,wflogs,wishlist-backup,w3tc,logs,widget_cache,updraftplus,wpmerge-temp
+0016.496 (0) Looking for candidates to back up in: /var/www/clients/client4/web3/web/wp-content
+0016.496 (0) finding files: languages: adding to list (1)
+0016.497 (0) finding files: plugins: skipping: this is the plugins directory
+0016.497 (0) finding files: mu-plugins: adding to list (2)
+0016.497 (0) finding files: login-logo.png: adding to list (3)
+0016.497 (0) finding files: logs: skipping: excluded by options
+0016.497 (0) finding files: wpgb: adding to list (4)
+0016.498 (0) finding files: themes: skipping: this is the themes directory
+0016.498 (0) finding files: post-smtp-migration.log: adding to list (5)
+0016.498 (0) finding files: uploads: skipping: this is the uploads directory
+0016.498 (0) finding files: upgrade-temp-backup: adding to list (6)
+0016.498 (0) finding files: infinitewp: adding to list (7)
+0016.498 (0) finding files: et-cache: adding to list (8)
+0016.499 (0) finding files: wflogs: skipping: excluded by options
+0016.499 (0) finding files: cache: skipping: excluded by options
+0016.499 (0) finding files: webtoffee_export: adding to list (9)
+0016.499 (0) finding files: upgrade: skipping: excluded by options
+0016.499 (0) finding files: index.php: adding to list (10)
+0016.500 (0) finding files: backups-dup-lite: skipping: excluded by options (glob)
+0016.503 (0) Skip directory (InfiniteWP backup directory): infinitewp/backups
+0016.503 (0) Total entities for the zip file: 18 directories, 429 files (0 skipped as non-modified), 32.9 MB
+0016.504 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0016.505 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0016.506 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0016.506 (0) Zip: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-others.zip.tmp: 400 files added (on-disk size: 0 KB)
+0017.432 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-others.zip.tmp: size is now: 7.90 MB
+0017.523 (0) Created others zip (0) - 8128.5 KB in 1 s (7944.7 KB/s) (sha1: 1d401b738413deb385238c37ecca80da40d50d39, sha256: ad45e36b771f53da687868b4a0dcf9ab7b19df30fc25ab5002d081b087d2e74e)
+0017.524 (0) Looking for candidates to back up in: /var/www/clients/client4/web3/web
+0017.524 (0) finding files: wp-content: adding to list (1)
+0017.524 (0) finding files: urkunde.php: adding to list (2)
+0017.525 (0) finding files: wp-load.php: adding to list (3)
+0017.525 (0) finding files: font.php: adding to list (4)
+0017.525 (0) finding files: typeform.php: adding to list (5)
+0017.525 (0) finding files: .htaccess: adding to list (6)
+0017.525 (0) finding files: wp-includes: adding to list (7)
+0017.525 (0) finding files: wp-config.php: adding to list (8)
+0017.526 (0) finding files: TCPDF: adding to list (9)
+0017.526 (0) finding files: wp-mail.php: adding to list (10)
+0017.526 (0) finding files: xmlrpc.php: adding to list (11)
+0017.526 (0) finding files: liesmich.html: adding to list (12)
+0017.526 (0) finding files: wp-links-opml.php: adding to list (13)
+0017.527 (0) finding files: .htaccess-210306174810-6043c05ac4d02-duplicator.bak: adding to list (14)
+0017.527 (0) finding files: checkbox.min.css: adding to list (15)
+0017.527 (0) finding files: wp-comments-post.php: adding to list (16)
+0017.527 (0) finding files: player_test.html: adding to list (17)
+0017.527 (0) finding files: urkunde-img.php: adding to list (18)
+0017.527 (0) finding files: wp-settings.php: adding to list (19)
+0017.528 (0) finding files: mysql: adding to list (20)
+0017.528 (0) finding files: wp-signup.php: adding to list (21)
+0017.528 (0) finding files: readme.html: adding to list (22)
+0017.528 (0) finding files: wp-login.php: adding to list (23)
+0017.528 (0) finding files: last_video.php: adding to list (24)
+0017.528 (0) finding files: wp-config-sample.php: adding to list (25)
+0017.529 (0) finding files: license.txt: adding to list (26)
+0017.529 (0) finding files: cc8aaea88767abe99381f757ccf683c5.html: adding to list (27)
+0017.529 (0) finding files: wp-blog-header.php: adding to list (28)
+0017.529 (0) finding files: .well-known: adding to list (29)
+0017.529 (0) finding files: player_kinto.html: adding to list (30)
+0017.529 (0) finding files: .user.ini: adding to list (31)
+0017.530 (0) finding files: clone_controller: adding to list (32)
+0017.530 (0) finding files: wp-admin: adding to list (33)
+0017.530 (0) finding files: PDF: adding to list (34)
+0017.530 (0) finding files: newsletter_api.php: adding to list (35)
+0017.530 (0) finding files: wp-activate.php: adding to list (36)
+0017.530 (0) finding files: wp-cron.php: adding to list (37)
+0017.531 (0) finding files: wordfence-waf.php: adding to list (38)
+0017.531 (0) finding files: wp-trackback.php: adding to list (39)
+0017.531 (0) finding files: index.php: adding to list (40)
+0017.531 (0) Beginning creation of dump of more (split every: 200 MB)
+0017.532 (0) Total entities for the zip file: 0 directories, 2 files (0 skipped as non-modified), 0 MB
+0017.537 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-more.zip.tmp: size is now: 0.00 MB
+0017.538 (0) Created more zip (0) - 2.6 KB in 0 s (399.5 KB/s) (sha1: 4f2574329d0a76fb61afe87bca2f2c1e46ea2c26, sha256: bc1503a5421358886ae21eb83f2ef9be4ed9d71a6b9f29ab65c33e8cdca83589)
+0017.540 (0) Saving backup status to database (elements: 11)
+0017.543 (0) Beginning creation of database dump (WordPress DB)
+0017.543 (0) Testing: /usr/bin/mysqldump
+0017.553 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1150 bytes total)
+0017.554 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0017.557 (0) Table wp_options: Total expected rows (approximate): 1029
+0017.584 (0) Table wp_options: Total rows added: 1044 in 0.03 seconds
+0017.585 (0) Table wp_options: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_options.table.gz - 160.4 KB)
+0017.587 (0) Table wp_users: Total expected rows (approximate): 1568
+0017.606 (0) Table wp_users: Total rows added: 1570 in 0.02 seconds
+0017.606 (0) Table wp_users: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_users.table.gz - 104.1 KB)
+0017.607 (0) Table wp_usermeta: Total expected rows (approximate): 42754
+0017.706 (0) Table wp_usermeta: binary mysqldump finished (writes: 33) in 0.10 seconds
+0017.707 (0) Table wp_usermeta: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_usermeta.table.gz - 418.1 KB)
+0017.708 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0017.709 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0017.709 (0) Table wp_commentmeta: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0017.710 (0) Table wp_comments: Total expected rows (approximate): 0
+0017.711 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0017.712 (0) Table wp_comments: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_comments.table.gz - 0.5 KB)
+0017.713 (0) Table wp_links: Total expected rows (approximate): 0
+0017.714 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0017.714 (0) Table wp_links: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_links.table.gz - 0.4 KB)
+0017.715 (0) Table wp_postmeta: Total expected rows (approximate): 11955
+0017.781 (0) Table wp_postmeta: binary mysqldump finished (writes: 33) in 0.07 seconds
+0017.794 (0) Table wp_postmeta: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_postmeta.table.gz - 163.9 KB)
+0017.796 (0) Table wp_posts: Total expected rows (approximate): 3461
+0018.252 (0) Table wp_posts: Total rows added: 4026 in 0.46 seconds
+0018.253 (0) Table wp_posts: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_posts.table.gz - 2143.6 KB)
+0018.254 (0) Table wp_term_relationships: Total expected rows (approximate): 894
+0018.257 (0) Table wp_term_relationships: Total rows added: 894 in 0.00 seconds
+0018.257 (0) Table wp_term_relationships: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_term_relationships.table.gz - 2.7 KB)
+0018.258 (0) Table wp_term_taxonomy: Total expected rows (approximate): 167
+0018.259 (0) Table wp_term_taxonomy: Total rows added: 167 in 0.00 seconds
+0018.260 (0) Table wp_term_taxonomy: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_term_taxonomy.table.gz - 1.4 KB)
+0018.261 (0) Table wp_termmeta: Total expected rows (approximate): 29
+0018.262 (0) Table wp_termmeta: Total rows added: 29 in 0.00 seconds
+0018.262 (0) Table wp_termmeta: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_termmeta.table.gz - 0.6 KB)
+0018.264 (0) Table wp_terms: Total expected rows (approximate): 158
+0018.265 (0) Table wp_terms: Total rows added: 167 in 0.00 seconds
+0018.265 (0) Table wp_terms: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_terms.table.gz - 2.5 KB)
+0018.267 (0) Table wp_blc_filters: Total expected rows (approximate): 0
+0018.267 (0) Table wp_blc_filters: Total rows added: 0 in 0.00 seconds
+0018.268 (0) Table wp_blc_filters: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_blc_filters.table.gz - 0.3 KB)
+0018.269 (0) Table wp_blc_instances: Total expected rows (approximate): 0
+0018.269 (0) Table wp_blc_instances: Data skipped (table is marked as non-essential)
+0018.270 (0) Table wp_blc_instances: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_blc_instances.table.gz - 0.4 KB)
+0018.271 (0) Table wp_blc_links: Total expected rows (approximate): 0
+0018.272 (0) Table wp_blc_links: Total rows added: 0 in 0.00 seconds
+0018.272 (0) Table wp_blc_links: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_blc_links.table.gz - 0.6 KB)
+0018.273 (0) Table wp_blc_synch: Total expected rows (approximate): 175
+0018.275 (0) Table wp_blc_synch: Total rows added: 190 in 0.00 seconds
+0018.275 (0) Table wp_blc_synch: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_blc_synch.table.gz - 1.1 KB)
+0018.276 (0) Table wp_borlabs_cookie_consent_log: Total expected rows (approximate): 16
+0018.277 (0) Table wp_borlabs_cookie_consent_log: Total rows added: 16 in 0.00 seconds
+0018.277 (0) Table wp_borlabs_cookie_consent_log: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_borlabs_cookie_consent_log.table.gz - 1.1 KB)
+0018.279 (0) Table wp_borlabs_cookie_content_blocker: Total expected rows (approximate): 8
+0018.280 (0) Table wp_borlabs_cookie_content_blocker: Total rows added: 8 in 0.00 seconds
+0018.280 (0) Table wp_borlabs_cookie_content_blocker: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_borlabs_cookie_content_blocker.table.gz - 2.3 KB)
+0018.281 (0) Table wp_borlabs_cookie_cookies: Total expected rows (approximate): 9
+0018.282 (0) Table wp_borlabs_cookie_cookies: Total rows added: 9 in 0.00 seconds
+0018.283 (0) Table wp_borlabs_cookie_cookies: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_borlabs_cookie_cookies.table.gz - 1.9 KB)
+0018.284 (0) Table wp_borlabs_cookie_groups: Total expected rows (approximate): 4
+0018.285 (0) Table wp_borlabs_cookie_groups: Total rows added: 4 in 0.00 seconds
+0018.285 (0) Table wp_borlabs_cookie_groups: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_borlabs_cookie_groups.table.gz - 0.9 KB)
+0018.287 (0) Table wp_borlabs_cookie_script_blocker: Total expected rows (approximate): 0
+0018.287 (0) Table wp_borlabs_cookie_script_blocker: Total rows added: 0 in 0.00 seconds
+0018.288 (0) Table wp_borlabs_cookie_script_blocker: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_borlabs_cookie_script_blocker.table.gz - 0.4 KB)
+0018.289 (0) Table wp_borlabs_cookie_statistics: Total expected rows (approximate): 0
+0018.290 (0) Table wp_borlabs_cookie_statistics: Total rows added: 0 in 0.00 seconds
+0018.290 (0) Table wp_borlabs_cookie_statistics: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_borlabs_cookie_statistics.table.gz - 0.4 KB)
+0018.291 (0) Table wp_duplicator_packages: Total expected rows (approximate): 2
+0018.292 (0) Table wp_duplicator_packages: Total rows added: 2 in 0.00 seconds
+0018.293 (0) Table wp_duplicator_packages: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_duplicator_packages.table.gz - 3.5 KB)
+0018.294 (0) Table wp_iwp_backup_status: Total expected rows (approximate): 32
+0018.297 (0) Table wp_iwp_backup_status: Total rows added: 32 in 0.00 seconds
+0018.298 (0) Table wp_iwp_backup_status: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_iwp_backup_status.table.gz - 20.4 KB)
+0018.299 (0) Table wp_iwp_file_list: Total expected rows (approximate): 0
+0018.299 (0) Table wp_iwp_file_list: Data skipped (table is marked as non-essential)
+0018.300 (0) Table wp_iwp_file_list: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_iwp_file_list.table.gz - 0.3 KB)
+0018.301 (0) Table wp_iwp_processed_iterator: Total expected rows (approximate): 34
+0018.302 (0) Table wp_iwp_processed_iterator: Total rows added: 34 in 0.00 seconds
+0018.302 (0) Table wp_iwp_processed_iterator: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_iwp_processed_iterator.table.gz - 0.8 KB)
+0018.303 (0) Table wp_newsletter: Total expected rows (approximate): 950
+0018.328 (0) Table wp_newsletter: Total rows added: 950 in 0.02 seconds
+0018.329 (0) Table wp_newsletter: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_newsletter.table.gz - 42.2 KB)
+0018.330 (0) Table wp_newsletter_api_keys: Total expected rows (approximate): 1
+0018.331 (0) Table wp_newsletter_api_keys: Total rows added: 1 in 0.00 seconds
+0018.331 (0) Table wp_newsletter_api_keys: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_newsletter_api_keys.table.gz - 0.5 KB)
+0018.333 (0) Table wp_newsletter_emails: Total expected rows (approximate): 51
+0018.366 (0) Table wp_newsletter_emails: Total rows added: 61 in 0.03 seconds
+0018.367 (0) Table wp_newsletter_emails: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_newsletter_emails.table.gz - 203 KB)
+0018.368 (0) Table wp_newsletter_sent: Total expected rows (approximate): 19915
+0018.416 (0) Table wp_newsletter_sent: binary mysqldump finished (writes: 35) in 0.05 seconds
+0018.417 (0) Table wp_newsletter_sent: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_newsletter_sent.table.gz - 103.2 KB)
+0018.418 (0) Table wp_newsletter_stats: Total expected rows (approximate): 16273
+0018.480 (0) Table wp_newsletter_stats: binary mysqldump finished (writes: 35) in 0.06 seconds
+0018.481 (0) Table wp_newsletter_stats: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_newsletter_stats.table.gz - 207.5 KB)
+0018.482 (0) Table wp_newsletter_user_logs: Total expected rows (approximate): 503
+0018.486 (0) Table wp_newsletter_user_logs: Total rows added: 552 in 0.00 seconds
+0018.486 (0) Table wp_newsletter_user_logs: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_newsletter_user_logs.table.gz - 6.9 KB)
+0018.488 (0) Table wp_newsletter_user_meta: Total expected rows (approximate): 0
+0018.488 (0) Table wp_newsletter_user_meta: Total rows added: 0 in 0.00 seconds
+0018.489 (0) Table wp_newsletter_user_meta: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_newsletter_user_meta.table.gz - 0.3 KB)
+0018.490 (0) Table wp_pmxe_exports: Total expected rows (approximate): 0
+0018.491 (0) Table wp_pmxe_exports: Total rows added: 0 in 0.00 seconds
+0018.491 (0) Table wp_pmxe_exports: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_pmxe_exports.table.gz - 0.5 KB)
+0018.492 (0) Table wp_pmxe_google_cats: Total expected rows (approximate): 5512
+0018.524 (0) Table wp_pmxe_google_cats: Total rows added: 5371 in 0.03 seconds
+0018.525 (0) Table wp_pmxe_google_cats: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_pmxe_google_cats.table.gz - 75.1 KB)
+0018.526 (0) Table wp_pmxe_posts: Total expected rows (approximate): 0
+0018.527 (0) Table wp_pmxe_posts: Total rows added: 0 in 0.00 seconds
+0018.527 (0) Table wp_pmxe_posts: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_pmxe_posts.table.gz - 0.3 KB)
+0018.529 (0) Table wp_pmxe_templates: Total expected rows (approximate): 0
+0018.529 (0) Table wp_pmxe_templates: Total rows added: 0 in 0.00 seconds
+0018.530 (0) Table wp_pmxe_templates: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_pmxe_templates.table.gz - 0.3 KB)
+0018.531 (0) Table wp_podsrel: Total expected rows (approximate): 0
+0018.532 (0) Table wp_podsrel: Total rows added: 0 in 0.00 seconds
+0018.532 (0) Table wp_podsrel: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_podsrel.table.gz - 0.4 KB)
+0018.533 (0) Table wp_post_smtp_logmeta: Total expected rows (approximate): 0
+0018.534 (0) Table wp_post_smtp_logmeta: Total rows added: 0 in 0.00 seconds
+0018.534 (0) Table wp_post_smtp_logmeta: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_post_smtp_logmeta.table.gz - 0.3 KB)
+0018.536 (0) Table wp_post_smtp_logs: Total expected rows (approximate): 210
+0018.548 (0) Table wp_post_smtp_logs: Total rows added: 250 in 0.01 seconds
+0018.548 (0) Table wp_post_smtp_logs: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_post_smtp_logs.table.gz - 63.3 KB)
+0018.550 (0) Table wp_promag_email_templates: Total expected rows (approximate): 12
+0018.551 (0) Table wp_promag_email_templates: Total rows added: 12 in 0.00 seconds
+0018.551 (0) Table wp_promag_email_templates: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_promag_email_templates.table.gz - 1.2 KB)
+0018.552 (0) Table wp_promag_fields: Total expected rows (approximate): 8
+0018.554 (0) Table wp_promag_fields: Total rows added: 8 in 0.00 seconds
+0018.554 (0) Table wp_promag_fields: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_promag_fields.table.gz - 0.9 KB)
+0018.556 (0) Table wp_promag_friends: Total expected rows (approximate): 0
+0018.556 (0) Table wp_promag_friends: Total rows added: 0 in 0.00 seconds
+0018.557 (0) Table wp_promag_friends: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_promag_friends.table.gz - 0.3 KB)
+0018.558 (0) Table wp_promag_group_requests: Total expected rows (approximate): 0
+0018.559 (0) Table wp_promag_group_requests: Total rows added: 0 in 0.00 seconds
+0018.559 (0) Table wp_promag_group_requests: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_promag_group_requests.table.gz - 0.3 KB)
+0018.560 (0) Table wp_promag_groups: Total expected rows (approximate): 0
+0018.561 (0) Table wp_promag_groups: Total rows added: 1 in 0.00 seconds
+0018.562 (0) Table wp_promag_groups: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_promag_groups.table.gz - 0.8 KB)
+0018.563 (0) Table wp_promag_msg_conversation: Total expected rows (approximate): 0
+0018.564 (0) Table wp_promag_msg_conversation: Total rows added: 0 in 0.00 seconds
+0018.564 (0) Table wp_promag_msg_conversation: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_promag_msg_conversation.table.gz - 0.4 KB)
+0018.565 (0) Table wp_promag_msg_threads: Total expected rows (approximate): 0
+0018.566 (0) Table wp_promag_msg_threads: Total rows added: 0 in 0.00 seconds
+0018.566 (0) Table wp_promag_msg_threads: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_promag_msg_threads.table.gz - 0.3 KB)
+0018.568 (0) Table wp_promag_notification: Total expected rows (approximate): 0
+0018.568 (0) Table wp_promag_notification: Total rows added: 0 in 0.00 seconds
+0018.569 (0) Table wp_promag_notification: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_promag_notification.table.gz - 0.3 KB)
+0018.570 (0) Table wp_promag_paypal_log: Total expected rows (approximate): 0
+0018.571 (0) Table wp_promag_paypal_log: Total rows added: 0 in 0.00 seconds
+0018.571 (0) Table wp_promag_paypal_log: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_promag_paypal_log.table.gz - 0.4 KB)
+0018.572 (0) Table wp_promag_sections: Total expected rows (approximate): 0
+0018.573 (0) Table wp_promag_sections: Total rows added: 1 in 0.00 seconds
+0018.573 (0) Table wp_promag_sections: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_promag_sections.table.gz - 0.4 KB)
+0018.575 (0) Table wp_rm_custom_status: Total expected rows (approximate): 0
+0018.575 (0) Table wp_rm_custom_status: Total rows added: 0 in 0.00 seconds
+0018.576 (0) Table wp_rm_custom_status: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_custom_status.table.gz - 0.3 KB)
+0018.577 (0) Table wp_rm_fields: Total expected rows (approximate): 6
+0018.578 (0) Table wp_rm_fields: Total rows added: 6 in 0.00 seconds
+0018.578 (0) Table wp_rm_fields: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_fields.table.gz - 2.8 KB)
+0018.580 (0) Table wp_rm_forms: Total expected rows (approximate): 0
+0018.581 (0) Table wp_rm_forms: Total rows added: 1 in 0.00 seconds
+0018.581 (0) Table wp_rm_forms: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_forms.table.gz - 2.3 KB)
+0018.582 (0) Table wp_rm_front_users: Total expected rows (approximate): 0
+0018.583 (0) Table wp_rm_front_users: Total rows added: 0 in 0.00 seconds
+0018.583 (0) Table wp_rm_front_users: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_front_users.table.gz - 0.4 KB)
+0018.585 (0) Table wp_rm_login: Total expected rows (approximate): 10
+0018.586 (0) Table wp_rm_login: Total rows added: 10 in 0.00 seconds
+0018.586 (0) Table wp_rm_login: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_login.table.gz - 2.9 KB)
+0018.587 (0) Table wp_rm_login_log: Total expected rows (approximate): 1000
+0018.596 (0) Table wp_rm_login_log: Total rows added: 1000 in 0.01 seconds
+0018.597 (0) Table wp_rm_login_log: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_login_log.table.gz - 16.7 KB)
+0018.598 (0) Table wp_rm_notes: Total expected rows (approximate): 0
+0018.599 (0) Table wp_rm_notes: Total rows added: 0 in 0.00 seconds
+0018.599 (0) Table wp_rm_notes: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_notes.table.gz - 0.4 KB)
+0018.601 (0) Table wp_rm_paypal_fields: Total expected rows (approximate): 0
+0018.602 (0) Table wp_rm_paypal_fields: Total rows added: 0 in 0.00 seconds
+0018.602 (0) Table wp_rm_paypal_fields: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_paypal_fields.table.gz - 0.4 KB)
+0018.603 (0) Table wp_rm_paypal_logs: Total expected rows (approximate): 0
+0018.604 (0) Table wp_rm_paypal_logs: Total rows added: 0 in 0.00 seconds
+0018.604 (0) Table wp_rm_paypal_logs: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_paypal_logs.table.gz - 0.4 KB)
+0018.605 (0) Table wp_rm_resources: Total expected rows (approximate): 0
+0018.606 (0) Table wp_rm_resources: Total rows added: 0 in 0.00 seconds
+0018.606 (0) Table wp_rm_resources: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_resources.table.gz - 0.3 KB)
+0018.608 (0) Table wp_rm_rules: Total expected rows (approximate): 0
+0018.608 (0) Table wp_rm_rules: Total rows added: 0 in 0.00 seconds
+0018.609 (0) Table wp_rm_rules: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_rules.table.gz - 0.3 KB)
+0018.610 (0) Table wp_rm_sent_mails: Total expected rows (approximate): 0
+0018.611 (0) Table wp_rm_sent_mails: Total rows added: 0 in 0.00 seconds
+0018.611 (0) Table wp_rm_sent_mails: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_sent_mails.table.gz - 0.4 KB)
+0018.612 (0) Table wp_rm_sessions: Total expected rows (approximate): 0
+0018.613 (0) Table wp_rm_sessions: Total rows added: 0 in 0.00 seconds
+0018.613 (0) Table wp_rm_sessions: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_sessions.table.gz - 0.3 KB)
+0018.615 (0) Table wp_rm_stats: Total expected rows (approximate): 2612
+0018.635 (0) Table wp_rm_stats: Total rows added: 2603 in 0.02 seconds
+0018.635 (0) Table wp_rm_stats: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_stats.table.gz - 49.3 KB)
+0018.637 (0) Table wp_rm_submission_fields: Total expected rows (approximate): 6633
+0018.681 (0) Table wp_rm_submission_fields: Total rows added: 6453 in 0.04 seconds
+0018.682 (0) Table wp_rm_submission_fields: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_submission_fields.table.gz - 64 KB)
+0018.683 (0) Table wp_rm_submissions: Total expected rows (approximate): 1233
+0018.713 (0) Table wp_rm_submissions: Total rows added: 1270 in 0.03 seconds
+0018.714 (0) Table wp_rm_submissions: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_submissions.table.gz - 81.5 KB)
+0018.715 (0) Table wp_rm_task_exe_log: Total expected rows (approximate): 0
+0018.716 (0) Table wp_rm_task_exe_log: Total rows added: 0 in 0.00 seconds
+0018.717 (0) Table wp_rm_task_exe_log: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_task_exe_log.table.gz - 0.3 KB)
+0018.719 (0) Table wp_rm_tasks: Total expected rows (approximate): 0
+0018.720 (0) Table wp_rm_tasks: Total rows added: 0 in 0.00 seconds
+0018.720 (0) Table wp_rm_tasks: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_tasks.table.gz - 0.4 KB)
+0018.722 (0) Table wp_swpm_members_tbl: Total expected rows (approximate): 0
+0018.723 (0) Table wp_swpm_members_tbl: Total rows added: 0 in 0.00 seconds
+0018.723 (0) Table wp_swpm_members_tbl: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_swpm_members_tbl.table.gz - 0.7 KB)
+0018.725 (0) Table wp_swpm_membership_meta_tbl: Total expected rows (approximate): 0
+0018.726 (0) Table wp_swpm_membership_meta_tbl: Total rows added: 0 in 0.00 seconds
+0018.726 (0) Table wp_swpm_membership_meta_tbl: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_swpm_membership_meta_tbl.table.gz - 0.4 KB)
+0018.728 (0) Table wp_swpm_membership_tbl: Total expected rows (approximate): 2
+0018.729 (0) Table wp_swpm_membership_tbl: Total rows added: 2 in 0.00 seconds
+0018.729 (0) Table wp_swpm_membership_tbl: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_swpm_membership_tbl.table.gz - 0.6 KB)
+0018.731 (0) Table wp_swpm_payments_tbl: Total expected rows (approximate): 0
+0018.732 (0) Table wp_swpm_payments_tbl: Total rows added: 0 in 0.00 seconds
+0018.732 (0) Table wp_swpm_payments_tbl: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_swpm_payments_tbl.table.gz - 0.4 KB)
+0018.734 (0) Table wp_um_metadata: Total expected rows (approximate): 0
+0018.735 (0) Table wp_um_metadata: Total rows added: 0 in 0.00 seconds
+0018.735 (0) Table wp_um_metadata: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_um_metadata.table.gz - 0.4 KB)
+0018.737 (0) Table wp_user_registration_sessions: Total expected rows (approximate): 0
+0018.738 (0) Table wp_user_registration_sessions: Total rows added: 0 in 0.00 seconds
+0018.738 (0) Table wp_user_registration_sessions: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_user_registration_sessions.table.gz - 0.4 KB)
+0018.740 (0) Table wp_uwp_form_extras: Total expected rows (approximate): 5
+0018.741 (0) Table wp_uwp_form_extras: Total rows added: 5 in 0.00 seconds
+0018.742 (0) Table wp_uwp_form_extras: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_uwp_form_extras.table.gz - 0.7 KB)
+0018.743 (0) Table wp_uwp_form_fields: Total expected rows (approximate): 17
+0018.745 (0) Table wp_uwp_form_fields: Total rows added: 17 in 0.00 seconds
+0018.745 (0) Table wp_uwp_form_fields: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_uwp_form_fields.table.gz - 1 KB)
+0018.747 (0) Table wp_uwp_profile_tabs: Total expected rows (approximate): 0
+0018.748 (0) Table wp_uwp_profile_tabs: Total rows added: 0 in 0.00 seconds
+0018.748 (0) Table wp_uwp_profile_tabs: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_uwp_profile_tabs.table.gz - 0.4 KB)
+0018.750 (0) Table wp_wfblockediplog: Total expected rows (approximate): 47
+0018.751 (0) Table wp_wfblockediplog: Total rows added: 47 in 0.00 seconds
+0018.752 (0) Table wp_wfblockediplog: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfblockediplog.table.gz - 0.9 KB)
+0018.754 (0) Table wp_wfblocks7: Total expected rows (approximate): 0
+0018.755 (0) Table wp_wfblocks7: Total rows added: 0 in 0.00 seconds
+0018.755 (0) Table wp_wfblocks7: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfblocks7.table.gz - 0.4 KB)
+0018.757 (0) Table wp_wfconfig: Total expected rows (approximate): 261
+0018.781 (0) Table wp_wfconfig: Total rows added: 263 in 0.02 seconds
+0018.782 (0) Table wp_wfconfig: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfconfig.table.gz - 384.2 KB)
+0018.783 (0) Table wp_wfcrawlers: Total expected rows (approximate): 5
+0018.784 (0) Table wp_wfcrawlers: Total rows added: 5 in 0.00 seconds
+0018.785 (0) Table wp_wfcrawlers: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfcrawlers.table.gz - 0.6 KB)
+0018.787 (0) Table wp_wffilechanges: Total expected rows (approximate): 0
+0018.787 (0) Table wp_wffilechanges: Total rows added: 0 in 0.00 seconds
+0018.788 (0) Table wp_wffilechanges: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wffilechanges.table.gz - 0.3 KB)
+0018.789 (0) Table wp_wffilemods: Total expected rows (approximate): 11669
+0018.916 (0) Table wp_wffilemods: binary mysqldump finished (writes: 37) in 0.13 seconds
+0018.917 (0) Table wp_wffilemods: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wffilemods.table.gz - 1034.2 KB)
+0018.919 (0) Table wp_wfhits: Total expected rows (approximate): 82
+0018.921 (0) Table wp_wfhits: Total rows added: 82 in 0.00 seconds
+0018.922 (0) Table wp_wfhits: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfhits.table.gz - 6.2 KB)
+0018.923 (0) Table wp_wfhoover: Total expected rows (approximate): 0
+0018.924 (0) Table wp_wfhoover: Total rows added: 0 in 0.00 seconds
+0018.924 (0) Table wp_wfhoover: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfhoover.table.gz - 0.3 KB)
+0018.925 (0) Table wp_wfissues: Total expected rows (approximate): 2
+0018.926 (0) Table wp_wfissues: Total rows added: 2 in 0.00 seconds
+0018.927 (0) Table wp_wfissues: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfissues.table.gz - 1.5 KB)
+0018.928 (0) Table wp_wfknownfilelist: Total expected rows (approximate): 11883
+0018.976 (0) Table wp_wfknownfilelist: binary mysqldump finished (writes: 28) in 0.05 seconds
+0018.977 (0) Table wp_wfknownfilelist: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfknownfilelist.table.gz - 118.2 KB)
+0018.978 (0) Table wp_wflivetraffichuman: Total expected rows (approximate): 0
+0018.979 (0) Table wp_wflivetraffichuman: Total rows added: 0 in 0.00 seconds
+0018.979 (0) Table wp_wflivetraffichuman: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wflivetraffichuman.table.gz - 0.3 KB)
+0018.980 (0) Table wp_wflocs: Total expected rows (approximate): 0
+0018.981 (0) Table wp_wflocs: Total rows added: 1 in 0.00 seconds
+0018.981 (0) Table wp_wflocs: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wflocs.table.gz - 0.5 KB)
+0018.983 (0) Table wp_wflogins: Total expected rows (approximate): 2023
+0019.005 (0) Table wp_wflogins: Total rows added: 2002 in 0.02 seconds
+0019.006 (0) Table wp_wflogins: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wflogins.table.gz - 48.2 KB)
+0019.008 (0) Table wp_wfls_2fa_secrets: Total expected rows (approximate): 0
+0019.008 (0) Table wp_wfls_2fa_secrets: Total rows added: 0 in 0.00 seconds
+0019.009 (0) Table wp_wfls_2fa_secrets: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfls_2fa_secrets.table.gz - 0.4 KB)
+0019.010 (0) Table wp_wfls_settings: Total expected rows (approximate): 20
+0019.011 (0) Table wp_wfls_settings: Total rows added: 20 in 0.00 seconds
+0019.012 (0) Table wp_wfls_settings: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfls_settings.table.gz - 0.7 KB)
+0019.013 (0) Table wp_wfnotifications: Total expected rows (approximate): 4
+0019.014 (0) Table wp_wfnotifications: Total rows added: 4 in 0.00 seconds
+0019.014 (0) Table wp_wfnotifications: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfnotifications.table.gz - 0.9 KB)
+0019.015 (0) Table wp_wfpendingissues: Total expected rows (approximate): 0
+0019.016 (0) Table wp_wfpendingissues: Total rows added: 0 in 0.00 seconds
+0019.016 (0) Table wp_wfpendingissues: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfpendingissues.table.gz - 0.4 KB)
+0019.018 (0) Table wp_wfreversecache: Total expected rows (approximate): 0
+0019.018 (0) Table wp_wfreversecache: Total rows added: 1 in 0.00 seconds
+0019.019 (0) Table wp_wfreversecache: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfreversecache.table.gz - 0.4 KB)
+0019.020 (0) Table wp_wfsnipcache: Total expected rows (approximate): 0
+0019.021 (0) Table wp_wfsnipcache: Total rows added: 0 in 0.00 seconds
+0019.021 (0) Table wp_wfsnipcache: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfsnipcache.table.gz - 0.4 KB)
+0019.022 (0) Table wp_wfstatus: Total expected rows (approximate): 992
+0019.029 (0) Table wp_wfstatus: Total rows added: 992 in 0.01 seconds
+0019.029 (0) Table wp_wfstatus: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfstatus.table.gz - 15.8 KB)
+0019.030 (0) Table wp_wftrafficrates: Total expected rows (approximate): 0
+0019.031 (0) Table wp_wftrafficrates: Total rows added: 0 in 0.00 seconds
+0019.031 (0) Table wp_wftrafficrates: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wftrafficrates.table.gz - 0.3 KB)
+0019.033 (0) Table wp_wpgb_cards: Total expected rows (approximate): 3
+0019.034 (0) Table wp_wpgb_cards: Total rows added: 3 in 0.00 seconds
+0019.034 (0) Table wp_wpgb_cards: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wpgb_cards.table.gz - 1.6 KB)
+0019.035 (0) Table wp_wpgb_facets: Total expected rows (approximate): 15
+0019.036 (0) Table wp_wpgb_facets: Total rows added: 15 in 0.00 seconds
+0019.037 (0) Table wp_wpgb_facets: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wpgb_facets.table.gz - 1.9 KB)
+0019.038 (0) Table wp_wpgb_grids: Total expected rows (approximate): 4
+0019.039 (0) Table wp_wpgb_grids: Total rows added: 4 in 0.00 seconds
+0019.039 (0) Table wp_wpgb_grids: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wpgb_grids.table.gz - 1.8 KB)
+0019.040 (0) Table wp_wpgb_index: Total expected rows (approximate): 2852
+0019.056 (0) Table wp_wpgb_index: Total rows added: 2852 in 0.02 seconds
+0019.056 (0) Table wp_wpgb_index: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wpgb_index.table.gz - 20.5 KB)
+0019.058 (0) Table wp_wt_iew_action_history: Total expected rows (approximate): 0
+0019.059 (0) Table wp_wt_iew_action_history: Total rows added: 1 in 0.00 seconds
+0019.059 (0) Table wp_wt_iew_action_history: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wt_iew_action_history.table.gz - 0.6 KB)
+0019.060 (0) Table wp_wt_iew_cron: Total expected rows (approximate): 0
+0019.061 (0) Table wp_wt_iew_cron: Total rows added: 0 in 0.00 seconds
+0019.061 (0) Table wp_wt_iew_cron: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wt_iew_cron.table.gz - 0.4 KB)
+0019.063 (0) Table wp_wt_iew_ftp: Total expected rows (approximate): 0
+0019.063 (0) Table wp_wt_iew_ftp: Total rows added: 0 in 0.00 seconds
+0019.064 (0) Table wp_wt_iew_ftp: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wt_iew_ftp.table.gz - 0.4 KB)
+0019.065 (0) Table wp_wt_iew_mapping_template: Total expected rows (approximate): 0
+0019.066 (0) Table wp_wt_iew_mapping_template: Total rows added: 0 in 0.00 seconds
+0019.066 (0) Table wp_wt_iew_mapping_template: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wt_iew_mapping_template.table.gz - 0.3 KB)
+0019.067 (0) Table wp_yoast_indexable: Total expected rows (approximate): 433
+0019.078 (0) Table wp_yoast_indexable: Total rows added: 433 in 0.01 seconds
+0019.079 (0) Table wp_yoast_indexable: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_yoast_indexable.table.gz - 37.1 KB)
+0019.080 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 427
+0019.082 (0) Table wp_yoast_indexable_hierarchy: Total rows added: 427 in 0.00 seconds
+0019.082 (0) Table wp_yoast_indexable_hierarchy: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_yoast_indexable_hierarchy.table.gz - 1.5 KB)
+0019.084 (0) Table wp_yoast_migrations: Total expected rows (approximate): 23
+0019.084 (0) Table wp_yoast_migrations: Total rows added: 24 in 0.00 seconds
+0019.085 (0) Table wp_yoast_migrations: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_yoast_migrations.table.gz - 0.6 KB)
+0019.086 (0) Table wp_yoast_primary_term: Total expected rows (approximate): 213
+0019.088 (0) Table wp_yoast_primary_term: Total rows added: 213 in 0.00 seconds
+0019.089 (0) Table wp_yoast_primary_term: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_yoast_primary_term.table.gz - 4.2 KB)
+0019.090 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 308
+0019.093 (0) Table wp_yoast_seo_links: Total rows added: 308 in 0.00 seconds
+0019.093 (0) Table wp_yoast_seo_links: finishing file (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_yoast_seo_links.table.gz - 7.6 KB)
+0019.094 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_options.table.gz (1/111): adding to final database dump
+0019.118 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_users.table.gz (2/111): adding to final database dump
+0019.130 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_usermeta.table.gz (3/111): adding to final database dump
+0019.192 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_commentmeta.table.gz (4/111): adding to final database dump
+0019.192 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_comments.table.gz (5/111): adding to final database dump
+0019.192 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_links.table.gz (6/111): adding to final database dump
+0019.193 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_postmeta.table.gz (7/111): adding to final database dump
+0019.219 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_posts.table.gz (8/111): adding to final database dump
+0019.589 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_term_relationships.table.gz (9/111): adding to final database dump
+0019.590 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_term_taxonomy.table.gz (10/111): adding to final database dump
+0019.590 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_termmeta.table.gz (11/111): adding to final database dump
+0019.591 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_terms.table.gz (12/111): adding to final database dump
+0019.592 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_blc_filters.table.gz (13/111): adding to final database dump
+0019.592 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_blc_instances.table.gz (14/111): adding to final database dump
+0019.592 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_blc_links.table.gz (15/111): adding to final database dump
+0019.592 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_blc_synch.table.gz (16/111): adding to final database dump
+0019.593 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_borlabs_cookie_consent_log.table.gz (17/111): adding to final database dump
+0019.593 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_borlabs_cookie_content_blocker.table.gz (18/111): adding to final database dump
+0019.593 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_borlabs_cookie_cookies.table.gz (19/111): adding to final database dump
+0019.594 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_borlabs_cookie_groups.table.gz (20/111): adding to final database dump
+0019.594 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_borlabs_cookie_script_blocker.table.gz (21/111): adding to final database dump
+0019.594 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_borlabs_cookie_statistics.table.gz (22/111): adding to final database dump
+0019.595 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_duplicator_packages.table.gz (23/111): adding to final database dump
+0019.595 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_iwp_backup_status.table.gz (24/111): adding to final database dump
+0019.598 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_iwp_file_list.table.gz (25/111): adding to final database dump
+0019.598 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_iwp_processed_iterator.table.gz (26/111): adding to final database dump
+0019.598 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_newsletter.table.gz (27/111): adding to final database dump
+0019.604 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_newsletter_api_keys.table.gz (28/111): adding to final database dump
+0019.605 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_newsletter_emails.table.gz (29/111): adding to final database dump
+0019.637 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_newsletter_sent.table.gz (30/111): adding to final database dump
+0019.659 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_newsletter_stats.table.gz (31/111): adding to final database dump
+0019.695 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_newsletter_user_logs.table.gz (32/111): adding to final database dump
+0019.696 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_newsletter_user_meta.table.gz (33/111): adding to final database dump
+0019.696 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_pmxe_exports.table.gz (34/111): adding to final database dump
+0019.696 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_pmxe_google_cats.table.gz (35/111): adding to final database dump
+0019.710 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_pmxe_posts.table.gz (36/111): adding to final database dump
+0019.710 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_pmxe_templates.table.gz (37/111): adding to final database dump
+0019.710 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_podsrel.table.gz (38/111): adding to final database dump
+0019.711 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_post_smtp_logmeta.table.gz (39/111): adding to final database dump
+0019.711 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_post_smtp_logs.table.gz (40/111): adding to final database dump
+0019.721 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_promag_email_templates.table.gz (41/111): adding to final database dump
+0019.721 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_promag_fields.table.gz (42/111): adding to final database dump
+0019.722 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_promag_friends.table.gz (43/111): adding to final database dump
+0019.722 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_promag_group_requests.table.gz (44/111): adding to final database dump
+0019.722 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_promag_groups.table.gz (45/111): adding to final database dump
+0019.723 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_promag_msg_conversation.table.gz (46/111): adding to final database dump
+0019.723 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_promag_msg_threads.table.gz (47/111): adding to final database dump
+0019.723 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_promag_notification.table.gz (48/111): adding to final database dump
+0019.723 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_promag_paypal_log.table.gz (49/111): adding to final database dump
+0019.724 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_promag_sections.table.gz (50/111): adding to final database dump
+0019.724 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_custom_status.table.gz (51/111): adding to final database dump
+0019.724 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_fields.table.gz (52/111): adding to final database dump
+0019.725 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_forms.table.gz (53/111): adding to final database dump
+0019.725 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_front_users.table.gz (54/111): adding to final database dump
+0019.725 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_login.table.gz (55/111): adding to final database dump
+0019.726 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_login_log.table.gz (56/111): adding to final database dump
+0019.730 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_notes.table.gz (57/111): adding to final database dump
+0019.730 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_paypal_fields.table.gz (58/111): adding to final database dump
+0019.730 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_paypal_logs.table.gz (59/111): adding to final database dump
+0019.730 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_resources.table.gz (60/111): adding to final database dump
+0019.730 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_rules.table.gz (61/111): adding to final database dump
+0019.731 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_sent_mails.table.gz (62/111): adding to final database dump
+0019.731 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_sessions.table.gz (63/111): adding to final database dump
+0019.731 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_stats.table.gz (64/111): adding to final database dump
+0019.740 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_submission_fields.table.gz (65/111): adding to final database dump
+0019.752 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_submissions.table.gz (66/111): adding to final database dump
+0019.766 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_task_exe_log.table.gz (67/111): adding to final database dump
+0019.766 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_rm_tasks.table.gz (68/111): adding to final database dump
+0019.767 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_swpm_members_tbl.table.gz (69/111): adding to final database dump
+0019.767 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_swpm_membership_meta_tbl.table.gz (70/111): adding to final database dump
+0019.767 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_swpm_membership_tbl.table.gz (71/111): adding to final database dump
+0019.767 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_swpm_payments_tbl.table.gz (72/111): adding to final database dump
+0019.768 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_um_metadata.table.gz (73/111): adding to final database dump
+0019.768 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_user_registration_sessions.table.gz (74/111): adding to final database dump
+0019.768 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_uwp_form_extras.table.gz (75/111): adding to final database dump
+0019.768 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_uwp_form_fields.table.gz (76/111): adding to final database dump
+0019.769 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_uwp_profile_tabs.table.gz (77/111): adding to final database dump
+0019.769 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfblockediplog.table.gz (78/111): adding to final database dump
+0019.769 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfblocks7.table.gz (79/111): adding to final database dump
+0019.770 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfconfig.table.gz (80/111): adding to final database dump
+0019.787 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfcrawlers.table.gz (81/111): adding to final database dump
+0019.787 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wffilechanges.table.gz (82/111): adding to final database dump
+0019.787 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wffilemods.table.gz (83/111): adding to final database dump
+0019.865 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfhits.table.gz (84/111): adding to final database dump
+0019.866 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfhoover.table.gz (85/111): adding to final database dump
+0019.866 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfissues.table.gz (86/111): adding to final database dump
+0019.867 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfknownfilelist.table.gz (87/111): adding to final database dump
+0019.886 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wflivetraffichuman.table.gz (88/111): adding to final database dump
+0019.886 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wflocs.table.gz (89/111): adding to final database dump
+0019.886 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wflogins.table.gz (90/111): adding to final database dump
+0019.893 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfls_2fa_secrets.table.gz (91/111): adding to final database dump
+0019.894 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfls_settings.table.gz (92/111): adding to final database dump
+0019.894 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfnotifications.table.gz (93/111): adding to final database dump
+0019.894 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfpendingissues.table.gz (94/111): adding to final database dump
+0019.894 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfreversecache.table.gz (95/111): adding to final database dump
+0019.895 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfsnipcache.table.gz (96/111): adding to final database dump
+0019.895 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wfstatus.table.gz (97/111): adding to final database dump
+0019.897 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wftrafficrates.table.gz (98/111): adding to final database dump
+0019.897 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wpgb_cards.table.gz (99/111): adding to final database dump
+0019.898 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wpgb_facets.table.gz (100/111): adding to final database dump
+0019.898 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wpgb_grids.table.gz (101/111): adding to final database dump
+0019.899 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wpgb_index.table.gz (102/111): adding to final database dump
+0019.904 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wt_iew_action_history.table.gz (103/111): adding to final database dump
+0019.904 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wt_iew_cron.table.gz (104/111): adding to final database dump
+0019.904 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wt_iew_ftp.table.gz (105/111): adding to final database dump
+0019.905 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_wt_iew_mapping_template.table.gz (106/111): adding to final database dump
+0019.905 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_yoast_indexable.table.gz (107/111): adding to final database dump
+0019.910 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_yoast_indexable_hierarchy.table.gz (108/111): adding to final database dump
+0019.910 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_yoast_migrations.table.gz (109/111): adding to final database dump
+0019.911 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_yoast_primary_term.table.gz (110/111): adding to final database dump
+0019.912 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db-table-wp_yoast_seo_links.table.gz (111/111): adding to final database dump
+0019.913 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db.gz: finished writing out complete database file (5624 KB)
+0019.951 (0) Total database tables backed up: 111 (kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db.gz, size: 5783895, sha256)
+0019.960 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0019.960 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0019.961 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0019.961 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads2.zip: uploads: This file has not yet been successfully uploaded: will queue
+0019.961 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-others.zip: others: This file has not yet been successfully uploaded: will queue
+0019.961 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-more.zip: more: This file has not yet been successfully uploaded: will queue
+0019.961 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db.gz: db: This file has not yet been successfully uploaded: will queue
+0019.962 (0) Saving backup history. Total backup size: 402 MB
+0019.966 (0) Requesting upload of the files that have not yet been successfully uploaded (8)
+0019.967 (0) Cloud backup selection (1/1): googledrive (last)
+0019.967 (0) Beginning dispatch of backup to remote (googledrive)
+0019.968 (0) Google Drive: requesting access token: client_id=790439657936-2d4jrp52jj18stvga07o157k7g8chuus.apps.googleusercontent.com
+0020.034 (0) Google Drive: successfully obtained access token
+0021.610 (0) Google Drive quota usage: used=2355652.8 MB, total=5259264 MB, available=2903611.2 MB
+0021.611 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip: Attempting to upload to Google Drive (into folder id: 19-qw5QP0G_l5SS9saoGldMET_1LvvNJU)
+0022.075 (0) Googledrive chunked upload: 1.7 % uploaded (1048576)
+0022.236 (0) Googledrive chunked upload: 3.4 % uploaded (2097152)
+0022.372 (0) Googledrive chunked upload: 5.1 % uploaded (3145728)
+0022.560 (0) Googledrive chunked upload: 6.8 % uploaded (4194304)
+0022.697 (0) Googledrive chunked upload: 8.4 % uploaded (5242880)
+0022.844 (0) Googledrive chunked upload: 10.1 % uploaded (6291456)
+0022.985 (0) Googledrive chunked upload: 11.8 % uploaded (7340032)
+0023.144 (0) Googledrive chunked upload: 13.5 % uploaded (8388608)
+0023.297 (0) Googledrive chunked upload: 15.2 % uploaded (9437184)
+0023.435 (0) Googledrive chunked upload: 16.9 % uploaded (10485760)
+0023.673 (0) Googledrive chunked upload: 18.6 % uploaded (11534336)
+0023.833 (0) Googledrive chunked upload: 20.3 % uploaded (12582912)
+0023.997 (0) Googledrive chunked upload: 21.9 % uploaded (13631488)
+0024.212 (0) Googledrive chunked upload: 23.6 % uploaded (14680064)
+0024.351 (0) Googledrive chunked upload: 25.3 % uploaded (15728640)
+0024.513 (0) Googledrive chunked upload: 27 % uploaded (16777216)
+0024.649 (0) Googledrive chunked upload: 28.7 % uploaded (17825792)
+0024.799 (0) Googledrive chunked upload: 30.4 % uploaded (18874368)
+0024.917 (0) Googledrive chunked upload: 32.1 % uploaded (19922944)
+0025.077 (0) Googledrive chunked upload: 33.8 % uploaded (20971520)
+0025.299 (0) Googledrive chunked upload: 35.4 % uploaded (22020096)
+0025.420 (0) Googledrive chunked upload: 37.1 % uploaded (23068672)
+0025.553 (0) Googledrive chunked upload: 38.8 % uploaded (24117248)
+0025.685 (0) Googledrive chunked upload: 40.5 % uploaded (25165824)
+0025.835 (0) Googledrive chunked upload: 42.2 % uploaded (26214400)
+0025.984 (0) Googledrive chunked upload: 43.9 % uploaded (27262976)
+0026.113 (0) Googledrive chunked upload: 45.6 % uploaded (28311552)
+0026.298 (0) Googledrive chunked upload: 47.3 % uploaded (29360128)
+0026.497 (0) Googledrive chunked upload: 48.9 % uploaded (30408704)
+0026.675 (0) Googledrive chunked upload: 50.6 % uploaded (31457280)
+0026.933 (0) Googledrive chunked upload: 52.3 % uploaded (32505856)
+0027.074 (0) Googledrive chunked upload: 54 % uploaded (33554432)
+0027.235 (0) Googledrive chunked upload: 55.7 % uploaded (34603008)
+0027.391 (0) Googledrive chunked upload: 57.4 % uploaded (35651584)
+0027.566 (0) Googledrive chunked upload: 59.1 % uploaded (36700160)
+0027.677 (0) Googledrive chunked upload: 60.8 % uploaded (37748736)
+0027.802 (0) Googledrive chunked upload: 62.5 % uploaded (38797312)
+0027.925 (0) Googledrive chunked upload: 64.1 % uploaded (39845888)
+0028.058 (0) Googledrive chunked upload: 65.8 % uploaded (40894464)
+0028.166 (0) Googledrive chunked upload: 67.5 % uploaded (41943040)
+0028.375 (0) Googledrive chunked upload: 69.2 % uploaded (42991616)
+0028.502 (0) Googledrive chunked upload: 70.9 % uploaded (44040192)
+0028.599 (0) Googledrive chunked upload: 72.6 % uploaded (45088768)
+0028.736 (0) Googledrive chunked upload: 74.3 % uploaded (46137344)
+0028.872 (0) Googledrive chunked upload: 76 % uploaded (47185920)
+0029.034 (0) Googledrive chunked upload: 77.6 % uploaded (48234496)
+0029.152 (0) Googledrive chunked upload: 79.3 % uploaded (49283072)
+0029.280 (0) Googledrive chunked upload: 81 % uploaded (50331648)
+0029.432 (0) Googledrive chunked upload: 82.7 % uploaded (51380224)
+0029.562 (0) Googledrive chunked upload: 84.4 % uploaded (52428800)
+0029.795 (0) Googledrive chunked upload: 86.1 % uploaded (53477376)
+0029.970 (0) Googledrive chunked upload: 87.8 % uploaded (54525952)
+0030.102 (0) Googledrive chunked upload: 89.5 % uploaded (55574528)
+0030.247 (0) Googledrive chunked upload: 91.1 % uploaded (56623104)
+0030.385 (0) Googledrive chunked upload: 92.8 % uploaded (57671680)
+0030.535 (0) Googledrive chunked upload: 94.5 % uploaded (58720256)
+0030.677 (0) Googledrive chunked upload: 96.2 % uploaded (59768832)
+0030.804 (0) Googledrive chunked upload: 97.9 % uploaded (60817408)
+0030.963 (0) Googledrive chunked upload: 99.6 % uploaded (61865984)
+0031.966 (0) Googledrive chunked upload: 100 % uploaded (61865984)
+0031.967 (0) OK: Archive kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip uploaded to Google Drive in 10.36 seconds
+0031.968 (0) Recording as successfully uploaded: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip (e7002118ce7b0a2f654e02442c9b28a6)
+0031.983 (0) Deleting local file: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-plugins.zip: OK
+0032.306 (0) Google Drive quota usage: used=2355712.1 MB, total=5259264 MB, available=2903551.9 MB
+0032.307 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip: Attempting to upload to Google Drive (into folder id: 19-qw5QP0G_l5SS9saoGldMET_1LvvNJU)
+0032.767 (0) Googledrive chunked upload: 3.8 % uploaded (1048576)
+0032.903 (0) Googledrive chunked upload: 7.6 % uploaded (2097152)
+0032.992 (0) Googledrive chunked upload: 11.4 % uploaded (3145728)
+0033.148 (0) Googledrive chunked upload: 15.2 % uploaded (4194304)
+0033.285 (0) Googledrive chunked upload: 19 % uploaded (5242880)
+0033.416 (0) Googledrive chunked upload: 22.8 % uploaded (6291456)
+0033.574 (0) Googledrive chunked upload: 26.6 % uploaded (7340032)
+0033.730 (0) Googledrive chunked upload: 30.4 % uploaded (8388608)
+0033.859 (0) Googledrive chunked upload: 34.2 % uploaded (9437184)
+0034.038 (0) Googledrive chunked upload: 38 % uploaded (10485760)
+0034.242 (0) Googledrive chunked upload: 41.8 % uploaded (11534336)
+0034.352 (0) Googledrive chunked upload: 45.6 % uploaded (12582912)
+0034.515 (0) Googledrive chunked upload: 49.4 % uploaded (13631488)
+0034.679 (0) Googledrive chunked upload: 53.2 % uploaded (14680064)
+0034.830 (0) Googledrive chunked upload: 57.1 % uploaded (15728640)
+0034.928 (0) Googledrive chunked upload: 60.9 % uploaded (16777216)
+0035.058 (0) Googledrive chunked upload: 64.7 % uploaded (17825792)
+0035.194 (0) Googledrive chunked upload: 68.5 % uploaded (18874368)
+0035.343 (0) Googledrive chunked upload: 72.3 % uploaded (19922944)
+0035.479 (0) Googledrive chunked upload: 76.1 % uploaded (20971520)
+0035.743 (0) Googledrive chunked upload: 79.9 % uploaded (22020096)
+0035.861 (0) Googledrive chunked upload: 83.7 % uploaded (23068672)
+0036.029 (0) Googledrive chunked upload: 87.5 % uploaded (24117248)
+0036.211 (0) Googledrive chunked upload: 91.3 % uploaded (25165824)
+0036.335 (0) Googledrive chunked upload: 95.1 % uploaded (26214400)
+0036.445 (0) Googledrive chunked upload: 98.9 % uploaded (27262976)
+0037.419 (0) Googledrive chunked upload: 100 % uploaded (27262976)
+0037.421 (0) OK: Archive kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip uploaded to Google Drive in 5.11 seconds
+0037.422 (0) Recording as successfully uploaded: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip (e5f8db623ae323b12b2f774f353235e9)
+0037.429 (0) Deleting local file: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-themes.zip: OK
+0037.741 (0) Google Drive quota usage: used=2355738.4 MB, total=5259264 MB, available=2903525.6 MB
+0037.742 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip: Attempting to upload to Google Drive (into folder id: 19-qw5QP0G_l5SS9saoGldMET_1LvvNJU)
+0038.210 (0) Googledrive chunked upload: 0.5 % uploaded (1048576)
+0038.385 (0) Googledrive chunked upload: 1 % uploaded (2097152)
+0038.540 (0) Googledrive chunked upload: 1.5 % uploaded (3145728)
+0038.673 (0) Googledrive chunked upload: 2 % uploaded (4194304)
+0038.815 (0) Googledrive chunked upload: 2.5 % uploaded (5242880)
+0038.944 (0) Googledrive chunked upload: 3 % uploaded (6291456)
+0039.089 (0) Googledrive chunked upload: 3.5 % uploaded (7340032)
+0039.213 (0) Googledrive chunked upload: 4 % uploaded (8388608)
+0039.359 (0) Googledrive chunked upload: 4.5 % uploaded (9437184)
+0039.570 (0) Googledrive chunked upload: 5 % uploaded (10485760)
+0039.788 (0) Googledrive chunked upload: 5.5 % uploaded (11534336)
+0039.930 (0) Googledrive chunked upload: 6 % uploaded (12582912)
+0040.093 (0) Googledrive chunked upload: 6.5 % uploaded (13631488)
+0040.198 (0) Googledrive chunked upload: 7 % uploaded (14680064)
+0040.339 (0) Googledrive chunked upload: 7.5 % uploaded (15728640)
+0040.499 (0) Googledrive chunked upload: 8 % uploaded (16777216)
+0040.645 (0) Googledrive chunked upload: 8.4 % uploaded (17825792)
+0040.783 (0) Googledrive chunked upload: 8.9 % uploaded (18874368)
+0040.997 (0) Googledrive chunked upload: 9.4 % uploaded (19922944)
+0041.183 (0) Googledrive chunked upload: 9.9 % uploaded (20971520)
+0041.386 (0) Googledrive chunked upload: 10.4 % uploaded (22020096)
+0041.564 (0) Googledrive chunked upload: 10.9 % uploaded (23068672)
+0041.685 (0) Googledrive chunked upload: 11.4 % uploaded (24117248)
+0041.818 (0) Googledrive chunked upload: 11.9 % uploaded (25165824)
+0041.944 (0) Googledrive chunked upload: 12.4 % uploaded (26214400)
+0042.077 (0) Googledrive chunked upload: 12.9 % uploaded (27262976)
+0042.294 (0) Googledrive chunked upload: 13.4 % uploaded (28311552)
+0042.450 (0) Googledrive chunked upload: 13.9 % uploaded (29360128)
+0042.653 (0) Googledrive chunked upload: 14.4 % uploaded (30408704)
+0042.820 (0) Googledrive chunked upload: 14.9 % uploaded (31457280)
+0043.034 (0) Googledrive chunked upload: 15.4 % uploaded (32505856)
+0043.165 (0) Googledrive chunked upload: 15.9 % uploaded (33554432)
+0043.345 (0) Googledrive chunked upload: 16.4 % uploaded (34603008)
+0043.493 (0) Googledrive chunked upload: 16.9 % uploaded (35651584)
+0043.652 (0) Googledrive chunked upload: 17.4 % uploaded (36700160)
+0043.790 (0) Googledrive chunked upload: 17.9 % uploaded (37748736)
+0043.917 (0) Googledrive chunked upload: 18.4 % uploaded (38797312)
+0044.050 (0) Googledrive chunked upload: 18.9 % uploaded (39845888)
+0044.192 (0) Googledrive chunked upload: 19.4 % uploaded (40894464)
+0044.352 (0) Googledrive chunked upload: 19.9 % uploaded (41943040)
+0044.569 (0) Googledrive chunked upload: 20.4 % uploaded (42991616)
+0044.715 (0) Googledrive chunked upload: 20.9 % uploaded (44040192)
+0044.879 (0) Googledrive chunked upload: 21.4 % uploaded (45088768)
+0045.009 (0) Googledrive chunked upload: 21.9 % uploaded (46137344)
+0045.136 (0) Googledrive chunked upload: 22.4 % uploaded (47185920)
+0045.323 (0) Googledrive chunked upload: 22.9 % uploaded (48234496)
+0045.496 (0) Googledrive chunked upload: 23.4 % uploaded (49283072)
+0045.647 (0) Googledrive chunked upload: 23.9 % uploaded (50331648)
+0045.771 (0) Googledrive chunked upload: 24.4 % uploaded (51380224)
+0045.887 (0) Googledrive chunked upload: 24.8 % uploaded (52428800)
+0046.127 (0) Googledrive chunked upload: 25.3 % uploaded (53477376)
+0046.240 (0) Googledrive chunked upload: 25.8 % uploaded (54525952)
+0046.376 (0) Googledrive chunked upload: 26.3 % uploaded (55574528)
+0046.547 (0) Googledrive chunked upload: 26.8 % uploaded (56623104)
+0046.674 (0) Googledrive chunked upload: 27.3 % uploaded (57671680)
+0046.805 (0) Googledrive chunked upload: 27.8 % uploaded (58720256)
+0046.946 (0) Googledrive chunked upload: 28.3 % uploaded (59768832)
+0047.126 (0) Googledrive chunked upload: 28.8 % uploaded (60817408)
+0047.252 (0) Googledrive chunked upload: 29.3 % uploaded (61865984)
+0047.378 (0) Googledrive chunked upload: 29.8 % uploaded (62914560)
+0047.626 (0) Googledrive chunked upload: 30.3 % uploaded (63963136)
+0047.770 (0) Googledrive chunked upload: 30.8 % uploaded (65011712)
+0047.913 (0) Googledrive chunked upload: 31.3 % uploaded (66060288)
+0048.045 (0) Googledrive chunked upload: 31.8 % uploaded (67108864)
+0048.228 (0) Googledrive chunked upload: 32.3 % uploaded (68157440)
+0048.368 (0) Googledrive chunked upload: 32.8 % uploaded (69206016)
+0048.540 (0) Googledrive chunked upload: 33.3 % uploaded (70254592)
+0048.680 (0) Googledrive chunked upload: 33.8 % uploaded (71303168)
+0048.804 (0) Googledrive chunked upload: 34.3 % uploaded (72351744)
+0048.915 (0) Googledrive chunked upload: 34.8 % uploaded (73400320)
+0049.169 (0) Googledrive chunked upload: 35.3 % uploaded (74448896)
+0049.307 (0) Googledrive chunked upload: 35.8 % uploaded (75497472)
+0049.441 (0) Googledrive chunked upload: 36.3 % uploaded (76546048)
+0049.612 (0) Googledrive chunked upload: 36.8 % uploaded (77594624)
+0049.751 (0) Googledrive chunked upload: 37.3 % uploaded (78643200)
+0049.923 (0) Googledrive chunked upload: 37.8 % uploaded (79691776)
+0050.049 (0) Googledrive chunked upload: 38.3 % uploaded (80740352)
+0050.186 (0) Googledrive chunked upload: 38.8 % uploaded (81788928)
+0050.310 (0) Googledrive chunked upload: 39.3 % uploaded (82837504)
+0050.454 (0) Googledrive chunked upload: 39.8 % uploaded (83886080)
+0050.693 (0) Googledrive chunked upload: 40.3 % uploaded (84934656)
+0050.814 (0) Googledrive chunked upload: 40.8 % uploaded (85983232)
+0051.036 (0) Googledrive chunked upload: 41.2 % uploaded (87031808)
+0051.175 (0) Googledrive chunked upload: 41.7 % uploaded (88080384)
+0051.305 (0) Googledrive chunked upload: 42.2 % uploaded (89128960)
+0051.510 (0) Googledrive chunked upload: 42.7 % uploaded (90177536)
+0051.620 (0) Googledrive chunked upload: 43.2 % uploaded (91226112)
+0051.731 (0) Googledrive chunked upload: 43.7 % uploaded (92274688)
+0051.841 (0) Googledrive chunked upload: 44.2 % uploaded (93323264)
+0052.023 (0) Googledrive chunked upload: 44.7 % uploaded (94371840)
+0052.264 (0) Googledrive chunked upload: 45.2 % uploaded (95420416)
+0052.414 (0) Googledrive chunked upload: 45.7 % uploaded (96468992)
+0052.529 (0) Googledrive chunked upload: 46.2 % uploaded (97517568)
+0052.714 (0) Googledrive chunked upload: 46.7 % uploaded (98566144)
+0052.858 (0) Googledrive chunked upload: 47.2 % uploaded (99614720)
+0053.024 (0) Googledrive chunked upload: 47.7 % uploaded (100663296)
+0053.195 (0) Googledrive chunked upload: 48.2 % uploaded (101711872)
+0053.432 (0) Googledrive chunked upload: 48.7 % uploaded (102760448)
+0053.583 (0) Googledrive chunked upload: 49.2 % uploaded (103809024)
+0053.752 (0) Googledrive chunked upload: 49.7 % uploaded (104857600)
+0054.006 (0) Googledrive chunked upload: 50.2 % uploaded (105906176)
+0054.133 (0) Googledrive chunked upload: 50.7 % uploaded (106954752)
+0054.303 (0) Googledrive chunked upload: 51.2 % uploaded (108003328)
+0054.412 (0) Googledrive chunked upload: 51.7 % uploaded (109051904)
+0054.553 (0) Googledrive chunked upload: 52.2 % uploaded (110100480)
+0054.661 (0) Googledrive chunked upload: 52.7 % uploaded (111149056)
+0054.803 (0) Googledrive chunked upload: 53.2 % uploaded (112197632)
+0054.935 (0) Googledrive chunked upload: 53.7 % uploaded (113246208)
+0055.101 (0) Googledrive chunked upload: 54.2 % uploaded (114294784)
+0055.267 (0) Googledrive chunked upload: 54.7 % uploaded (115343360)
+0055.535 (0) Googledrive chunked upload: 55.2 % uploaded (116391936)
+0055.665 (0) Googledrive chunked upload: 55.7 % uploaded (117440512)
+0055.817 (0) Googledrive chunked upload: 56.2 % uploaded (118489088)
+0055.977 (0) Googledrive chunked upload: 56.7 % uploaded (119537664)
+0056.117 (0) Googledrive chunked upload: 57.2 % uploaded (120586240)
+0056.247 (0) Googledrive chunked upload: 57.6 % uploaded (121634816)
+0056.409 (0) Googledrive chunked upload: 58.1 % uploaded (122683392)
+0056.574 (0) Googledrive chunked upload: 58.6 % uploaded (123731968)
+0056.692 (0) Googledrive chunked upload: 59.1 % uploaded (124780544)
+0056.874 (0) Googledrive chunked upload: 59.6 % uploaded (125829120)
+0057.083 (0) Googledrive chunked upload: 60.1 % uploaded (126877696)
+0057.245 (0) Googledrive chunked upload: 60.6 % uploaded (127926272)
+0057.412 (0) Googledrive chunked upload: 61.1 % uploaded (128974848)
+0057.575 (0) Googledrive chunked upload: 61.6 % uploaded (130023424)
+0057.689 (0) Googledrive chunked upload: 62.1 % uploaded (131072000)
+0057.881 (0) Googledrive chunked upload: 62.6 % uploaded (132120576)
+0058.009 (0) Googledrive chunked upload: 63.1 % uploaded (133169152)
+0058.145 (0) Googledrive chunked upload: 63.6 % uploaded (134217728)
+0058.290 (0) Googledrive chunked upload: 64.1 % uploaded (135266304)
+0058.474 (0) Googledrive chunked upload: 64.6 % uploaded (136314880)
+0058.687 (0) Googledrive chunked upload: 65.1 % uploaded (137363456)
+0058.827 (0) Googledrive chunked upload: 65.6 % uploaded (138412032)
+0058.959 (0) Googledrive chunked upload: 66.1 % uploaded (139460608)
+0059.139 (0) Googledrive chunked upload: 66.6 % uploaded (140509184)
+0059.293 (0) Googledrive chunked upload: 67.1 % uploaded (141557760)
+0059.424 (0) Googledrive chunked upload: 67.6 % uploaded (142606336)
+0059.607 (0) Googledrive chunked upload: 68.1 % uploaded (143654912)
+0059.727 (0) Googledrive chunked upload: 68.6 % uploaded (144703488)
+0059.854 (0) Googledrive chunked upload: 69.1 % uploaded (145752064)
+0060.011 (0) Googledrive chunked upload: 69.6 % uploaded (146800640)
+0060.235 (0) Googledrive chunked upload: 70.1 % uploaded (147849216)
+0060.404 (0) Googledrive chunked upload: 70.6 % uploaded (148897792)
+0060.538 (0) Googledrive chunked upload: 71.1 % uploaded (149946368)
+0060.669 (0) Googledrive chunked upload: 71.6 % uploaded (150994944)
+0060.791 (0) Googledrive chunked upload: 72.1 % uploaded (152043520)
+0061.029 (0) Googledrive chunked upload: 72.6 % uploaded (153092096)
+0061.184 (0) Googledrive chunked upload: 73.1 % uploaded (154140672)
+0061.330 (0) Googledrive chunked upload: 73.6 % uploaded (155189248)
+0061.475 (0) Googledrive chunked upload: 74 % uploaded (156237824)
+0061.601 (0) Googledrive chunked upload: 74.5 % uploaded (157286400)
+0061.811 (0) Googledrive chunked upload: 75 % uploaded (158334976)
+0061.949 (0) Googledrive chunked upload: 75.5 % uploaded (159383552)
+0062.141 (0) Googledrive chunked upload: 76 % uploaded (160432128)
+0062.276 (0) Googledrive chunked upload: 76.5 % uploaded (161480704)
+0062.396 (0) Googledrive chunked upload: 77 % uploaded (162529280)
+0062.537 (0) Googledrive chunked upload: 77.5 % uploaded (163577856)
+0062.647 (0) Googledrive chunked upload: 78 % uploaded (164626432)
+0062.802 (0) Googledrive chunked upload: 78.5 % uploaded (165675008)
+0062.966 (0) Googledrive chunked upload: 79 % uploaded (166723584)
+0063.131 (0) Googledrive chunked upload: 79.5 % uploaded (167772160)
+0063.369 (0) Googledrive chunked upload: 80 % uploaded (168820736)
+0063.560 (0) Googledrive chunked upload: 80.5 % uploaded (169869312)
+0063.683 (0) Googledrive chunked upload: 81 % uploaded (170917888)
+0063.793 (0) Googledrive chunked upload: 81.5 % uploaded (171966464)
+0063.950 (0) Googledrive chunked upload: 82 % uploaded (173015040)
+0064.102 (0) Googledrive chunked upload: 82.5 % uploaded (174063616)
+0064.268 (0) Googledrive chunked upload: 83 % uploaded (175112192)
+0064.428 (0) Googledrive chunked upload: 83.5 % uploaded (176160768)
+0064.571 (0) Googledrive chunked upload: 84 % uploaded (177209344)
+0064.685 (0) Googledrive chunked upload: 84.5 % uploaded (178257920)
+0064.898 (0) Googledrive chunked upload: 85 % uploaded (179306496)
+0065.032 (0) Googledrive chunked upload: 85.5 % uploaded (180355072)
+0065.194 (0) Googledrive chunked upload: 86 % uploaded (181403648)
+0065.338 (0) Googledrive chunked upload: 86.5 % uploaded (182452224)
+0065.487 (0) Googledrive chunked upload: 87 % uploaded (183500800)
+0065.595 (0) Googledrive chunked upload: 87.5 % uploaded (184549376)
+0065.746 (0) Googledrive chunked upload: 88 % uploaded (185597952)
+0065.886 (0) Googledrive chunked upload: 88.5 % uploaded (186646528)
+0066.032 (0) Googledrive chunked upload: 89 % uploaded (187695104)
+0066.178 (0) Googledrive chunked upload: 89.5 % uploaded (188743680)
+0066.432 (0) Googledrive chunked upload: 90 % uploaded (189792256)
+0066.604 (0) Googledrive chunked upload: 90.5 % uploaded (190840832)
+0066.713 (0) Googledrive chunked upload: 90.9 % uploaded (191889408)
+0066.858 (0) Googledrive chunked upload: 91.4 % uploaded (192937984)
+0066.994 (0) Googledrive chunked upload: 91.9 % uploaded (193986560)
+0067.140 (0) Googledrive chunked upload: 92.4 % uploaded (195035136)
+0067.287 (0) Googledrive chunked upload: 92.9 % uploaded (196083712)
+0067.422 (0) Googledrive chunked upload: 93.4 % uploaded (197132288)
+0067.574 (0) Googledrive chunked upload: 93.9 % uploaded (198180864)
+0067.722 (0) Googledrive chunked upload: 94.4 % uploaded (199229440)
+0067.972 (0) Googledrive chunked upload: 94.9 % uploaded (200278016)
+0068.122 (0) Googledrive chunked upload: 95.4 % uploaded (201326592)
+0068.278 (0) Googledrive chunked upload: 95.9 % uploaded (202375168)
+0068.423 (0) Googledrive chunked upload: 96.4 % uploaded (203423744)
+0068.564 (0) Googledrive chunked upload: 96.9 % uploaded (204472320)
+0068.711 (0) Googledrive chunked upload: 97.4 % uploaded (205520896)
+0068.821 (0) Googledrive chunked upload: 97.9 % uploaded (206569472)
+0068.968 (0) Googledrive chunked upload: 98.4 % uploaded (207618048)
+0069.115 (0) Googledrive chunked upload: 98.9 % uploaded (208666624)
+0069.262 (0) Googledrive chunked upload: 99.4 % uploaded (209715200)
+0069.493 (0) Googledrive chunked upload: 99.9 % uploaded (210763776)
+0070.423 (0) Googledrive chunked upload: 100 % uploaded (210763776)
+0070.425 (0) OK: Archive kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip uploaded to Google Drive in 32.68 seconds
+0070.426 (0) Recording as successfully uploaded: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip (1cf4d7657ce38791fb1476cbffc7cb23)
+0070.464 (0) Deleting local file: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads.zip: OK
+0070.773 (0) Google Drive quota usage: used=2355939.6 MB, total=5259264 MB, available=2903324.4 MB
+0070.773 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads2.zip: Attempting to upload to Google Drive (into folder id: 19-qw5QP0G_l5SS9saoGldMET_1LvvNJU)
+0071.230 (0) Googledrive chunked upload: 1 % uploaded (1048576)
+0071.388 (0) Googledrive chunked upload: 2 % uploaded (2097152)
+0071.513 (0) Googledrive chunked upload: 2.9 % uploaded (3145728)
+0071.641 (0) Googledrive chunked upload: 3.9 % uploaded (4194304)
+0071.790 (0) Googledrive chunked upload: 4.9 % uploaded (5242880)
+0071.897 (0) Googledrive chunked upload: 5.9 % uploaded (6291456)
+0072.042 (0) Googledrive chunked upload: 6.9 % uploaded (7340032)
+0072.244 (0) Googledrive chunked upload: 7.9 % uploaded (8388608)
+0072.370 (0) Googledrive chunked upload: 8.8 % uploaded (9437184)
+0072.503 (0) Googledrive chunked upload: 9.8 % uploaded (10485760)
+0072.710 (0) Googledrive chunked upload: 10.8 % uploaded (11534336)
+0072.828 (0) Googledrive chunked upload: 11.8 % uploaded (12582912)
+0072.971 (0) Googledrive chunked upload: 12.8 % uploaded (13631488)
+0073.108 (0) Googledrive chunked upload: 13.8 % uploaded (14680064)
+0073.233 (0) Googledrive chunked upload: 14.7 % uploaded (15728640)
+0073.340 (0) Googledrive chunked upload: 15.7 % uploaded (16777216)
+0073.462 (0) Googledrive chunked upload: 16.7 % uploaded (17825792)
+0073.575 (0) Googledrive chunked upload: 17.7 % uploaded (18874368)
+0073.728 (0) Googledrive chunked upload: 18.7 % uploaded (19922944)
+0073.841 (0) Googledrive chunked upload: 19.6 % uploaded (20971520)
+0074.059 (0) Googledrive chunked upload: 20.6 % uploaded (22020096)
+0074.192 (0) Googledrive chunked upload: 21.6 % uploaded (23068672)
+0074.330 (0) Googledrive chunked upload: 22.6 % uploaded (24117248)
+0074.467 (0) Googledrive chunked upload: 23.6 % uploaded (25165824)
+0074.602 (0) Googledrive chunked upload: 24.6 % uploaded (26214400)
+0074.783 (0) Googledrive chunked upload: 25.5 % uploaded (27262976)
+0074.922 (0) Googledrive chunked upload: 26.5 % uploaded (28311552)
+0075.067 (0) Googledrive chunked upload: 27.5 % uploaded (29360128)
+0075.275 (0) Googledrive chunked upload: 28.5 % uploaded (30408704)
+0075.401 (0) Googledrive chunked upload: 29.5 % uploaded (31457280)
+0075.622 (0) Googledrive chunked upload: 30.5 % uploaded (32505856)
+0075.742 (0) Googledrive chunked upload: 31.4 % uploaded (33554432)
+0075.880 (0) Googledrive chunked upload: 32.4 % uploaded (34603008)
+0076.013 (0) Googledrive chunked upload: 33.4 % uploaded (35651584)
+0076.146 (0) Googledrive chunked upload: 34.4 % uploaded (36700160)
+0076.292 (0) Googledrive chunked upload: 35.4 % uploaded (37748736)
+0076.432 (0) Googledrive chunked upload: 36.3 % uploaded (38797312)
+0076.550 (0) Googledrive chunked upload: 37.3 % uploaded (39845888)
+0076.693 (0) Googledrive chunked upload: 38.3 % uploaded (40894464)
+0076.826 (0) Googledrive chunked upload: 39.3 % uploaded (41943040)
+0077.070 (0) Googledrive chunked upload: 40.3 % uploaded (42991616)
+0077.224 (0) Googledrive chunked upload: 41.3 % uploaded (44040192)
+0077.366 (0) Googledrive chunked upload: 42.2 % uploaded (45088768)
+0077.493 (0) Googledrive chunked upload: 43.2 % uploaded (46137344)
+0077.597 (0) Googledrive chunked upload: 44.2 % uploaded (47185920)
+0077.755 (0) Googledrive chunked upload: 45.2 % uploaded (48234496)
+0077.865 (0) Googledrive chunked upload: 46.2 % uploaded (49283072)
+0077.999 (0) Googledrive chunked upload: 47.2 % uploaded (50331648)
+0078.124 (0) Googledrive chunked upload: 48.1 % uploaded (51380224)
+0078.291 (0) Googledrive chunked upload: 49.1 % uploaded (52428800)
+0078.513 (0) Googledrive chunked upload: 50.1 % uploaded (53477376)
+0078.657 (0) Googledrive chunked upload: 51.1 % uploaded (54525952)
+0078.780 (0) Googledrive chunked upload: 52.1 % uploaded (55574528)
+0078.919 (0) Googledrive chunked upload: 53 % uploaded (56623104)
+0079.060 (0) Googledrive chunked upload: 54 % uploaded (57671680)
+0079.180 (0) Googledrive chunked upload: 55 % uploaded (58720256)
+0079.324 (0) Googledrive chunked upload: 56 % uploaded (59768832)
+0079.459 (0) Googledrive chunked upload: 57 % uploaded (60817408)
+0079.590 (0) Googledrive chunked upload: 58 % uploaded (61865984)
+0079.727 (0) Googledrive chunked upload: 58.9 % uploaded (62914560)
+0079.974 (0) Googledrive chunked upload: 59.9 % uploaded (63963136)
+0080.111 (0) Googledrive chunked upload: 60.9 % uploaded (65011712)
+0080.237 (0) Googledrive chunked upload: 61.9 % uploaded (66060288)
+0080.360 (0) Googledrive chunked upload: 62.9 % uploaded (67108864)
+0080.469 (0) Googledrive chunked upload: 63.9 % uploaded (68157440)
+0080.668 (0) Googledrive chunked upload: 64.8 % uploaded (69206016)
+0080.805 (0) Googledrive chunked upload: 65.8 % uploaded (70254592)
+0080.939 (0) Googledrive chunked upload: 66.8 % uploaded (71303168)
+0081.100 (0) Googledrive chunked upload: 67.8 % uploaded (72351744)
+0081.268 (0) Googledrive chunked upload: 68.8 % uploaded (73400320)
+0081.496 (0) Googledrive chunked upload: 69.7 % uploaded (74448896)
+0081.624 (0) Googledrive chunked upload: 70.7 % uploaded (75497472)
+0081.747 (0) Googledrive chunked upload: 71.7 % uploaded (76546048)
+0081.878 (0) Googledrive chunked upload: 72.7 % uploaded (77594624)
+0082.016 (0) Googledrive chunked upload: 73.7 % uploaded (78643200)
+0082.226 (0) Googledrive chunked upload: 74.7 % uploaded (79691776)
+0082.389 (0) Googledrive chunked upload: 75.6 % uploaded (80740352)
+0082.602 (0) Googledrive chunked upload: 76.6 % uploaded (81788928)
+0082.777 (0) Googledrive chunked upload: 77.6 % uploaded (82837504)
+0082.935 (0) Googledrive chunked upload: 78.6 % uploaded (83886080)
+0083.182 (0) Googledrive chunked upload: 79.6 % uploaded (84934656)
+0083.320 (0) Googledrive chunked upload: 80.5 % uploaded (85983232)
+0083.486 (0) Googledrive chunked upload: 81.5 % uploaded (87031808)
+0083.631 (0) Googledrive chunked upload: 82.5 % uploaded (88080384)
+0083.816 (0) Googledrive chunked upload: 83.5 % uploaded (89128960)
+0083.960 (0) Googledrive chunked upload: 84.5 % uploaded (90177536)
+0084.154 (0) Googledrive chunked upload: 85.5 % uploaded (91226112)
+0084.298 (0) Googledrive chunked upload: 86.4 % uploaded (92274688)
+0084.456 (0) Googledrive chunked upload: 87.4 % uploaded (93323264)
+0084.614 (0) Googledrive chunked upload: 88.4 % uploaded (94371840)
+0084.865 (0) Googledrive chunked upload: 89.4 % uploaded (95420416)
+0085.008 (0) Googledrive chunked upload: 90.4 % uploaded (96468992)
+0085.126 (0) Googledrive chunked upload: 91.4 % uploaded (97517568)
+0085.249 (0) Googledrive chunked upload: 92.3 % uploaded (98566144)
+0085.420 (0) Googledrive chunked upload: 93.3 % uploaded (99614720)
+0085.559 (0) Googledrive chunked upload: 94.3 % uploaded (100663296)
+0085.719 (0) Googledrive chunked upload: 95.3 % uploaded (101711872)
+0085.877 (0) Googledrive chunked upload: 96.3 % uploaded (102760448)
+0086.016 (0) Googledrive chunked upload: 97.2 % uploaded (103809024)
+0086.156 (0) Googledrive chunked upload: 98.2 % uploaded (104857600)
+0086.351 (0) Googledrive chunked upload: 99.2 % uploaded (105906176)
+0087.373 (0) Googledrive chunked upload: 100 % uploaded (105906176)
+0087.374 (0) OK: Archive kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads2.zip uploaded to Google Drive in 16.6 seconds
+0087.375 (0) Recording as successfully uploaded: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads2.zip (6904454b41f75bea6750c9512e754267)
+0087.394 (0) Deleting local file: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-uploads2.zip: OK
+0087.676 (0) Google Drive quota usage: used=2356041.4 MB, total=5259264 MB, available=2903222.6 MB
+0087.677 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-others.zip: Attempting to upload to Google Drive (into folder id: 19-qw5QP0G_l5SS9saoGldMET_1LvvNJU)
+0088.103 (0) Googledrive chunked upload: 12.6 % uploaded (1048576)
+0088.224 (0) Googledrive chunked upload: 25.2 % uploaded (2097152)
+0088.332 (0) Googledrive chunked upload: 37.8 % uploaded (3145728)
+0088.456 (0) Googledrive chunked upload: 50.4 % uploaded (4194304)
+0088.599 (0) Googledrive chunked upload: 63 % uploaded (5242880)
+0088.724 (0) Googledrive chunked upload: 75.6 % uploaded (6291456)
+0088.832 (0) Googledrive chunked upload: 88.2 % uploaded (7340032)
+0089.811 (0) Googledrive chunked upload: 100 % uploaded (7340032)
+0089.813 (0) OK: Archive kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-others.zip uploaded to Google Drive in 2.14 seconds
+0089.814 (0) Recording as successfully uploaded: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-others.zip (0b14aada4543ecc21e49c0b7a70cf4d8)
+0089.817 (0) Deleting local file: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-others.zip: OK
+0090.112 (0) Google Drive quota usage: used=2356049.3 MB, total=5259264 MB, available=2903214.7 MB
+0090.113 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-more.zip: Attempting to upload to Google Drive (into folder id: 19-qw5QP0G_l5SS9saoGldMET_1LvvNJU)
+0091.345 (0) Googledrive chunked upload: 100 % uploaded
+0091.346 (0) OK: Archive kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-more.zip uploaded to Google Drive in 1.23 seconds
+0091.347 (0) Recording as successfully uploaded: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-more.zip (24805ae7915ba2b0cfc2fcc747229e8a)
+0091.349 (0) Deleting local file: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-more.zip: OK
+0091.981 (0) Google Drive quota usage: used=2356049.3 MB, total=5259264 MB, available=2903214.7 MB
+0091.982 (0) kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db.gz: Attempting to upload to Google Drive (into folder id: 19-qw5QP0G_l5SS9saoGldMET_1LvvNJU)
+0092.504 (0) Googledrive chunked upload: 18.1 % uploaded (1048576)
+0092.631 (0) Googledrive chunked upload: 36.3 % uploaded (2097152)
+0092.770 (0) Googledrive chunked upload: 54.4 % uploaded (3145728)
+0092.894 (0) Googledrive chunked upload: 72.5 % uploaded (4194304)
+0093.026 (0) Googledrive chunked upload: 90.6 % uploaded (5242880)
+0093.971 (0) Googledrive chunked upload: 100 % uploaded (5242880)
+0093.973 (0) OK: Archive kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db.gz uploaded to Google Drive in 1.99 seconds
+0093.975 (0) Recording as successfully uploaded: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db.gz (befcf72ed18a813440e582dad2187344)
+0093.978 (0) Deleting local file: kinto-training.de_backup_2023-12-24-0255__04eebe8babb5_6.4.2-db.gz: OK
+0094.277 (0) Google Drive quota usage: used=2356054.9 MB, total=5259264 MB, available=2903209.1 MB
+0094.278 (0) kinto-training.de_backup_2023-12-24-0255_KINTO_Aktuell_04eebe8babb5_backup_meta_6.4.2.tmp: Attempting to upload to Google Drive (into folder id: 19-qw5QP0G_l5SS9saoGldMET_1LvvNJU)
+0095.492 (0) Googledrive chunked upload: 100 % uploaded
+0095.494 (0) OK: Archive kinto-training.de_backup_2023-12-24-0255_KINTO_Aktuell_04eebe8babb5_backup_meta_6.4.2.tmp uploaded to Google Drive in 1.22 seconds
+0095.495 (0) Recording as successfully uploaded: kinto-training.de_backup_2023-12-24-0255_KINTO_Aktuell_04eebe8babb5_backup_meta_6.4.2.tmp (2e0a145765fd2f8aeb574b31897ea2e2)
+0095.497 (0) Deleting local file: kinto-training.de_backup_2023-12-24-0255_KINTO_Aktuell_04eebe8babb5_backup_meta_6.4.2.tmp: OK
+0095.505 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=30, retain_db=30
+0095.507 (0) Google Drive: requesting access token: client_id=790439657936-2d4jrp52jj18stvga07o157k7g8chuus.apps.googleusercontent.com
+0095.574 (0) Google Drive: successfully obtained access token
+0097.446 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-plugins.zip: Deletion successful
+0097.842 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-plugins.zip: Deletion failed: file was not found
+0098.117 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-plugins.zip: Deletion failed: file was not found
+0098.384 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-plugins.zip: Deletion failed: file was not found
+0098.725 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-plugins.zip: Deletion failed: file was not found
+0099.055 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-plugins.zip: Deletion failed: file was not found
+0099.336 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-plugins.zip: Deletion failed: file was not found
+0099.337 (0) Google Drive: requesting access token: client_id=790439657936-2d4jrp52jj18stvga07o157k7g8chuus.apps.googleusercontent.com
+0099.406 (0) Google Drive: successfully obtained access token
+0101.784 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-themes.zip: Deletion successful
+0102.077 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-themes.zip: Deletion failed: file was not found
+0102.452 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-themes.zip: Deletion failed: file was not found
+0102.736 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-themes.zip: Deletion failed: file was not found
+0103.020 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-themes.zip: Deletion failed: file was not found
+0103.299 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-themes.zip: Deletion failed: file was not found
+0103.585 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-themes.zip: Deletion failed: file was not found
+0103.586 (0) Google Drive: requesting access token: client_id=790439657936-2d4jrp52jj18stvga07o157k7g8chuus.apps.googleusercontent.com
+0103.656 (0) Google Drive: successfully obtained access token
+0105.436 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-uploads.zip: Deletion successful
+0106.357 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-uploads2.zip: Deletion successful
+0106.665 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-uploads.zip: Deletion failed: file was not found
+0107.043 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-uploads2.zip: Deletion failed: file was not found
+0107.316 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-uploads.zip: Deletion failed: file was not found
+0107.619 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-uploads2.zip: Deletion failed: file was not found
+0107.988 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-uploads.zip: Deletion failed: file was not found
+0108.284 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-uploads2.zip: Deletion failed: file was not found
+0108.556 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-uploads.zip: Deletion failed: file was not found
+0108.820 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-uploads2.zip: Deletion failed: file was not found
+0109.095 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-uploads.zip: Deletion failed: file was not found
+0109.361 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-uploads2.zip: Deletion failed: file was not found
+0109.634 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-uploads.zip: Deletion failed: file was not found
+0109.901 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-uploads2.zip: Deletion failed: file was not found
+0109.903 (0) Google Drive: requesting access token: client_id=790439657936-2d4jrp52jj18stvga07o157k7g8chuus.apps.googleusercontent.com
+0109.975 (0) Google Drive: successfully obtained access token
+0112.273 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-others.zip: Deletion successful
+0112.560 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-others.zip: Deletion failed: file was not found
+0112.848 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-others.zip: Deletion failed: file was not found
+0113.211 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-others.zip: Deletion failed: file was not found
+0113.486 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-others.zip: Deletion failed: file was not found
+0113.797 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-others.zip: Deletion failed: file was not found
+0114.073 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-others.zip: Deletion failed: file was not found
+0114.074 (0) Google Drive: requesting access token: client_id=790439657936-2d4jrp52jj18stvga07o157k7g8chuus.apps.googleusercontent.com
+0114.146 (0) Google Drive: successfully obtained access token
+0116.137 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-more.zip: Deletion successful
+0116.421 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-more.zip: Deletion failed: file was not found
+0116.800 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-more.zip: Deletion failed: file was not found
+0117.023 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-more.zip: Deletion failed: file was not found
+0117.313 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-more.zip: Deletion failed: file was not found
+0117.578 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-more.zip: Deletion failed: file was not found
+0117.856 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-more.zip: Deletion failed: file was not found
+0117.857 (0) Google Drive: requesting access token: client_id=790439657936-2d4jrp52jj18stvga07o157k7g8chuus.apps.googleusercontent.com
+0117.925 (0) Google Drive: successfully obtained access token
+0120.539 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-db.gz: Deletion successful
+0120.847 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-db.gz: Deletion failed: file was not found
+0121.114 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-db.gz: Deletion failed: file was not found
+0121.474 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-db.gz: Deletion failed: file was not found
+0121.752 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-db.gz: Deletion failed: file was not found
+0122.029 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-db.gz: Deletion failed: file was not found
+0122.297 (0) kinto-training.de_backup_2023-11-24-0255__5f671f24dc00_6.4.1-db.gz: Deletion failed: file was not found
+0122.298 (0) Google Drive: requesting access token: client_id=790439657936-2d4jrp52jj18stvga07o157k7g8chuus.apps.googleusercontent.com
+0122.373 (0) Google Drive: successfully obtained access token
+0124.564 (0) kinto-training.de_backup_2023-11-24-0255_KINTO_Aktuell_5f671f24dc00_backup_meta_6.4.1.tmp: Deletion successful
+0124.930 (0) kinto-training.de_backup_2023-11-24-0255_KINTO_Aktuell_5f671f24dc00_backup_meta_6.4.1.tmp: Deletion failed: file was not found
+0125.198 (0) kinto-training.de_backup_2023-11-24-0255_KINTO_Aktuell_5f671f24dc00_backup_meta_6.4.1.tmp: Deletion failed: file was not found
+0125.597 (0) kinto-training.de_backup_2023-11-24-0255_KINTO_Aktuell_5f671f24dc00_backup_meta_6.4.1.tmp: Deletion failed: file was not found
+0125.867 (0) kinto-training.de_backup_2023-11-24-0255_KINTO_Aktuell_5f671f24dc00_backup_meta_6.4.1.tmp: Deletion failed: file was not found
+0126.157 (0) kinto-training.de_backup_2023-11-24-0255_KINTO_Aktuell_5f671f24dc00_backup_meta_6.4.1.tmp: Deletion failed: file was not found
+0126.426 (0) kinto-training.de_backup_2023-11-24-0255_KINTO_Aktuell_5f671f24dc00_backup_meta_6.4.1.tmp: Deletion failed: file was not found
+0126.432 (0) Local files deleted: 1. Remote files deleted: 56
+0126.433 (0) Resume backup (04eebe8babb5, 0): finish run
+0126.434 (0) Decremented the semaphore (fd) by 1
+0126.435 (0) Semaphore (fd) unlocked
+0126.435 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0127.270 (0) The backup apparently succeeded and is now complete

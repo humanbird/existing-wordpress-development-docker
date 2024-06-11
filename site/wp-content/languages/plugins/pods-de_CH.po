@@ -1,0 +1,93 @@
+# Translation of Plugins - Pods &#8211; Custom Content Types and Fields - Stable (latest release) in German (Switzerland)
+# This file is distributed under the same license as the Plugins - Pods &#8211; Custom Content Types and Fields - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-02-16 16:53:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de_CH\n"
+"Project-Id-Version: Plugins - Pods &#8211; Custom Content Types and Fields - Stable (latest release)\n"
+
+#: classes/PodsInit.php:1608
+msgid "%s Archives"
+msgstr "%s Archiv"
+
+#: classes/PodsInit.php:1607
+msgid "Use as featured image"
+msgstr "Als Beitragsbild nutzen"
+
+#: classes/PodsInit.php:1605
+msgid "Set featured image"
+msgstr "Beitragsbild festlegen"
+
+#: classes/PodsInit.php:1606
+msgid "Remove featured image"
+msgstr "Beitragsbild entfernen"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:18 ui/admin/upgrade/upgrade_2_1_0.php:18
+msgid "Getting Started"
+msgstr "Jetzt loslegen"
+
+#: components/Roles/ui/edit.php:49 ui/admin/form-settings.php:85
+#: ui/admin/form.php:128
+msgid "Save"
+msgstr "Sichern"
+
+#: classes/widgets/PodsWidgetForm.php:38 classes/widgets/PodsWidgetForm.php:59
+#: classes/widgets/PodsWidgetForm.php:74
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:47
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:145
+msgid "Submit"
+msgstr "Absenden"
+
+#: classes/fields/file.php:94
+msgid "Upload File"
+msgstr "Datei hochladen"
+
+#: classes/PodsInit.php:1598 classes/PodsInit.php:1624
+msgid "All %s"
+msgstr "Alle %s"
+
+#: classes/PodsAdmin.php:2983 classes/PodsAdmin.php:3020
+msgid "Category"
+msgstr "Kategorie"
+
+#: classes/PodsAdmin.php:3013 ui/admin/settings.php:12
+msgid "Tools"
+msgstr "Werkzeuge"
+
+#: classes/PodsInit.php:1595 classes/PodsInit.php:1596
+#: classes/PodsInit.php:1597 classes/PodsInit.php:1628 classes/PodsUI.php:1062
+#: classes/PodsUI.php:1075 ui/admin/view.php:29 ui/admin/form.php:90
+#: ui/admin/form.php:115 ui/admin/form.php:213
+msgid "View %s"
+msgstr "%s ansehen"
+
+#: classes/PodsInit.php:1600
+msgid "No %s Found"
+msgstr "Kein %s gefunden"
+
+#: classes/Pods.php:4009 classes/PodsAdmin.php:786 classes/PodsForm.php:400
+#: ui/admin/components-admin.php:107
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: classes/PodsI18n.php:154 classes/PodsAdmin.php:302 classes/PodsAdmin.php:329
+#: classes/PodsAdmin.php:330 classes/PodsAdmin.php:376
+#: classes/PodsAdmin.php:395 classes/PodsAdmin.php:554
+#: classes/PodsAdmin.php:1341 classes/PodsAdmin.php:2320
+#: classes/PodsInit.php:1590 classes/PodsUI.php:1046 classes/PodsUI.php:1071
+msgid "Add New"
+msgstr "Hinzufügen"
+
+#: classes/Pods.php:4465 classes/PodsAdmin.php:2325
+#: components/Migrate-Packages/ui/wizard.php:64
+msgid "Export"
+msgstr "Exportieren"
+
+#: classes/Pods.php:4364
+msgid "ID"
+msgstr "ID"

@@ -1,0 +1,33 @@
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_ads_agsdcm,
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_posts_blog_feed_masonry_agsdcm,
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_posts_blog_feed_standard_agsdcm,
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_featured_posts_slider_agsdcm,
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_posts_agsdcm,
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_posts_carousel_agsdcm,
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_tabbed_posts_agsdcm {
+    border-left   : 5px solid #362985 !important;
+    border-radius : 0 5px 5px 0 !important;
+    padding       : 10px 15px 10px 10px;
+}
+
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_ads_agsdcm svg,
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_posts_blog_feed_masonry_agsdcm svg,
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_posts_blog_feed_standard_agsdcm svg,
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_featured_posts_slider_agsdcm svg,
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_posts_agsdcm svg,
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_posts_carousel_agsdcm svg,
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_tabbed_posts_agsdcm svg{
+    height: 16px;
+    fill: #362985;
+}
+
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_ads_agsdcm .et-fb-icon,
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_posts_blog_feed_masonry_agsdcm .et-fb-icon,
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_posts_blog_feed_standard_agsdcm .et-fb-icon,
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_featured_posts_slider_agsdcm .et-fb-icon,
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_posts_agsdcm .et-fb-icon,
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_posts_carousel_agsdcm .et-fb-icon,
+.et-db #et-boc .et-l .et-fb-modules-list li.et_fb_tabbed_posts_agsdcm .et-fb-icon{
+    margin-top: 0px!important;
+    margin-bottom: -4px!important;
+}

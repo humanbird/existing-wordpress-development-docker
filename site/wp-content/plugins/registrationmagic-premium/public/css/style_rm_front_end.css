@@ -1,0 +1,928 @@
+
+
+/* --- Field Manager Fixes ---*/
+
+.rmagic .rmrow#rm_jqnotice_row {
+    padding: 0px 20px;
+}
+
+.rmagic .rmrow#rm_jqnotice_row #rm_jqnotice_text{
+    color:#FF6C6C
+}
+/* woocommerce recaptcha  */
+
+.woocommerce .rm_recaptcha.g-recaptcha {  
+    width: 100%;
+    margin: 12px auto;
+    display: inline-block;
+}
+
+/*--- Stripe payment Form----*/
+
+.rm_stripe_fields {    
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    height: 100%;
+    background-color: #f7f8f9;
+    padding: 30px;
+}
+
+.rm-stripe-card-row {  
+    width: 70%;
+    float: left;
+}
+
+.rm-stripe-card-element{   
+    box-sizing: border-box;
+    height: 40px;
+    padding: 10px 12px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background-color: white;
+    box-shadow: 0 1px 3px 0 #e6ebf1;
+    -webkit-transition: box-shadow 150ms ease;
+    transition: box-shadow 150ms ease;
+    margin-top: 10px;
+}
+
+.rm-stripe-card-element.StripeElement--invalid {
+    border-color: #fa755a;
+}
+
+#rm_stripe_payment_errors {
+    padding: 8px 0;
+    color: #fa755a;
+    font-size: 14px;
+    float: left;
+    width: 100%;    
+}
+
+.rm-stripe-card-row .rm_stripe_label {   
+}
+
+.rm_stripe_fields button.rm_stripe_pay_btn {   
+    float: left;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+
+.rm_stripe_fields button.rm_stripe_pay_btn.rm_req_in_progress {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.rm_stripe_fields button.rm_stripe_pay_btn.rm_req_in_progress { 
+    position: relative;
+    padding-left: 2.5em;
+}
+
+.rm_stripe_fields button.rm_stripe_pay_btn.rm_req_in_progress:before {
+    display: inline-block;
+    content: "";
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 23%;
+    left: 10%;
+    border-radius: 50%;
+    border: solid 2px rgb(228 228 228);
+    border-bottom-color: rgb(6 6 6 / 20%);
+    animation: .8s linear infinite rm-stripe-payment-spinner;
+    transform: translate(-50%, -50%);
+    will-change: transform;
+}
+
+/* spinner animation */
+@keyframes rm-stripe-payment-spinner {
+  0% {
+    transform: rotate(0deg);
+  }
+  
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.rm_stripe_fields button.rm_stripe_pay_btn.rm_req_in_progress{}
+
+.widget_rm_form_widget .rm-stripe-card-row {
+    width: 100%;
+}
+
+.widget_rm_form_widget .rm_stripe_fields button.rm_stripe_pay_btn {
+    margin-left: 0;
+    margin-top: 0px;
+}
+
+.rm-floating-page .rm_stripe_fields {
+    width: 90%;
+    margin: 50px 5%;
+}
+
+.rm-floating-page .rm-stripe-card-row {
+    width: 100%;
+}
+
+.rm-floating-page .rm_stripe_fields button.rm_stripe_pay_btn {
+    margin-left: 0;
+    margin-top: 0px;
+}
+
+
+.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.se-pre-con {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url(../../images/loader-64x/Preloader_2.gif) center no-repeat #fff;
+}
+
+.rmagic .rmcontent.rm-login-wrapper .buttonarea .rm-login-btn-loader {
+    background-image: url(../../images/login-loader.svg);
+    background-repeat: no-repeat;
+    background-size: 16%;
+     background-position: center;
+}
+
+.rmagic .buttonarea input[type='button'][disabled].rm-btn { 
+    display:none
+}
+
+
+/* Woocommerce my account Page form*/
+
+.rmwc-input .rm_ad_container .label {
+    width: 32%;
+}
+
+.rmwc-input .rm_ad_container .label.label-short {
+    width: 19%;
+}
+
+.rmwc-input .rm-flip-clock-wrapper ul {
+    width: 50px;
+}
+
+
+/*----- Price Field -----*/
+
+.rmagic .rm_pricefield_checkbox .rmradio .rm-pricefield-wrap {
+    float: left
+}
+
+.rmagic .rm_pricefield_checkbox .rmradio .rm-pricefield-wrap input[type=checkbox] {
+    float: left;
+    margin-top: 6px;
+}
+
+.rmagic .rm_pricefield_checkbox .rmradio .rm-pricefield-wrap label {
+ 
+}
+
+.rmagic .rm_pricefield_checkbox .rminput .rmradio .rmrow {
+    width: 115px;
+    padding: 0 0 0 8px;
+}
+
+.rmagic .rm_pricefield_checkbox .rminput .rmfield {
+    width: 15px;
+    float: left;
+}
+
+.rmagic .rm_pricefield_checkbox .rminput .rminput {
+    width: 65px; 
+    float: left;
+}
+
+.rmagic .rm_pricefield_checkbox .rminput input[type="number"]  {
+    padding: 0px;
+    text-align: center;
+}
+
+.rm_pricefield_checkbox .rminput .rmradio li {
+    width: 100%;
+    float: left;
+}
+
+.rmagic.rm_layout_label_left .rm_pricefield_checkbox .rmradio .rm-pricefield-wrap {
+    width: auto
+}
+
+.rmagic.rm_layout_label_left .rm_pricefield_checkbox .rminput .rmradio .rmrow {
+    margin-top: -10px;
+}
+
+.rmagic .rm_pricefield_checkbox .rmradio .rm-pricefield-wrap input[type="checkbox"] + label span {
+    width: auto;
+    height: auto;
+    background-image: none;
+}
+
+.rmagic .rmrow.rm_pricefield_row .rminput select#id_rm_multisel_paypal_field,
+.rmagic .rmrow.rm_pricefield_row .rminput input[type="text"] {
+    width: 60%;
+    float: left;
+    margin-bottom: 5px;
+}
+
+.rmagic .rmrow.rm_pricefield_row .rminput select[id*="id_rm_multisel_paypal_field"] {   
+    width: 60%;
+    float: left;
+    margin-bottom: 5px;
+}
+
+.rmagic .rm_pricefield_checkbox .rmradio .rmrow .rminput input[type="number"],
+.rmagic .rm_pricefield_row .rmrow .rminput input[type="number"]{
+    padding: 2px 8px;
+}
+
+.rmagic .rmrow.rm_pricefield_row .rminput .rmrow {
+    width: auto;
+    margin-left: 10px;
+    padding-top: 0px;
+}
+
+.rmagic .rmrow.rm_pricefield_row .rminput .rmrow .rmfield {
+    padding-top: 0px;
+}
+
+.rmagic .rmrow.rm_pricefield_row .rminput .rmrow .rminput {
+    padding-top: 0px;
+}
+
+/*--- Custom Status ----- */
+
+.rm-submission-field-row.rm-submission-status-row {
+    width: 100%;
+}
+
+.rm-submission-status-row .rm-custom_status-wrap {
+    width: 100%;
+}
+
+.rm-submission-status-row .rm-custom_status-wrap .rm-custom-status {
+    position: relative;
+    width: auto;
+    height: 30px;
+    display: inline-block;
+    margin: 0px 25px 10px 0px;
+    font-size: 12px;
+    color: #fff;
+    padding: 5px 9px 5px 18px;
+    line-height: 22px;
+}
+
+.rm-submission-status-row .rm-custom_status-wrap .rm-custom-status span:after {
+    left: 100%;
+    top: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-color: rgba(136, 183, 213, 0);
+    border-left-color: inherit;
+    border-width: 15px;
+    margin-top: -15px;
+}
+
+/*--- Widget Registration Feed field---*/
+
+.rmagic .rmrow .rm-rgfeed,
+.rmwc-field.rmrow .rmwc-input .rm-rgfeed {
+    border: 1px solid #f2f2f2;
+    margin-bottom: -1px;
+    font-size: 13px;
+    padding: 5px 12px;
+    float: left;
+    width: 100%;
+}
+
+.rmagic .rmrow .rm-rgfeed .rm-avatar img,
+.rmwc-field.rmrow .rmwc-input .rm-rgfeed .rm-avatar img {
+    border-radius: 100%;
+    -moz-border-radius: 100%;
+    -webkit-border-radius: 100%;
+    width: 36px;
+    height: 36px;
+}
+
+.rmagic .rmrow .rm-rgfeed .rm-rgfeed-user,
+.rmwc-field.rmrow .rmwc-input .rm-rgfeed .rm-rgfeed-user {
+    font-weight: 700;
+}
+
+.rmagic .rmrow .rm-rgfeed .rm-rgfeed-user-info,
+.rmwc-field.rmrow .rmwc-input .rm-rgfeed .rm-rgfeed-user-info {
+    float: left;
+    padding: 6px 6px 0px 10px;
+    width: 88%;
+    width: calc(100% - 36px);
+}
+
+.rmagic .rmrow .rm-rgfeed .rm-rgfeed-user-info img.rm_country_flag { 
+    width: 16px;
+    height:16px;
+    margin: 0px;
+    margin-left: 5px;
+}
+
+.rmagic .rmrow .rm-rgfeed .rm-avatar,
+.rmwc-field.rmrow .rmwc-input .rm-rgfeed .rm-avatar {
+    float: left;
+    width: 36px;
+    height: 36px;
+}
+
+
+/*--WooCommerce--*/
+
+.rmwc-col-wrap.rmwc-col {
+    float: left;
+    width: 48%;
+    margin-bottom: 20px;
+}
+
+.rmwc-col-wrap .rmwc-field .rmradio {
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+}
+.rmwc-col-wrap .rmwc-field .rmradio li{
+    list-style: none;
+}
+
+.rmwc-col-wrap .rmwc-field .rmradio li span {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    list-style: none;
+    align-content: center;
+
+
+}
+
+.rmwc-col-wrap .rmwc-field .rmradio li{
+    position: relative;
+}
+
+.rmwc-col-wrap .rmwc-field .rmradio li input[type=checkbox]{
+}
+
+.rmwc-col-wrap .rmwc-field .rmradio li label {
+    display: inline-block;
+}
+
+.rmwc-col-wrap .rmwc-field .rmradio li input {
+    margin-right: 5px;
+}
+
+.rmwc-col-wrap .rmwc-field .rmradio li label {
+    margin: 0px;
+}
+
+.rmwc-col-wrap .rmwc-field .rmwc-input .iti--allow-dropdown input[type="text"] {
+    padding-right: 6px !important;
+    padding-left: 52px !important;
+    margin-left: 0;
+}
+
+.rmwc-col-wrap .rmwc-field .intl-tel-input {
+    width: 100%;
+}
+
+.rmwc-col-wrap .rmwc-field .rmwc-input input[type="text"], 
+.rmwc-col-wrap .rmwc-field .rmwc-input input[type="email"], 
+.rmwc-col-wrap .rmwc-field .rmwc-input input[type="url"], 
+.rmwc-col-wrap .rmwc-field .rmwc-input select,
+.rmwc-col-wrap .rmwc-field .rmwc-input textarea {
+    width: 100%;
+}
+
+
+.rmwc-col-wrap .rmwc-field .rmwc-input .rm_ad_container .label {
+    width: 100%;
+    text-align: left;
+    padding: 5px 0px;
+}
+
+/*--WooCommerce--*/
+
+
+/*--- Social Logins---*/
+
+.rmagic .rm-thirdp-login-button-wrap .rm-linkedin-login .rm-third-party-login-btn {
+    background-color: #0077b5;
+}
+
+.rmagic .rm-thirdp-login-button-wrap .rm-microsoft-login .rm-third-party-login-btn {
+    background-color: #0067bf;
+}
+
+.rmagic .rm-thirdp-login-button-wrap .rm-twitter-login .rm-third-party-login-btn {
+    background-color: #1da1f2;
+}
+
+.rmagic .rm-thirdp-login-button-wrap .rm-instagram-login .rm-third-party-login-btn {
+    background-color: #3f729b;
+}
+
+
+.rm_login_widget-wrap .rmagic .rmcontent.rm-login-wrapper .rmrow {
+    width: 100%;
+}
+
+.rmagic .rm-thirdp-login-button-wrap .rm-third-party-login .rm-third-party-login-btn {
+    text-transform: none;
+    font-weight: normal;
+    font-size: 14px;
+    border-radius: 4px;
+    line-height: 26px;
+    font-family: arial;
+    width: 286px;
+    text-align: left;
+    color: #fff;
+    padding: 12px 2px 12px 50px;
+    border: 0px;
+    box-shadow: none;
+    background-image: none;
+    height: auto;
+    margin: 0px;
+}
+
+.rmagic .rm-thirdp-login-button-wrap .rm-google-plus-login .rm-third-party-login-btn span {
+    position: relative;
+    left: inherit;
+    color: inherit;
+    top: inherit;
+    font-size: 15px;
+}
+
+.rmagic .rm-thirdp-login-button-wrap .rm-google-plus-login .rm-third-party-login-btn .abcRioButtonLightBlue {
+    width: 100% !important;
+    height: auto !important;
+    border: 1px solid #e1e1e1;
+    text-align: left;
+    border-radius: 4px;
+    box-shadow: none;
+    padding: 6px 0px;
+}
+
+.rmagic .rm-thirdp-login-button-wrap .rm-google-plus-login .rm-third-party-login-btn .abcRioButtonLightBlue svg { 
+    height: inherit;
+    margin: 0px
+}
+
+.rmagic .rm-thirdp-login-button-wrap .rm-google-plus-login .rm-third-party-login-btn {
+    padding: 0px;
+    line-height: 36px;
+}
+
+/*----Login widget Social buttons-----*/
+
+.rm-login-popup .rm-thirdp-login-button-wrap .rm-third-party-login .rm-third-party-login-btn {  
+    font-size: 0px;
+    width: 40px;
+    height: 40px;
+    border-radius: 2px;
+    line-height: 18px;
+    background-color: transparent;
+    position: relative;
+    float: left;
+    z-index: 2;
+
+}
+
+.rm-login-popup .rm-third-party-login .rm-third-party-login-btn:hover,
+.rm-login-popup .rm-third-party-login .rm-third-party-login-btn:focus,
+.rm-login-popup .rm-third-party-login .rm-third-party-login-btn:active{ 
+    background-color: transparent !important;
+}
+
+.rm-login-popup .rm-thirdp-login-button-wrap .rm-third-party-login span {    
+    width: 40px;
+    height: 40px;
+    margin: 0px;
+    left: 13px;
+    font-size: 25px;
+    line-height: 40px;
+    z-index: 1;
+}
+
+.rm-login-popup .rm-thirdp-login-button-wrap .rm-third-party-login span svg {  
+    width: 22px;
+    margin: 10px 0px 0px 0px;
+    height: 22px;
+}
+
+.rm-login-popup .rm-thirdp-login-button-wrap .rm-google-plus-login .rm-third-party-login-btn .abcRioButtonLightBlue {
+    padding: 0px;
+}
+
+.rm-login-popup .rm-thirdp-login-button-wrap .rm-google-plus-login .rm-third-party-login-btn .abcRioButtonLightBlue span.abcRioButtonContents span {font-size: 0px;}
+
+.rm-login-popup .rm-thirdp-login-button-wrap .rm-google-plus-login .rm-third-party-login-btn .abcRioButtonLightBlue .abcRioButtonIcon {
+    padding: 11px 10px !important;
+}
+
+.rm-login-popup .rm-thirdp-login-button-wrap .rm-facebook-login .rm-third-party-login-btn + span {
+    background-color: #3b5998;
+}
+
+.rm-login-popup .rm-thirdp-login-button-wrap .rm-linkedin-login .rm-third-party-login-btn + span  {
+    background-color: #0077b5;
+}
+
+.rm-login-popup .rm-thirdp-login-button-wrap .rm-microsoft-login .rm-third-party-login-btn + span  {
+    background-color: #0067bf;
+}
+
+.rm-login-popup .rm-thirdp-login-button-wrap .rm-twitter-login .rm-third-party-login-btn + span  {
+    background-color: #1da1f2;
+}
+
+.rm-login-popup .rm-thirdp-login-button-wrap .rm-instagram-login .rm-third-party-login-btn + span  {
+    background-color: #3f729b;
+}
+
+/*User List*/
+
+#rm_user_list:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+#rm_user_list .rm-submission-field-row {
+    float: left;
+    width: 32%;
+    text-align: center;
+    min-height: 220px;
+    padding: 0px;
+    background: #f1eff1;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+#rm_user_list .rm-submission-field-row:nth-child(3n-1) {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#rm_user_list .rm-submission-field-row .rm-user-profile {
+    margin-bottom: 10px;
+    padding-top: 20px;
+    background: #fbf9fb;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+#rm_user_list .rm-submission-field-row .rm-user-profile img { 
+    display: inline-block
+}
+
+#rm-user-load-more {
+    display: block;
+    text-align: center;
+    background-color: #f1eff1;
+}
+
+div#rm-user-load-more:hover {
+    background-color: #CCC;
+    color: #FFF;
+    cursor: pointer;
+}
+
+#rm_user_list .rm-submission-field-row .rm-user-label,
+#rm_user_list .rm-submission-field-row .rm-user-value {
+    font-size: 12px;
+}
+
+@media screen and (max-width: 1200px) {
+    #rm_user_list .rm-user-data {
+        min-width: 65px;
+    }
+}
+
+@media screen and (max-width: 760px) {
+    #rm_user_list .rm-submission-field-row {
+        float: none;
+        width: calc(100% - 50px);
+        min-height: auto;
+    }
+    #rm_user_list .rm-submission-field-row:nth-child(3n-1) {
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    #rm_user_list .rm-submission-field-row .rm-user-value {
+        font-size: 10px;
+    }
+}
+
+
+/* -- FrontEnd Social Login---*/
+
+.rmagic .rm-thirdp-login-button-wrap {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    max-width: 600px;
+    margin: 0px auto;
+}
+
+.rm-google-login {
+    text-transform: none;
+    font-weight: normal;
+    font-size: 14px;
+    border-radius: 4px;
+    line-height: 26px;
+    font-family: arial;
+    max-width: 286px;
+    text-align: left;
+    color: #fff;
+    border: 0px;
+    box-shadow: none;
+    background-image: none;
+    flex: 1 1 30%;
+    height: 60px;
+    margin: 0px 2px;
+}
+
+.rmagic .rm-thirdp-login-button-wrap .rm-third-party-login {
+    flex: 1 1 30%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: baseline;
+    max-width: 286px;
+    height: 60px;
+    margin: 0px 2px;
+}
+
+.rmagic .rm-thirdp-login-button-wrap .rm-third-party-login span {
+    margin-top: 3px;
+}
+
+.rmagic .rm-google-login > div > div > div {
+    height: 50px;
+}
+
+
+
+
+/*--- Multi Form Progress bar---*/
+
+#rmagic-form fieldset {
+    background: white;
+    border: 0 none;
+    border-radius: 3px;
+    box-shadow: 0 0 15px 1px rgb(243 243 243 / 40%);
+    padding: 20px 30px;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+}
+
+
+/*Hide all except first fieldset*/
+
+#rmagic-form fieldset:not(:first-of-type) {
+    display: none;
+}
+
+
+/*inputs*/
+
+#rmagic-form input,
+#rmagic-form textarea,
+#rmagic-form select {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: montserrat;
+    color: #2C3E50;
+    font-size: 13px;
+}
+
+
+/*buttons*/
+
+#rmagic-form .action-button {
+    width: 100px;
+    background: #27AE60;
+    font-weight: bold;
+    color: white;
+    border: 0 none;
+    border-radius: 1px;
+    cursor: pointer;
+    padding: 10px 5px;
+    margin: 10px 5px;
+}
+
+#rmagic-form .action-button:hover,
+#rmagic-form .action-button:focus {
+    box-shadow: 0 0 0 2px white, 0 0 0 3px #27AE60;
+}
+
+
+
+
+/*--- Form Multi Page Progressbar-- */
+
+#rmagic-progressbar {
+    margin-bottom: 50px;
+    overflow: hidden;
+    counter-reset: step;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: stretch;
+    position: relative;
+    z-index: 1;
+}
+
+#rmagic-progressbar ul {
+    padding-left: 0px !important;
+}
+
+#rmagic-progressbar li {
+    list-style-type: none;
+    text-transform: uppercase;
+    width: 50%;
+    float: left;
+    position: relative;
+}
+
+#rmagic-progressbar li span.rm-progressbar-counter:before {
+    content: counter(step);
+    counter-increment: step;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    line-height: 20px;
+    display: block;
+    font-size: 18px;
+    background: rgb(245 245 245 / 43%);
+    margin: 0 auto 5px auto;
+    line-height: 48px;
+}
+
+#rmagic-progressbar li:after {
+    content: '';
+    width: 100%;
+    height: 2px;
+    background: rgb(245 245 245 / 43%);
+    position: absolute;
+    left: -50%;
+    top: 35%;
+    z-index: -1;
+}
+
+#rmagic-progressbar li:first-child:after {
+    content: none;
+}
+
+#rmagic-progressbar li.active .rm-progressbar-counter:before {
+    background: inherit;
+    color: #fff;
+}
+
+ul#rmagic-progressbar li:before{
+    font-size: 0px;
+}
+
+#rmagic-progressbar li.active:first-child .rm-progressbar-counter:after{
+      content: none;
+}
+
+#rmagic-progressbar li.active .rm-progressbar-counter:after {
+  width: 100%;
+    height: 2px;
+    background: inherit;
+    position: absolute;
+    left: -50%;
+    top: 35%;
+    z-index: -1;
+}
+
+#rmagic-progressbar li.active .rm-progressbar-counter:after{
+    content: '';
+}
+
+/*--- Non-page Specific ------*/
+
+div#rm_stat_container,
+div.rm_hide_form_page,
+div.rm_form_page
+{
+    display: none;
+}
+
+/*--Pricing Field----*/
+
+.rmagic-row .rmagic-fields-wrap .rmagic-col .rmagic-field.rm_pricefield_row > .rminput  {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: center;
+}
+
+.rmagic-row .rmagic-fields-wrap .rmagic-col .rmagic-field.rm_pricefield_row .rminput .rmagic-field {
+    display: flex;
+}
+
+.rmagic-row .rmagic-fields-wrap .rmagic-col .rmagic-field.rm_pricefield_row .rminput label.rmfield {
+    text-align: center;
+    width: 24px;
+}
+
+
+/*--Pricing Field End----*/
+
+/*--Timer Field----*/
+
+.rmagic-row .rmagic-fields-wrap .rmagic-field .rminput .rm-flip-clock-wrapper {
+    display: flex;
+}
+
+.rmagic-row .rmagic-fields-wrap .rmagic-col-3 .rmagic-field .rminput .rm-flip-clock-wrapper ul li a div div.rm-clock-inner {
+    font-size: 54%;
+}
+
+/*--Timer Field end----*/
+
+
+/*--Multiform Progressbar---*/
+
+
+ul#rmagic-progressbar {
+    margin: 0px 0px 24px 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+ul#rmagic-progressbar li {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+ul#rmagic-progressbar li .rm-form-page-name {}
+
+@media only screen and (max-width:781px) {
+    
+    #rmagic-progressbar li span.rm-form-page-name{
+        display: none;
+    }
+    
+     #rmagic-progressbar li span.rm-progressbar-counter:before{
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width:479px) {
+    
+    #rmagic-progressbar li span.rm-progressbar-counter:before{
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 16px;
+    }
+}
+
+/*--End Multiform Progressbar---*/
+
+
+/*--Woocommerce---*/
+
+
+.rmwc-input .rmradio {
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+}
+
+
+
+/*---Woocommerce End----*/

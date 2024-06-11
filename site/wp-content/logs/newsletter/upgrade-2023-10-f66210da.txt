@@ -1,0 +1,68 @@
+23-10-2023 10:51:56 - INFO  - 8.0.1 - 120,6 MB/512 MB - [cron] > Start upgrade from 7.0.0
+23-10-2023 10:51:56 - INFO  - 8.0.1 - 121,7 MB/512 MB - [cron] > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+23-10-2023 10:51:56 - INFO  - 8.0.1 - 121,7 MB/512 MB - [cron] > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+23-10-2023 10:51:56 - INFO  - 8.0.1 - 121,6 MB/512 MB - [cron] > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+    [wp_newsletter.source] => Added column wp_newsletter.source
+)
+
+23-10-2023 10:51:56 - INFO  - 8.0.1 - 121,7 MB/512 MB - [cron] > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+23-10-2023 10:51:56 - INFO  - 8.0.1 - 121,6 MB/512 MB - [cron] > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+23-10-2023 10:51:56 - INFO  - 8.0.1 - 121,7 MB/512 MB - [cron] > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+23-10-2023 10:51:56 - INFO  - 8.0.1 - 121,7 MB/512 MB - [cron] > Backing up options of 7.0.0
+23-10-2023 10:51:56 - INFO  - 8.0.1 - 121,8 MB/512 MB - [cron] > Migration to 7.8.0
+23-10-2023 10:51:56 - INFO  - 8.0.1 - 121,9 MB/512 MB - [cron] > End
+27-10-2023 07:07:19 - INFO  - 8.0.2 - 42,8 MB/512 MB - [cron] > Start upgrade from 8.0.1
+27-10-2023 07:07:19 - INFO  - 8.0.2 - 43,7 MB/512 MB - [cron] > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+27-10-2023 07:07:19 - INFO  - 8.0.2 - 43,7 MB/512 MB - [cron] > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+27-10-2023 07:07:19 - INFO  - 8.0.2 - 43,7 MB/512 MB - [cron] > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+27-10-2023 07:07:19 - INFO  - 8.0.2 - 43,7 MB/512 MB - [cron] > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+27-10-2023 07:07:19 - INFO  - 8.0.2 - 43,7 MB/512 MB - [cron] > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+27-10-2023 07:07:19 - INFO  - 8.0.2 - 43,7 MB/512 MB - [cron] > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+27-10-2023 07:07:19 - INFO  - 8.0.2 - 43,7 MB/512 MB - [cron] > Backing up options of 8.0.1
+27-10-2023 07:07:19 - INFO  - 8.0.2 - 43,7 MB/512 MB - [cron] > End

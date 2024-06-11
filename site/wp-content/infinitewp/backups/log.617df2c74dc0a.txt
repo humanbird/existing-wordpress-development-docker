@@ -1,0 +1,186 @@
+0000.001 () Opened log file at time: Sun, 31 Oct 2021 14:41:11 +0000 on https://kinto-training.de
+0000.002 () InfiniteWP WordPress plugin (https://infinitewp.com): 1.9.5 WP: 5.8.1 PHP: 8.0.12 (fpm-fcgi, Linux jungmut1 2.6.32-openvz-042stab145.3-amd64 #1 SMP Thu Jun 11 14:07:11 MSK 2020 x86_64) MySQL: 5.5.5 WPLANG: en_US Server: nginx/1.21.0 safe_mode: 0 max_execution_time: 1200 memory_limit: 512M (used: 20.1M | 22M) multisite: N openssl: OpenSSL 1.1.0l  10 Sep 2019 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.002 () Free space on disk containing InfiniteWP's temporary directory: 166615.3 MB
+0000.002 () Requested to obtain file: timestamp=1635644103, type=plugins, index=0
+0000.003 () File does not yet exist locally - needs downloading
+0000.007 () Requested file from remote service: googledrive: kinto-training.de_backup_2021-10-31-0235__78119c5d8dc3_5.8.1-plugins.zip
+0000.012 () Google Drive: requesting access token: client_id=790439657936-2d4jrp52jj18stvga07o157k7g8chuus.apps.googleusercontent.com
+0000.202 () Google Drive: successfully obtained access token
+0001.533 () Requesting byte range: 0 - 2097152 (0 - 4.5 %)
+0023.769 () Requesting byte range: 2097153 - 4194305 (4.5 - 9 %)
+0046.487 () Requesting byte range: 4194306 - 6291458 (9 - 13.4 %)
+0067.292 () Requesting byte range: 6291459 - 8388611 (13.4 - 17.9 %)
+0089.252 () Requesting byte range: 8388612 - 10485764 (17.9 - 22.4 %)
+0111.314 () Requesting byte range: 10485765 - 12582917 (22.4 - 26.9 %)
+0128.030 () Requesting byte range: 12582918 - 14680070 (26.9 - 31.3 %)
+0149.973 () Requesting byte range: 14680071 - 16777223 (31.3 - 35.8 %)
+0171.773 () Requesting byte range: 16777224 - 18874376 (35.8 - 40.3 %)
+0194.279 () Requesting byte range: 18874377 - 20971529 (40.3 - 44.8 %)
+0210.641 () Requesting byte range: 20971530 - 23068682 (44.8 - 49.2 %)
+0230.575 () Requesting byte range: 23068683 - 25165835 (49.2 - 53.7 %)
+0253.203 () Requesting byte range: 25165836 - 27262988 (53.7 - 58.2 %)
+0275.563 () Requesting byte range: 27262989 - 29360141 (58.2 - 62.7 %)
+0293.814 () Requesting byte range: 29360142 - 31457294 (62.7 - 67.2 %)
+0314.722 () Requesting byte range: 31457295 - 33554447 (67.2 - 71.6 %)
+0337.230 () Requesting byte range: 33554448 - 35651600 (71.6 - 76.1 %)
+0359.411 () Requesting byte range: 35651601 - 37748753 (76.1 - 80.6 %)
+0381.541 () Requesting byte range: 37748754 - 39845906 (80.6 - 85.1 %)
+0399.095 () Requesting byte range: 39845907 - 41943059 (85.1 - 89.5 %)
+0419.342 () Requesting byte range: 41943060 - 44040212 (89.5 - 94 %)
+0442.114 () Requesting byte range: 44040213 - 46137365 (94 - 98.5 %)
+0463.939 () Requesting byte range: 46137366 - 46844678 (98.5 - 100 %)
+0485.683 () Remote fetch was successful (file size: 45746.8 KB)
+0000.000 () Opened log file at time: Sun, 31 Oct 2021 14:49:18 +0000 on https://kinto-training.de
+0000.001 () InfiniteWP WordPress plugin (https://infinitewp.com): 1.9.5 WP: 5.8.1 PHP: 8.0.12 (fpm-fcgi, Linux jungmut1 2.6.32-openvz-042stab145.3-amd64 #1 SMP Thu Jun 11 14:07:11 MSK 2020 x86_64) MySQL: 5.5.5 WPLANG: en_US Server: nginx/1.21.0 safe_mode: 0 max_execution_time: 1200 memory_limit: 512M (used: 20.1M | 10M) multisite: N openssl: OpenSSL 1.1.0l  10 Sep 2019 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.001 () Free space on disk containing InfiniteWP's temporary directory: 166570.2 MB
+0000.002 () Requested to obtain file: timestamp=1635644103, type=themes, index=0
+0000.002 () File does not yet exist locally - needs downloading
+0000.004 () Requested file from remote service: googledrive: kinto-training.de_backup_2021-10-31-0235__78119c5d8dc3_5.8.1-themes.zip
+0000.007 () Google Drive: requesting access token: client_id=790439657936-2d4jrp52jj18stvga07o157k7g8chuus.apps.googleusercontent.com
+0000.103 () Google Drive: successfully obtained access token
+0001.625 () Requesting byte range: 0 - 2097152 (0 - 18.7 %)
+0023.502 () Requesting byte range: 2097153 - 4194305 (18.7 - 37.3 %)
+0045.247 () Requesting byte range: 4194306 - 6291458 (37.3 - 56 %)
+0047.998 () Requesting byte range: 6291459 - 8388611 (56 - 74.7 %)
+0050.258 () Requesting byte range: 8388612 - 10485764 (74.7 - 93.4 %)
+0072.055 () Requesting byte range: 10485765 - 11229787 (93.4 - 100 %)
+0074.244 () Remote fetch was successful (file size: 10966.6 KB)
+0000.000 () Opened log file at time: Sun, 31 Oct 2021 14:50:33 +0000 on https://kinto-training.de
+0000.001 () InfiniteWP WordPress plugin (https://infinitewp.com): 1.9.5 WP: 5.8.1 PHP: 8.0.12 (fpm-fcgi, Linux jungmut1 2.6.32-openvz-042stab145.3-amd64 #1 SMP Thu Jun 11 14:07:11 MSK 2020 x86_64) MySQL: 5.5.5 WPLANG: en_US Server: nginx/1.21.0 safe_mode: 0 max_execution_time: 1200 memory_limit: 512M (used: 20.1M | 6M) multisite: N openssl: OpenSSL 1.1.0l  10 Sep 2019 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.001 () Free space on disk containing InfiniteWP's temporary directory: 166559.3 MB
+0000.002 () Requested to obtain file: timestamp=1635644103, type=uploads, index=0
+0000.002 () File does not yet exist locally - needs downloading
+0000.004 () Requested file from remote service: googledrive: kinto-training.de_backup_2021-10-31-0235__78119c5d8dc3_5.8.1-uploads.zip
+0000.007 () Google Drive: requesting access token: client_id=790439657936-2d4jrp52jj18stvga07o157k7g8chuus.apps.googleusercontent.com
+0000.079 () Google Drive: successfully obtained access token
+0001.636 () Requesting byte range: 0 - 2097152 (0 - 1.3 %)
+0002.241 () Requesting byte range: 2097153 - 4194305 (1.3 - 2.6 %)
+0002.696 () Requesting byte range: 4194306 - 6291458 (2.6 - 3.9 %)
+0003.263 () Requesting byte range: 6291459 - 8388611 (3.9 - 5.1 %)
+0003.796 () Requesting byte range: 8388612 - 10485764 (5.1 - 6.4 %)
+0004.319 () Requesting byte range: 10485765 - 12582917 (6.4 - 7.7 %)
+0004.749 () Requesting byte range: 12582918 - 14680070 (7.7 - 9 %)
+0005.195 () Requesting byte range: 14680071 - 16777223 (9 - 10.3 %)
+0005.829 () Requesting byte range: 16777224 - 18874376 (10.3 - 11.6 %)
+0006.399 () Requesting byte range: 18874377 - 20971529 (11.6 - 12.8 %)
+0006.843 () Requesting byte range: 20971530 - 23068682 (12.8 - 14.1 %)
+0007.267 () Requesting byte range: 23068683 - 25165835 (14.1 - 15.4 %)
+0007.780 () Requesting byte range: 25165836 - 27262988 (15.4 - 16.7 %)
+0008.335 () Requesting byte range: 27262989 - 29360141 (16.7 - 18 %)
+0008.774 () Requesting byte range: 29360142 - 31457294 (18 - 19.3 %)
+0009.237 () Requesting byte range: 31457295 - 33554447 (19.3 - 20.5 %)
+0009.670 () Requesting byte range: 33554448 - 35651600 (20.5 - 21.8 %)
+0010.128 () Requesting byte range: 35651601 - 37748753 (21.8 - 23.1 %)
+0010.721 () Requesting byte range: 37748754 - 39845906 (23.1 - 24.4 %)
+0011.285 () Requesting byte range: 39845907 - 41943059 (24.4 - 25.7 %)
+0011.786 () Requesting byte range: 41943060 - 44040212 (25.7 - 27 %)
+0012.247 () Requesting byte range: 44040213 - 46137365 (27 - 28.3 %)
+0012.714 () Requesting byte range: 46137366 - 48234518 (28.3 - 29.5 %)
+0013.188 () Requesting byte range: 48234519 - 50331671 (29.5 - 30.8 %)
+0013.751 () Requesting byte range: 50331672 - 52428824 (30.8 - 32.1 %)
+0014.201 () Requesting byte range: 52428825 - 54525977 (32.1 - 33.4 %)
+0014.672 () Requesting byte range: 54525978 - 56623130 (33.4 - 34.7 %)
+0015.147 () Requesting byte range: 56623131 - 58720283 (34.7 - 36 %)
+0015.608 () Requesting byte range: 58720284 - 60817436 (36 - 37.2 %)
+0016.268 () Requesting byte range: 60817437 - 62914589 (37.2 - 38.5 %)
+0016.837 () Requesting byte range: 62914590 - 65011742 (38.5 - 39.8 %)
+0017.281 () Requesting byte range: 65011743 - 67108895 (39.8 - 41.1 %)
+0017.848 () Requesting byte range: 67108896 - 69206048 (41.1 - 42.4 %)
+0018.325 () Requesting byte range: 69206049 - 71303201 (42.4 - 43.7 %)
+0018.759 () Requesting byte range: 71303202 - 73400354 (43.7 - 44.9 %)
+0019.289 () Requesting byte range: 73400355 - 75497507 (44.9 - 46.2 %)
+0019.877 () Requesting byte range: 75497508 - 77594660 (46.2 - 47.5 %)
+0020.328 () Requesting byte range: 77594661 - 79691813 (47.5 - 48.8 %)
+0020.883 () Requesting byte range: 79691814 - 81788966 (48.8 - 50.1 %)
+0021.324 () Requesting byte range: 81788967 - 83886119 (50.1 - 51.4 %)
+0021.755 () Requesting byte range: 83886120 - 85983272 (51.4 - 52.7 %)
+0022.282 () Requesting byte range: 85983273 - 88080425 (52.7 - 53.9 %)
+0022.810 () Requesting byte range: 88080426 - 90177578 (53.9 - 55.2 %)
+0023.398 () Requesting byte range: 90177579 - 92274731 (55.2 - 56.5 %)
+0023.981 () Requesting byte range: 92274732 - 94371884 (56.5 - 57.8 %)
+0024.578 () Requesting byte range: 94371885 - 96469037 (57.8 - 59.1 %)
+0025.143 () Requesting byte range: 96469038 - 98566190 (59.1 - 60.4 %)
+0025.741 () Requesting byte range: 98566191 - 100663343 (60.4 - 61.6 %)
+0026.293 () Requesting byte range: 100663344 - 102760496 (61.6 - 62.9 %)
+0026.846 () Requesting byte range: 102760497 - 104857649 (62.9 - 64.2 %)
+0027.291 () Requesting byte range: 104857650 - 106954802 (64.2 - 65.5 %)
+0027.843 () Requesting byte range: 106954803 - 109051955 (65.5 - 66.8 %)
+0028.319 () Requesting byte range: 109051956 - 111149108 (66.8 - 68.1 %)
+0028.753 () Requesting byte range: 111149109 - 113246261 (68.1 - 69.3 %)
+0029.203 () Requesting byte range: 113246262 - 115343414 (69.3 - 70.6 %)
+0029.663 () Requesting byte range: 115343415 - 117440567 (70.6 - 71.9 %)
+0030.226 () Requesting byte range: 117440568 - 119537720 (71.9 - 73.2 %)
+0030.705 () Requesting byte range: 119537721 - 121634873 (73.2 - 74.5 %)
+0031.160 () Requesting byte range: 121634874 - 123732026 (74.5 - 75.8 %)
+0031.694 () Requesting byte range: 123732027 - 125829179 (75.8 - 77.1 %)
+0032.176 () Requesting byte range: 125829180 - 127926332 (77.1 - 78.3 %)
+0032.758 () Requesting byte range: 127926333 - 130023485 (78.3 - 79.6 %)
+0033.347 () Requesting byte range: 130023486 - 132120638 (79.6 - 80.9 %)
+0034.083 () Requesting byte range: 132120639 - 134217791 (80.9 - 82.2 %)
+0034.520 () Requesting byte range: 134217792 - 136314944 (82.2 - 83.5 %)
+0034.987 () Requesting byte range: 136314945 - 138412097 (83.5 - 84.8 %)
+0035.544 () Requesting byte range: 138412098 - 140509250 (84.8 - 86 %)
+0036.179 () Requesting byte range: 140509251 - 142606403 (86 - 87.3 %)
+0036.717 () Requesting byte range: 142606404 - 144703556 (87.3 - 88.6 %)
+0037.281 () Requesting byte range: 144703557 - 146800709 (88.6 - 89.9 %)
+0037.902 () Requesting byte range: 146800710 - 148897862 (89.9 - 91.2 %)
+0038.497 () Requesting byte range: 148897863 - 150995015 (91.2 - 92.5 %)
+0039.030 () Requesting byte range: 150995016 - 153092168 (92.5 - 93.7 %)
+0039.605 () Requesting byte range: 153092169 - 155189321 (93.7 - 95 %)
+0040.189 () Requesting byte range: 155189322 - 157286474 (95 - 96.3 %)
+0040.747 () Requesting byte range: 157286475 - 159383627 (96.3 - 97.6 %)
+0041.294 () Requesting byte range: 159383628 - 161480780 (97.6 - 98.9 %)
+0041.775 () Requesting byte range: 161480781 - 163306478 (98.9 - 100 %)
+0042.354 () Remote fetch was successful (file size: 159479 KB)
+0000.001 () Opened log file at time: Sun, 31 Oct 2021 14:51:21 +0000 on https://kinto-training.de
+0000.001 () InfiniteWP WordPress plugin (https://infinitewp.com): 1.9.5 WP: 5.8.1 PHP: 8.0.12 (fpm-fcgi, Linux jungmut1 2.6.32-openvz-042stab145.3-amd64 #1 SMP Thu Jun 11 14:07:11 MSK 2020 x86_64) MySQL: 5.5.5 WPLANG: en_US Server: nginx/1.21.0 safe_mode: 0 max_execution_time: 1200 memory_limit: 512M (used: 20.1M | 2M) multisite: N openssl: OpenSSL 1.1.0l  10 Sep 2019 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.001 () Free space on disk containing InfiniteWP's temporary directory: 166403.6 MB
+0000.002 () Requested to obtain file: timestamp=1635644103, type=others, index=0
+0000.002 () File does not yet exist locally - needs downloading
+0000.004 () Requested file from remote service: googledrive: kinto-training.de_backup_2021-10-31-0235__78119c5d8dc3_5.8.1-others.zip
+0000.007 () Google Drive: requesting access token: client_id=790439657936-2d4jrp52jj18stvga07o157k7g8chuus.apps.googleusercontent.com
+0000.083 () Google Drive: successfully obtained access token
+0001.607 () Requesting byte range: 0 - 2097152 (0 - 33.4 %)
+0010.983 () Requesting byte range: 2097153 - 4194305 (33.4 - 66.7 %)
+0017.831 () Requesting byte range: 4194306 - 6286861 (66.7 - 100 %)
+0024.573 () Remote fetch was successful (file size: 6139.5 KB)
+0000.000 () Opened log file at time: Sun, 31 Oct 2021 14:51:50 +0000 on https://kinto-training.de
+0000.001 () InfiniteWP WordPress plugin (https://infinitewp.com): 1.9.5 WP: 5.8.1 PHP: 8.0.12 (fpm-fcgi, Linux jungmut1 2.6.32-openvz-042stab145.3-amd64 #1 SMP Thu Jun 11 14:07:11 MSK 2020 x86_64) MySQL: 5.5.5 WPLANG: en_US Server: nginx/1.21.0 safe_mode: 0 max_execution_time: 1200 memory_limit: 512M (used: 20.1M | 2M) multisite: N openssl: OpenSSL 1.1.0l  10 Sep 2019 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.001 () Free space on disk containing InfiniteWP's temporary directory: 166397.7 MB
+0000.002 () Requested to obtain file: timestamp=1635644103, type=db, index=0
+0000.002 () File does not yet exist locally - needs downloading
+0000.004 () Requested file from remote service: googledrive: kinto-training.de_backup_2021-10-31-0235__78119c5d8dc3_5.8.1-db.gz
+0000.007 () Google Drive: requesting access token: client_id=790439657936-2d4jrp52jj18stvga07o157k7g8chuus.apps.googleusercontent.com
+0000.073 () Google Drive: successfully obtained access token
+0001.303 () Requesting byte range: 0 - 2097152 (0 - 46.2 %)
+0004.924 () Requesting byte range: 2097153 - 4194305 (46.2 - 92.5 %)
+0006.220 () Requesting byte range: 4194306 - 4534879 (92.5 - 100 %)
+0007.628 () Remote fetch was successful (file size: 4428.6 KB)
+0000.000 () Opened log file at time: Sun, 31 Oct 2021 14:51:58 +0000 on https://kinto-training.de
+0000.001 () InfiniteWP WordPress plugin (https://infinitewp.com): 1.9.5 WP: 5.8.1 PHP: 8.0.12 (fpm-fcgi, Linux jungmut1 2.6.32-openvz-042stab145.3-amd64 #1 SMP Thu Jun 11 14:07:11 MSK 2020 x86_64) MySQL: 5.5.5 WPLANG: en_US Server: nginx/1.21.0 safe_mode: 0 max_execution_time: 1200 memory_limit: 512M (used: 20.1M | 2M) multisite: N openssl: OpenSSL 1.1.0l  10 Sep 2019 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.001 () Free space on disk containing InfiniteWP's temporary directory: 166393.3 MB
+0000.002 () Requested to obtain file: timestamp=1635644103, type=more, index=0
+0000.002 () File does not yet exist locally - needs downloading
+0000.004 () Requested file from remote service: googledrive: kinto-training.de_backup_2021-10-31-0235__78119c5d8dc3_5.8.1-more.zip
+0000.007 () Google Drive: requesting access token: client_id=790439657936-2d4jrp52jj18stvga07o157k7g8chuus.apps.googleusercontent.com
+0000.076 () Google Drive: successfully obtained access token
+0001.275 () Requesting byte range: 0 - 2645 (0 - 100 %)
+0001.896 () Remote fetch was successful (file size: 2.6 KB)
+0000.001 () Opened log file at time: Sun, 31 Oct 2021 14:52:01 +0000 on https://kinto-training.de
+0000.002 () InfiniteWP WordPress plugin (https://infinitewp.com): 1.9.5 WP: 5.8.1 PHP: 8.0.12 (fpm-fcgi, Linux jungmut1 2.6.32-openvz-042stab145.3-amd64 #1 SMP Thu Jun 11 14:07:11 MSK 2020 x86_64) MySQL: 5.5.5 WPLANG: en_US Server: nginx/1.21.0 safe_mode: 0 max_execution_time: 1200 memory_limit: 512M (used: 20.1M | 2M) multisite: N openssl: OpenSSL 1.1.0l  10 Sep 2019 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.002 () Free space on disk containing InfiniteWP's temporary directory: 166393.2 MB
+0000.003 () Requested to obtain file: timestamp=1635644103, type=backup_file_basename, index=0
+0000.003 () File does not yet exist locally - needs downloading
+0000.005 () Requested file from remote service: googledrive: kinto-training.de_backup_2021-10-31-0235_KINTO_Aktuell_78119c5d8dc3_backup_meta_5.8.1.tmp
+0000.008 () Google Drive: requesting access token: client_id=790439657936-2d4jrp52jj18stvga07o157k7g8chuus.apps.googleusercontent.com
+0000.074 () Google Drive: successfully obtained access token
+0001.251 () Requesting byte range: 0 - 2139 (0 - 100 %)
+0001.961 () Remote fetch was successful (file size: 2.1 KB)
+0000.000 () Opened log file at time: Sun, 31 Oct 2021 14:52:03 +0000 on https://kinto-training.de
+0000.001 () InfiniteWP WordPress plugin (https://infinitewp.com): 1.9.5 WP: 5.8.1 PHP: 8.0.12 (fpm-fcgi, Linux jungmut1 2.6.32-openvz-042stab145.3-amd64 #1 SMP Thu Jun 11 14:07:11 MSK 2020 x86_64) MySQL: 5.5.5 WPLANG: en_US Server: nginx/1.21.0 safe_mode: 0 max_execution_time: 1200 memory_limit: 512M (used: 20.1M | 2M) multisite: N openssl: OpenSSL 1.1.0l  10 Sep 2019 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.001 () Free space on disk containing InfiniteWP's temporary directory: 166393.2 MB
+0000.002 () Requested to obtain file: timestamp=1635644103, type=backup_file_basename, index=
+0000.000 () Opened log file at time: Sun, 31 Oct 2021 14:53:22 +0000 on https://kinto-training.de
+0000.001 () InfiniteWP WordPress plugin (https://infinitewp.com): 1.9.5 WP: 5.8.1 PHP: 8.0.12 (fpm-fcgi, Linux jungmut1 2.6.32-openvz-042stab145.3-amd64 #1 SMP Thu Jun 11 14:07:11 MSK 2020 x86_64) MySQL: 5.5.5 WPLANG: en_US Server: nginx/1.21.0 safe_mode: 0 max_execution_time: 1200 memory_limit: 512M (used: 20.1M | 22M) multisite: N openssl: OpenSSL 1.1.0l  10 Sep 2019 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.001 () Free space on disk containing InfiniteWP's temporary directory: 166392.2 MB
+0000.002 () Requested to obtain file: timestamp=1635644103, type=backup_file_basename, index=

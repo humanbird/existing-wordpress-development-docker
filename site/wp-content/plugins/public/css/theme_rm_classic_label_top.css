@@ -1,0 +1,32 @@
+/*----- Price Field -----*/
+
+.rmagic.rm_layout_label_top .rm_pricefield_checkbox .rmradio .rm-pricefield-wrap {
+    width:auto
+}
+
+.rmagic.rm_layout_label_top .rm_pricefield_checkbox .rminput .rmradio .rmrow { 
+    margin-top: 0px;
+}
+
+
+
+
+/*--- Theme Fixes ---*/
+
+.rmagic .rmcontent.rm-login-wrapper .rm_forgot_pass a {  
+    color: #7b7b7b;
+    color: rgb(123, 123, 123);
+}
+
+/*--- Theme Fixes End ---*/
+
+.rmagic.rm_theme_classic {
+    border: 0px;
+}
+
+.rmagic.rm_theme_classic fieldset.rmfieldset {
+    width: 100%;
+    background-color: #f9f9f9;
+    padding: 30px 15px;
+    border-top: 8px solid black;
+}

@@ -1,0 +1,16 @@
+.rm-form-field-invalid-msg {
+    width:100%;
+}
+
+.rm-two-columns-wrap .rm_pricefield_row .rmrow .rmfield{ padding-top: 5px; width: auto;}
+
+/*--  Form Fixes-- */
+
+.rmrow.rm_pricefield_row .rminput .rmrow  { width: 100%;}
+
+/*--- Theme Fixes ---*/
+
+.rmagic .rmcontent.rm-login-wrapper .rm_forgot_pass a {  
+    color: #7b7b7b;
+    color: rgb(123, 123, 123);
+}

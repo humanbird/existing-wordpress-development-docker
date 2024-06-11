@@ -1,0 +1,85 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 7. December 2021 16:28
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.3
+WORDPRESS:	5.8.2
+PHP INFO:	8.0.12 | SAPI: fpm-fcgi
+SERVER:		nginx/1.21.0 
+PHP TIME LIMIT: [1200] not allowed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 30MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20210224_kinto_71a426f08824fdc74424_20211207162845_database.sql
+SQL FILE SIZE: 31.86MB (33403068)
+SQL FILE TIME: 2021-12-07 16:28:56
+SQL RUNTIME: 0.31 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /var/www/clients/client4/web3/web
+ARCHIVE FILE: 20210224_kinto_71a426f08824fdc74424_20211207162845_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	670.69MB
+STATS:	Dirs 3,021 | Files 20,572
+SQL ADDED: 20210224_kinto_71a426f08824fdc74424_20211207162845_database.sql
+ZipArchive Object
+(
+    [lastId] => 23592
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 23593
+    [filename] => /var/www/clients/client4/web3/web/wp-content/backups-dup-lite/tmp/20210224_kinto_71a426f08824fdc74424_20211207162845_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 23592
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 402.56MB
+ARCHIVE RUNTIME: 31.03 sec.
+MEMORY STACK: 36.82MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip /var/www/clients/client4/web3/web/wp-content/backups-dup-lite/tmp/20210224_kinto_71a426f08824fdc74424_20211207162845_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 31.86MB
+INSTALLER FILE: 64.25KB
+ARCHIVE FILE: 403.68MB 
+ERWARTETE MENGE DATEIEN/VERZEICHNISSE: 23,593
+TATSÄCHLICHE MENGE DATEIEN/VERZEICHNISSE: 23,592
+ARCHIV-KONSISTENZ-TEST: Bestanden
+
+********************************************************************************
+RECORD ID:[5]
+TOTAL PROCESS RUNTIME: 32.35 sec.
+PEAK PHP MEMORY USED: 42.82MB
+DONE PROCESSING => 20210224_kinto 7. December 2021 16:29
+

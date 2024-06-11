@@ -1,0 +1,7662 @@
+Migration log: https://kinto-training.de
+Info, Error
+[03-11-2023 08:35:42] ->Info: Creating table
+[03-11-2023 08:35:42] ->Info: Table created
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Have old logs
+[03-11-2023 08:35:52] ->Info: `get_old_logs` Log IDs: 11986,11988,11990,11992,11994,11996,11997,11998,12000,12001,12003,12005,12006,12011,12012,12013,12015,12016,12017,12019,12020,12022,12023,12024,12025,12026,12028,12030,12032,12034,12036,12038,12040,12042,12043,12047,12049,12050,12051,12053,12054,12056,12057,12059,12060,12061,12062,12063,12064,12065,12066,12067,12068,12069,12070,12071,12072,12074,12075,12076,12078,12082,12083,12084,12085,12086,12087,12088,12089,12090,12091,12093,12094,12095,12097,12098,12099,12100,12101,12102,12103,12104,12105,12106,12107,12108,12109,12110,12112,12113,12114,12116,12118,12119,12121,12122,12124,12126,12128,12129,12131,12132,12133,12134,12136,12137,12138,12139,12140,12141,12142,12143,12144,12145,12146,12147,12148,12149,12150,12151,12152,12153,12154,12155,12156,12158,12159,12160,12162,12164,12166,12168,12170,12189,12191,12192,12194,12195,12203,12205,12207,12208,12210,12211,12212,12213,12214,12216,12217,12219,12220,12221,12223,12224,12226,12227,12228,12230,12231,12232,12233,12234,12236,12237,12239,12240,12241,12245,12247,12248,12250,12252,12254,12255,12257,12258,12260,12264,12266,12267,12269,12270,12271,12285,12286,12287,12288,12290,12291,12293,12294,12296,12299,12308,12309,12311,12312,12313,12314,12315,12316,12317,12318,12320,12321,12322,12323,12324,12325,12327,12329,12330,12332,12333,12334,12335,12336,12337,12338,12339,12340,12341,12342,12343,12344,12345,12346,12347,12348,12349,12350,12351,12352,12354,12355,12357,12359,12360,12362,12363,12374,12375,12376,12377,12378,12379,12380,12381,12382,12383
+[03-11-2023 08:35:52] ->Info: `get_old_logs` Logs Meta 
+[03-11-2023 08:35:52] ->Info: `get_old_logs` Prepared Logs
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:52] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:53] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:54] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:35:55] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:35:55] ->Info: `migrate_logs` All logs migrated
+[03-11-2023 08:36:08] ->Info: `switch_back` Switching to old system
+[03-11-2023 08:37:32] ->Info: Creating table
+[03-11-2023 08:37:32] ->Info: Table created
+[03-11-2023 08:41:59] ->Info: `migrate_logs` Have old logs
+[03-11-2023 08:41:59] ->Info: `get_old_logs` Log IDs: 12403,12405,12407
+[03-11-2023 08:41:59] ->Info: `get_old_logs` Logs Meta 
+[03-11-2023 08:41:59] ->Info: `get_old_logs` Prepared Logs
+[03-11-2023 08:41:59] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:41:59] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:41:59] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:41:59] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:41:59] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:41:59] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:41:59] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:41:59] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => transport_uri
+    [5] => original_to
+    [6] => original_subject
+    [7] => original_message
+    [8] => original_headers
+    [9] => session_transcript
+)
+
+[03-11-2023 08:41:59] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:41:59] ->Info: `migrate_logs` All logs migrated
+[03-11-2023 08:42:38] ->Info: `switch_back` Switching to old system
+[03-11-2023 08:42:47] ->Info: `switch_to_new` Switching to new system
+[03-11-2023 08:43:06] ->Info: `switch_back` Switching to old system
+[03-11-2023 08:44:01] ->Info: Creating table
+[03-11-2023 08:44:01] ->Info: Table created
+[03-11-2023 08:44:06] ->Info: `migrate_logs` Have old logs
+[03-11-2023 08:44:06] ->Info: `get_old_logs` Log IDs: 12408
+[03-11-2023 08:44:06] ->Info: `get_old_logs` Logs Meta 
+[03-11-2023 08:44:06] ->Info: `get_old_logs` Prepared Logs
+[03-11-2023 08:44:06] ->Info: `migrate_logs` Remove extra keys if contains: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:44:06] ->Info: `migrate_logs` Migrating Log: Array
+(
+    [0] => solution
+    [1] => time
+    [2] => success
+    [3] => from_header
+    [4] => to_header
+    [5] => transport_uri
+    [6] => original_to
+    [7] => original_subject
+    [8] => original_message
+    [9] => original_headers
+    [10] => session_transcript
+)
+
+[03-11-2023 08:44:06] ->Info: `migrate_logs` Log migrated
+[03-11-2023 08:44:06] ->Info: `migrate_logs` All logs migrated
+[03-11-2023 08:44:29] ->Info: `skip_migration` Skipping Migration
+[03-11-2023 08:44:29] ->Info: `skip_migration` Deleted option ps_migrate_logs
+[03-11-2023 08:44:29] ->Info: Table created
+[03-11-2023 08:44:29] ->Info: `trash_all_old_logs` Delete log IDs: 11994,11996,11997,11998,12000,12001,12003,12005,12006,12011,12012,12013,12015,12016,12017,12019,12020,12022,12023,12024,12025,12026,12028,12030,12032,12034,12036,12038,12040,12042,12043,12047,12049,12050,12051,12053,12054,12056,12057,12059,12060,12061,12062,12063,12064,12065,12066,12067,12068,12069,12070,12071,12072,12074,12075,12076,12078,12082,12083,12084,12085,12086,12087,12088,12089,12090,12091,12093,12094,12095,12097,12098,12099,12100,12101,12102,12103,12104,12105,12106,12107,12108,12109,12110,12112,12113,12114,12116,12118,12119,12121,12122,12124,12126,12128,12129,12131,12132,12133,12134,12136,12137,12138,12139,12140,12141,12142,12143,12144,12145,12146,12147,12148,12149,12150,12151,12152,12153,12154,12155,12156,12158,12159,12160,12162,12164,12166,12168,12170,12189,12191,12192,12194,12195,12203,12205,12207,12208,12210,12211,12212,12213,12214,12216,12217,12219,12220,12221,12223,12224,12226,12227,12228,12230,12231,12232,12233,12234,12236,12237,12239,12240,12241,12245,12247,12248,12250,12252,12254,12255,12257,12258,12260,12264,12266,12267,12269,12270,12271,12285,12286,12287,12288,12290,12291,12293,12294,12296,12299,12308,12309,12311,12312,12313,12314,12315,12316,12317,12318,12320,12321,12322,12323,12324,12325,12327,12329,12330,12332,12333,12334,12335,12336,12337,12338,12339,12340,12341,12342,12343,12344,12345,12346,12347,12348,12349,12350,12351,12352,12354,12355,12357,12359,12360,12362,12363,12374,12375,12376,12377,12378,12379,12380,12381,12382,12383,12403,12405,12407,12408
+[03-11-2023 08:44:29] ->Info: `trash_all_old_logs` Delete result: Failed

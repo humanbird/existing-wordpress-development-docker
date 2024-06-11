@@ -1,0 +1,719 @@
+[PHP ERR][WARN] MSG:file_exists(): open_basedir restriction in effect. File(/var/www/clients/client4/web3/wp-config.php) is not within the allowed path(s): (/var/www/clients/client4/web3/web:/var/www/clients/client4/web3/private:/var/www/clients/client4/web3/tmp:/var/www/kinto-training.de/web:/srv/www/kinto-training.de/web:/usr/share/php5:/usr/bin:/usr/share/php:/tmp:/usr/share/phpmyadmin:/etc/phpmyadmin:/var/lib/phpmyadmin:/etc/ssl/certs:/dev/urandom) [CODE:2|FILE:/var/www/clients/client4/web3/web/dup-installer/classes/class.installer.state.php|LINE:57]
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 04:00:41
+* VERSION: 1.4.0
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 8.0.2                                 |8.0.2
+OS__________________: Linux                                 |Linux
+CREATED_____________: 2021-03-17 15:23:16
+WP VERSION__________: 5.7
+DUP VERSION_________: 1.4.0
+DB__________________: 10.3.23
+DB TABLES___________: 56
+DB ROWS_____________: 4,553
+DB FILE SIZE________: 17.92MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 8.0.2 | SAPI: fpm-fcgi
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: nginx/1.19.6
+DOC ROOT____________: "/var/www/clients/client4/web3/web"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "https://kinto-training.de/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ACTION______: "donothing"
+ARCHIVE ENGINE______: "shellexec_unzip"
+SET DIR PERMS_______: 1
+DIR PERMS VALUE_____: 1363
+SET FILE PERMS______: 1
+FILE PERMS VALUE____: 1204
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "/var/www/clients/client4/web3/web/20210224_kinto_[HASH]_20210317152316_archive.zip"
+SIZE________________: 92.22MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+BEFORE EXTRACION ACTIONS
+MAINTENANCE MODE ENABLE
+
+
+START ZIP FILE EXTRACTION SHELLEXEC >>> 
+<<< Shell-Exec Unzip Complete.
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+PERMISSION UPDATES:
+    -DIRS:  '755'
+    -FILES: '644'
+
+STEP-1 COMPLETE @ 04:00:46 - RUNTIME: 5.0298 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 04:01:36
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.3.23 -- Build Server: 10.3.23
+FILE SIZE:	dup-database__[HASH].sql (10.68MB)
+TIMEOUT:	5000
+MAXPACK:	20971520
+SQLMODE:	ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER
+NEW SQL FILE:	[/var/www/clients/client4/web3/web/dup-installer/dup-installer-data__[HASH].sql]
+COLLATE FB:	Off
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	495
+
+wp_borlabs_cookie_consent_log: (11)
+wp_borlabs_cookie_content_blocker: (8)
+wp_borlabs_cookie_cookies: (9)
+wp_borlabs_cookie_groups: (4)
+wp_borlabs_cookie_script_blocker: (0)
+wp_commentmeta: (0)
+wp_comments: (0)
+wp_duplicator_packages: (0)
+wp_links: (0)
+wp_options: (548)
+wp_podsrel: (0)
+wp_postmeta: (1793)
+wp_posts: (898)
+wp_promag_email_templates: (12)
+wp_promag_fields: (8)
+wp_promag_friends: (0)
+wp_promag_group_requests: (0)
+wp_promag_groups: (1)
+wp_promag_msg_conversation: (0)
+wp_promag_msg_threads: (0)
+wp_promag_notification: (0)
+wp_promag_paypal_log: (0)
+wp_promag_sections: (1)
+wp_rm_custom_status: (0)
+wp_rm_fields: (6)
+wp_rm_forms: (1)
+wp_rm_front_users: (0)
+wp_rm_login: (10)
+wp_rm_login_log: (123)
+wp_rm_notes: (0)
+wp_rm_paypal_fields: (0)
+wp_rm_paypal_logs: (0)
+wp_rm_resources: (0)
+wp_rm_rules: (0)
+wp_rm_sent_mails: (0)
+wp_rm_sessions: (0)
+wp_rm_stats: (256)
+wp_rm_submission_fields: (205)
+wp_rm_submissions: (41)
+wp_rm_task_exe_log: (0)
+wp_rm_tasks: (0)
+wp_swpm_members_tbl: (0)
+wp_swpm_membership_meta_tbl: (0)
+wp_swpm_membership_tbl: (2)
+wp_swpm_payments_tbl: (0)
+wp_term_relationships: (22)
+wp_term_taxonomy: (4)
+wp_termmeta: (0)
+wp_terms: (4)
+wp_um_metadata: (0)
+wp_user_registration_sessions: (0)
+wp_usermeta: (350)
+wp_users: (15)
+wp_uwp_form_extras: (5)
+wp_uwp_form_fields: (17)
+wp_uwp_profile_tabs: (0)
+Removed '175' cache/transient rows
+
+INSERT DATA RUNTIME: 1.5567 sec.
+STEP-2 COMPLETE @ 04:01:37 - RUNTIME: 1.5606 sec.
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 04:01:43
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "KINTO ONE / Trainingsseite"
+postguid______________: false
+fullsearch____________: false
+path_old______________: "/var/www/clients/client4/web4/web"
+path_new______________: "/var/www/clients/client4/web3/web"
+siteurl_______________: "https://kinto-training.de"
+url_old_______________: "http://kinto-training.jungmut.net"
+url_new_______________: "https://kinto-training.de"
+maxSerializeStrlen____: 4000000
+replaceMail___________: false
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+cache_wp______________: false
+cache_path____________: false
+exe_safe_mode_________: false
+config_mode___________: "NEW"
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "wp_borlabs_cookie_consent_log"___________________[ROWS:    11][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_borlabs_cookie_content_blocker"_______________[ROWS:     8][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_borlabs_cookie_cookies"_______________________[ROWS:     9][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_borlabs_cookie_groups"________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_borlabs_cookie_script_blocker"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   548][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_podsrel"______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS:  1793][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:   898][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_promag_email_templates"_______________________[ROWS:    12][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_promag_fields"________________________________[ROWS:     8][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_promag_friends"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_promag_group_requests"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_promag_groups"________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_promag_msg_conversation"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_promag_msg_threads"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_promag_notification"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_promag_paypal_log"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_promag_sections"______________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_rm_custom_status"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_rm_fields"____________________________________[ROWS:     6][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_rm_forms"_____________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_rm_front_users"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_rm_login"_____________________________________[ROWS:    10][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_rm_login_log"_________________________________[ROWS:   123][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_rm_notes"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_rm_paypal_fields"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_rm_paypal_logs"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_rm_resources"_________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_rm_rules"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_rm_sent_mails"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_rm_sessions"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_rm_stats"_____________________________________[ROWS:   256][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_rm_submission_fields"_________________________[ROWS:   205][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_rm_submissions"_______________________________[ROWS:    41][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_rm_task_exe_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_rm_tasks"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_swpm_members_tbl"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_swpm_membership_meta_tbl"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_swpm_membership_tbl"__________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_swpm_payments_tbl"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:    22][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_um_metadata"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_user_registration_sessions"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:   350][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:    15][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_uwp_form_extras"______________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_uwp_form_fields"______________________________[ROWS:    17][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/clients/client4/web4/web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  2:"\/var\/www\/clients\/client4\/web4\/web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  3:"%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb4%2Fweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  4:"\var\www\clients\client4\web4\web" ===============> "/var/www/clients/client4/web3/web"
+	SEARCH  5:"\\var\\www\\clients\\client4\\web4\\web" =========> "\/var\/www\/clients\/client4\/web3\/web"
+	SEARCH  6:"%5Cvar%5Cwww%5Cclients%5Cclient4%5Cweb4%5Cweb" ===> "%2Fvar%2Fwww%2Fclients%2Fclient4%2Fweb3%2Fweb"
+	SEARCH  7:"//kinto-training.jungmut.net" ====================> "//kinto-training.de"
+	SEARCH  8:"\/\/kinto-training.jungmut.net" ==================> "\/\/kinto-training.de"
+	SEARCH  9:"%2F%2Fkinto-training.jungmut.net" ================> "%2F%2Fkinto-training.de"
+	SEARCH 10:"http://kinto-training.de" ========================> "https://kinto-training.de"
+	SEARCH 11:"http:\/\/kinto-training.de" ======================> "https:\/\/kinto-training.de"
+	SEARCH 12:"http%3A%2F%2Fkinto-training.de" ==================> "https%3A%2F%2Fkinto-training.de"
+
+EVALUATE TABLE: "wp_uwp_profile_tabs"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+--------------------------------------
+SCANNED:	Tables:56 	|	 Rows:4354 	|	 Cells:38461 
+UPDATED:	Tables:6 	|	 Rows:1056 	|	 Cells:1504 
+ERRORS:		0 
+RUNTIME:	0.356800 sec
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME "** OBSCURED **"
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	REMOVE WPCACHEHOME
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE MODE: "NEW"
+====================================
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache '.htaccess__[HASH]' was removed
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+
+====================================
+DEACTIVATE PLUGINS CHECK
+====================================
+Deactivated plugins list here: Array
+(
+    [0] => simple-google-recaptcha/simple-google-recaptcha.php
+    [1] => js_composer/js_composer.php
+)
+
+MAINTENANCE MODE DISABLE
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 04:01:43 - RUNTIME: 0.3665 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] No general notices
+	SECTIONS: general
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+====================================

@@ -1,0 +1,17 @@
+.rmagic .rm_pricefield_row .rminput > select, .rm_pricefield_row .rminput > input[type="text"]{ width: 30%; float: left;}
+
+.rmagic .rm_pricefield_row .rminput .rmrow { width: 30%; float: left; padding: 0; }
+.rmagic .rm_pricefield_row .rminput .rmrow .rmfield { float: left; padding-top: 5px;}
+.rmagic .rm_pricefield_row .rminput .rmrow .rminput { float: left;}
+
+.rmagic .rm_pricefield_checkbox .rminput .rmrow { width: 30%; float: left; padding: 0; }
+
+/*----- Price Field -----*/
+
+.rmagic.rm_layout_label_top .rm_pricefield_checkbox .rmradio .rm-pricefield-wrap {
+    width:auto
+}
+
+.rmagic.rm_layout_label_top .rm_pricefield_checkbox .rminput .rmradio .rmrow { 
+    margin-top: 0px;
+}

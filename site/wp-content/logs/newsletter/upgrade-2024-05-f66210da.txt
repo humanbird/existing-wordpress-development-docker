@@ -1,0 +1,190 @@
+06-05-2024 14:19:59 - INFO  - 8.3.2 - 117,7 MB/256 MB - zourkos > Start upgrade from 8.0.8
+06-05-2024 14:19:59 - INFO  - 8.3.2 - 117,3 MB/256 MB - zourkos > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+06-05-2024 14:19:59 - INFO  - 8.3.2 - 117,3 MB/256 MB - zourkos > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+06-05-2024 14:19:59 - INFO  - 8.3.2 - 117,3 MB/256 MB - zourkos > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+06-05-2024 14:19:59 - INFO  - 8.3.2 - 117,3 MB/256 MB - zourkos > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+06-05-2024 14:19:59 - INFO  - 8.3.2 - 117,3 MB/256 MB - zourkos > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+06-05-2024 14:19:59 - INFO  - 8.3.2 - 117,3 MB/256 MB - zourkos > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+06-05-2024 14:19:59 - INFO  - 8.3.2 - 117,3 MB/256 MB - zourkos > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+)
+
+06-05-2024 14:19:59 - INFO  - 8.3.2 - 117,3 MB/256 MB - zourkos > Backing up options of 8.0.8
+06-05-2024 14:19:59 - INFO  - 8.3.2 - 117,4 MB/256 MB - zourkos > End
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 45,5 MB/512 MB -  > Start upgrade from 8.0.8
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 45,5 MB/512 MB -  > Start upgrade from 8.0.8
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,7 MB/512 MB -  > Start upgrade from 8.0.8
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,0 MB/512 MB -  > Start upgrade from 8.0.8
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,1 MB/512 MB -  > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 47,3 MB/512 MB -  > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,1 MB/512 MB -  > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 47,3 MB/512 MB -  > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,1 MB/512 MB -  > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,5 MB/512 MB -  > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,1 MB/512 MB -  > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,5 MB/512 MB -  > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 47,3 MB/512 MB -  > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,1 MB/512 MB -  > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,1 MB/512 MB -  > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 47,3 MB/512 MB -  > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,1 MB/512 MB -  > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,1 MB/512 MB -  > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,5 MB/512 MB -  > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,1 MB/512 MB -  > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 47,3 MB/512 MB -  > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,1 MB/512 MB -  > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,5 MB/512 MB -  > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,5 MB/512 MB -  > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,1 MB/512 MB -  > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 47,3 MB/512 MB -  > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,1 MB/512 MB -  > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,5 MB/512 MB -  > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,1 MB/512 MB -  > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,1 MB/512 MB -  > Backing up options of 8.0.8
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,2 MB/512 MB -  > End
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 47,3 MB/512 MB -  > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+    [wp_newsletter_logs.status] => Changed type of wp_newsletter_logs.status from int(11) to int
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 47,3 MB/512 MB -  > End
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,1 MB/512 MB -  > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+    [wp_newsletter_logs.status] => Changed type of wp_newsletter_logs.status from int(11) to int
+)
+
+07-05-2024 07:35:45 - INFO  - 8.3.2 - 46,1 MB/512 MB -  > End
+07-05-2024 07:35:46 - INFO  - 8.3.2 - 46,5 MB/512 MB -  > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+    [wp_newsletter_logs.status] => Changed type of wp_newsletter_logs.status from int(11) to int
+)
+
+07-05-2024 07:35:46 - INFO  - 8.3.2 - 46,5 MB/512 MB -  > End

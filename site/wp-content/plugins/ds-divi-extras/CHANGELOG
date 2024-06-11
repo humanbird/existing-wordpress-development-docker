@@ -1,0 +1,83 @@
+Version 1.1.11 December 11, 2021
+- Fix: modules rendering issues in visual builder when used with Extras Theme
+- Fix: Blog Feed Standard module - border color issue
+- Add icons and custom styling to modules to help differentiate them from Divi's modules;
+- Remove incompatible notice for languages other than English
+
+Version 1.1.10 November 15, 2021
+- Fix: Styling controls don't work when the modules are used in the Extra theme (outside the Category Builder)
+
+Version 1.1.9 October 30, 2021
+- Compatibility with Divi 4.12+
+
+Version 1.1.8 September 16, 2021
+- Updated license statements
+- Change site URL in updater for Aspen Grove Studios product version
+- Admin Page -> update activate license styling
+
+Version 1.1.7, May 27, 2021
+- Update license
+
+Version 1.1.6, March 20, 2021
+- Change capability 'install_plugins' to 'manage_options' to access plugin admin page ( it makes the plugin admin page accessible to admins on multisite who weren't able to see it before )
+
+Version 1.1.5, September 2, 2020
+- Load Extra translations
+
+Version 1.1.4, June 8, 2020
+- Fix: Toggle (yes/no) options were not working correctly in Divi Extras modules
+
+Version 1.1.3, May 26, 2020
+- Feature: Add category color setting from Extra theme
+- Fix: Post Carousel module body may be hidden after a browser resize
+- Fix: Search/filter fields in the module settings dialog is not compatible with Divi Extras; now hidden for Divi Extras modules
+- Fix: PHP notice
+- Fix (for use with Divi theme): Unwanted text may appear near the top of the Blog Feed Standard module on browsers with a small width
+- Minify extra.js (reduces file size)
+- Address deprecated functions and variables in custom modules code
+- Miscellaneous improvements
+
+Version 1.1.2, May 4, 2020
+- Fix: Error in customizer
+
+Version 1.1.1, April 20, 2020
+- Fix for includes/build/build.php warning
+
+Version 1.1.0, April 15, 2020
+- Added Theme Builder compatibility
+- Added compatibility with the Divi Visual Builder
+- Styling fixes
+- Fixed issues in the Extras modules
+- Miscellaneous improvements
+- Added translation support
+- Bumped version
+
+Version 1.0.6, April 10, 2019
+- fixed article widths within masonry columns
+- fixed css issue where a class was being added improperly
+- bumped version
+
+Version 1.0.5, January 15, 2019
+- **IMPORTANT** You will need to regenerate thumbnails after updating in order for the thumbnails to display properly. We recommend using a plugin such as https://wordpress.org/plugins/regenerate-thumbnails/. Images added after upgrading to this version should display properly with no regeneration needed.
+- Fixed undefined show_rating PHP notice
+- Added support for frontend builder (visual builder)
+- Fixed issue with toggle fields not working correctly (e.g. in Blog Feed Masonry module, causing author, categories, post image, etc. not to display)
+- Fixed images not being resized
+- Fixed certain settings (such as Blog Feed Masonry post background color) not being applied due to CSS conflict
+- Remove some automatically added module settings that don't seem to work with the modules in Divi Extras: Background, Link, Box Shadow
+
+Version 1.0.4, December 9, 2018
+- **IMPORTANT** Before updating, please ensure you are using the latest version of Divi and/or Extra. This is a Divi 3.18+ / Extra 2.18+.
+- Fixed issues where the plugin would cause the Divi Builder to freeze or crash
+
+Version 1.0.3, May 2, 2018
+- **IMPORTANT** Before updating, please ensure you are using the latest version of Divi and/or Extra. This is a Divi 3.1 / Extra 2.1 Developer version update.
+- Updated modules and module compatibility to Extra v2.2
+
+Version 1.0.2, February 14, 2018
+- Fixed multiple issues with the Tabbed Post Module including selected category not saving. We had to revert to standard Extra category builder functionality where only one category can be saved until the possibility to expand upon this is made available within the 3.1 Developer Edition of Divi.
+
+Version 1.0.1, January 12, 2018
+- Colorized the Category builder modules for easy identification.
+- Fixed a visual builder conflict. The standard Divi modules will now be editable when used in conjunction with the Divi Extras modules, however you will not be able to edit the Divi Extras modules with the visual builder. This is a restriction we hope to fix with the developer version of Extra once it is released.
+- Fixed issue where some installations would display "Warning: Cannot modify header information..." on product activation screen.

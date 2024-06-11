@@ -1,0 +1,397 @@
+# Translation of Plugins - Pods &#8211; Custom Content Types and Fields - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Pods &#8211; Custom Content Types and Fields - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-03-02 15:19:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Pods &#8211; Custom Content Types and Fields - Stable (latest release)\n"
+
+#: components/I18n/I18n.php:700
+msgid "Locale"
+msgstr "Gebietsschema (Locale)"
+
+#: classes/PodsInit.php:2019 src/Pods/Admin/Config/Pod.php:418
+msgid "Uploaded to this %s"
+msgstr "Hochgeladen zu %s"
+
+#: classes/PodsInit.php:2021 classes/PodsInit.php:2046
+msgid "%s navigation"
+msgstr "%s Navigation"
+
+#: classes/fields/website.php:72
+msgid "Open link in new window"
+msgstr "Link in einem neuen Fenster öffnen"
+
+#: classes/PodsInit.php:2016 src/Pods/Admin/Config/Pod.php:391
+msgid "%s Archives"
+msgstr "%s Archiv"
+
+#: classes/PodsInit.php:2018 src/Pods/Admin/Config/Pod.php:409
+msgid "Insert into %s"
+msgstr "Einfügen in %s"
+
+#: classes/PodsInit.php:2015
+msgid "Use as featured image"
+msgstr "Als Beitragsbild nutzen"
+
+#: classes/PodsInit.php:2013
+msgid "Set featured image"
+msgstr "Beitragsbild festlegen"
+
+#: classes/PodsInit.php:2014
+msgid "Remove featured image"
+msgstr "Beitragsbild entfernen"
+
+#: ui/admin/shortcode.php:528
+msgid "Insert"
+msgstr "Einfügen"
+
+#: src/Pods/Admin/Config/Pod.php:967
+msgid "Author"
+msgstr "Autor"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:139
+#: ui/admin/upgrade/upgrade_2_0_0.php:247
+msgid "Content"
+msgstr "Inhalte"
+
+#: classes/fields/currency.php:127 components/I18n/I18n.php:821
+#: src/Pods/Admin/Config/Group.php:230 ui/fields/color.php:20
+msgid "Default"
+msgstr "Standard"
+
+#: src/Pods/Admin/Config/Pod.php:957 ui/admin/widgets/field.php:21
+#: ui/admin/widgets/form.php:21 ui/admin/widgets/list.php:23
+#: ui/admin/widgets/single.php:23 ui/admin/widgets/view.php:21
+msgid "Title"
+msgstr "Titel"
+
+#: src/Pods/Admin/Config/Pod.php:369
+msgid "Not Found"
+msgstr "Nichts gefunden"
+
+#: src/Pods/Whatsit/Block.php:40
+msgid "Options"
+msgstr "Optionen"
+
+#: classes/PodsAPI.php:1089 classes/PodsInit.php:2012
+#: src/Pods/Admin/Config/Pod.php:427 src/Pods/Admin/Config/Pod.php:972
+msgid "Featured Image"
+msgstr "Beitragsbild"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:20 ui/admin/upgrade/upgrade_2_1_0.php:20
+msgid "Getting Started"
+msgstr "Erste Schritte"
+
+#: ui/admin/view.php:60 ui/forms/type/post.php:89
+msgid "Last Modified"
+msgstr "Zuletzt geändert"
+
+#: components/Migrate-Packages/ui/wizard.php:52
+msgid "Import"
+msgstr "Daten importieren"
+
+#: ui/admin/setup-add.php:121
+msgid "Configure"
+msgstr "Konfigurieren"
+
+#: includes/data.php:2041
+msgid "and"
+msgstr "und"
+
+#: ui/admin/setup-add.php:195 ui/admin/setup-add.php:412
+msgid "Content Type"
+msgstr "Inhaltstyp"
+
+#: components/Roles/ui/edit.php:46 ui/forms/form.php:179
+msgid "Save"
+msgstr "Speichern"
+
+#: components/Advanced-Relationships.php:63
+msgid "Themes"
+msgstr "Themes"
+
+#: classes/widgets/PodsWidgetForm.php:38 classes/widgets/PodsWidgetForm.php:59
+#: classes/widgets/PodsWidgetForm.php:74
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:47
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:145
+msgid "Submit"
+msgstr "Absenden"
+
+#: src/Pods/Whatsit/Storage/Collection.php:39
+msgid "Code"
+msgstr "Code"
+
+#: classes/fields/wysiwyg.php:43 src/Pods/Admin/Config/Pod.php:962
+msgid "Editor"
+msgstr "Editor"
+
+#: classes/fields/pick.php:719
+msgid "User Capabilities"
+msgstr "Benutzerberechtigungen"
+
+#: classes/fields/pick.php:706 components/Roles/Roles.php:94
+#: ui/admin/setup-add.php:421
+msgid "Users"
+msgstr "Benutzer"
+
+#: classes/fields/datetime.php:129 classes/fields/pick.php:565
+msgid "Custom"
+msgstr "Individuell"
+
+#: classes/PodsAdmin.php:3706 src/Pods/Admin/Config/Field.php:147
+msgid "Description"
+msgstr "Beschreibung"
+
+#: classes/PodsUI.php:3067
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: classes/PodsUI.php:3041 classes/PodsUI.php:4705
+msgid "Apply"
+msgstr "Anwenden"
+
+#: classes/PodsUI.php:4873
+msgid "Go to the first page"
+msgstr "Zur ersten Seite gehen"
+
+#: classes/PodsUI.php:4874
+msgid "Go to the previous page"
+msgstr "Zur vorherigen Seite gehen"
+
+#: classes/PodsUI.php:4878
+msgid "Current page"
+msgstr "Aktuelle Seite"
+
+#: classes/PodsUI.php:4906
+msgid "Go to the next page"
+msgstr "Zur nächsten Seite gehen "
+
+#: classes/PodsUI.php:4907
+msgid "Go to the last page"
+msgstr "Zur letzten Seite gehen "
+
+#: classes/fields/file.php:151
+msgid "Upload File"
+msgstr "Datei hochladen"
+
+#: classes/PodsAdmin.php:3728 ui/admin/settings.php:27
+msgid "Tools"
+msgstr "Werkzeuge"
+
+#: classes/PodsInit.php:2008 src/Pods/Admin/Config/Pod.php:375
+msgid "No %s Found"
+msgstr "Kein %s gefunden"
+
+#: classes/PodsAdmin.php:3698 classes/PodsAdmin.php:3735
+msgid "Category"
+msgstr "Kategorie"
+
+#: classes/PodsInit.php:2006 classes/PodsInit.php:2033
+#: src/Pods/Admin/Config/Pod.php:311
+msgid "All %s"
+msgstr "Alle %s"
+
+#: classes/PodsUI.php:4554 includes/access.php:1864 includes/access.php:1929
+#: includes/access.php:1952 includes/access.php:1974 includes/access.php:2001
+#: src/Pods/Admin/Settings.php:202 src/Pods/Admin/Settings.php:229
+#: src/Pods/Admin/Settings.php:248 src/Pods/Admin/Settings.php:268
+#: src/Pods/Admin/Settings.php:291 src/Pods/Admin/Settings.php:310
+#: src/Pods/Admin/Settings.php:348
+msgid "Disable"
+msgstr "Deaktivieren"
+
+#: classes/PodsAdmin.php:4372 classes/PodsUI.php:4553 includes/access.php:1863
+#: includes/access.php:1928 includes/access.php:1951
+#: src/Pods/Admin/Settings.php:201 src/Pods/Admin/Settings.php:228
+#: src/Pods/Admin/Settings.php:247 src/Pods/Admin/Settings.php:267
+#: src/Pods/Admin/Settings.php:290 src/Pods/Admin/Settings.php:309
+#: src/Pods/Admin/Settings.php:347
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: classes/fields/boolean.php:59 classes/fields/boolean.php:224
+#: classes/fields/boolean.php:247 classes/PodsAdmin.php:4628
+#: classes/PodsAdmin.php:4632 classes/PodsAdmin.php:4640
+#: classes/PodsAdmin.php:4644 classes/PodsAdmin.php:4648
+#: classes/PodsAdmin.php:4652 classes/PodsAdmin.php:4656
+#: classes/PodsAdmin.php:4660 classes/PodsAdmin.php:4664
+#: classes/PodsAdmin.php:4668 classes/PodsAdmin.php:4672
+#: classes/PodsAdmin.php:4684 classes/PodsAdmin.php:4692
+#: classes/PodsAdmin.php:4696 classes/PodsAdmin.php:4700
+#: classes/PodsAdmin.php:4708 classes/PodsAdmin.php:4712
+#: classes/PodsAdmin.php:4716 classes/PodsAdmin.php:4720
+#: classes/PodsAdmin.php:4724 classes/PodsAdmin.php:4728
+#: classes/PodsAdmin.php:4772 classes/PodsUI.php:2916 classes/PodsUI.php:3354
+#: classes/PodsUI.php:3611 src/Pods/Whatsit/Block_Field.php:299
+msgid "No"
+msgstr "Nein"
+
+#: classes/fields/boolean.php:54 classes/fields/boolean.php:223
+#: classes/fields/boolean.php:246 classes/PodsAdmin.php:4628
+#: classes/PodsAdmin.php:4632 classes/PodsAdmin.php:4640
+#: classes/PodsAdmin.php:4644 classes/PodsAdmin.php:4648
+#: classes/PodsAdmin.php:4652 classes/PodsAdmin.php:4656
+#: classes/PodsAdmin.php:4660 classes/PodsAdmin.php:4664
+#: classes/PodsAdmin.php:4668 classes/PodsAdmin.php:4672
+#: classes/PodsAdmin.php:4684 classes/PodsAdmin.php:4692
+#: classes/PodsAdmin.php:4696 classes/PodsAdmin.php:4700
+#: classes/PodsAdmin.php:4708 classes/PodsAdmin.php:4712
+#: classes/PodsAdmin.php:4716 classes/PodsAdmin.php:4720
+#: classes/PodsAdmin.php:4724 classes/PodsAdmin.php:4728
+#: classes/PodsAdmin.php:4772 classes/PodsUI.php:2915 classes/PodsUI.php:3353
+#: classes/PodsUI.php:3610 src/Pods/Whatsit/Block_Field.php:295
+msgid "Yes"
+msgstr "Ja"
+
+#: classes/PodsAdmin.php:1895 classes/PodsI18n.php:169 classes/PodsUI.php:750
+#: classes/PodsUI.php:753 classes/PodsUI.php:4446 includes/access.php:1906
+#: src/Pods/Admin/Config/Pod.php:248 src/Pods/Blocks/Types/View.php:164
+msgid "View"
+msgstr "Anschauen"
+
+#: classes/fields/phone.php:53
+msgid "International"
+msgstr "International"
+
+#: classes/PodsAPI.php:2101 classes/PodsMeta.php:987
+#: src/Pods/Tools/Repair.php:452 src/Pods/Whatsit.php:1707
+#: ui/admin/view.php:189
+msgid "More Fields"
+msgstr "Weitere Felder"
+
+#: classes/fields/file.php:242 classes/fields/file.php:254
+#: ui/fields/attachment.php:124
+msgid "Add File"
+msgstr "Datei hinzufügen"
+
+#: classes/fields/file.php:248
+msgid "Attach a file"
+msgstr "Datei anhängen"
+
+#: classes/PodsAdmin.php:283 classes/PodsAdmin.php:310
+#: classes/PodsAdmin.php:311 classes/PodsInit.php:1998
+#: classes/PodsInit.php:1999 classes/PodsInit.php:2039 classes/PodsUI.php:747
+#: classes/PodsUI.php:760 classes/PodsUI.php:771 classes/PodsUI.php:772
+msgid "Add New %s"
+msgstr "%s hinzufügen"
+
+#: classes/PodsInit.php:2002 classes/PodsInit.php:2036
+#: classes/PodsInit.php:2689 classes/PodsUI.php:761
+#: src/Pods/Admin/Config/Pod.php:206
+msgid "Edit %s"
+msgstr "%s bearbeiten"
+
+#. Translators: %s stands for a name/identifier.
+#: classes/PodsI18n.php:176 classes/PodsInit.php:2007 classes/PodsInit.php:2031
+#: classes/PodsUI.php:765 src/Pods/Admin/Config/Pod.php:326
+msgid "Search %s"
+msgstr "%s suchen"
+
+#: classes/PodsUI.php:3247
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#. translators: %s: The singular item label.
+#: classes/PodsInit.php:2003 classes/PodsInit.php:2004
+#: classes/PodsInit.php:2005 classes/PodsInit.php:2037 classes/PodsUI.php:763
+#: classes/PodsUI.php:776 src/Pods/Admin/Config/Pod.php:255
+#: src/Pods/Admin/Config/Pod.php:263 ui/admin/view.php:34 ui/forms/form.php:130
+#: ui/forms/type/post.php:63
+msgid "View %s"
+msgstr "%s anzeigen"
+
+#: classes/PodsUI.php:3025
+msgid "Bulk Actions"
+msgstr "Mehrfachaktionen"
+
+#: classes/PodsAdmin.php:281 classes/PodsAdmin.php:355 classes/PodsI18n.php:171
+#: classes/PodsInit.php:2001 classes/PodsUI.php:748 classes/PodsUI.php:4474
+#: src/Pods/Admin/Config/Pod.php:199 src/Pods/Admin/Config/Pod.php:1575
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: classes/Pods.php:4048 classes/PodsAdmin.php:788 classes/PodsForm.php:422
+#: ui/admin/components-admin.php:113
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: classes/PodsAdmin.php:1331 classes/PodsUI.php:749 classes/PodsUI.php:4502
+#: src/Pods/Admin/Config/Pod.php:223 src/Pods/Admin/Config/Pod.php:1576
+msgid "Duplicate"
+msgstr "Duplizieren"
+
+#: classes/Pods.php:4524 classes/PodsAdmin.php:1337 classes/PodsUI.php:4530
+#: src/Pods/Admin/Config/Pod.php:1577 ui/admin/view.php:85
+#: ui/forms/type/post.php:134
+msgid "Delete"
+msgstr "Löschen"
+
+#: classes/Pods.php:4416 src/Pods/Tools/Repair.php:159
+#: src/Pods/Tools/Repair.php:328 src/Pods/Tools/Repair.php:404
+#: src/Pods/Tools/Repair.php:603 src/Pods/Tools/Repair.php:711
+#: src/Pods/Tools/Repair.php:825 src/Pods/Tools/Repair.php:895
+#: src/Pods/Tools/Repair.php:1041
+msgid "ID"
+msgstr "ID"
+
+#: classes/PodsAdmin.php:562 classes/PodsAdmin.php:583
+#: ui/admin/components-admin.php:16 ui/admin/settings-settings.php:94
+#: ui/admin/settings-settings.php:98 ui/admin/settings.php:26
+#: ui/admin/upgrade/upgrade_2_0_0.php:208
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: classes/PodsAdmin.php:947 classes/PodsAdmin.php:1375
+#: classes/PodsAdmin.php:1488 classes/PodsAdmin.php:1902
+#: src/Pods/Tools/Repair.php:402
+msgid "Type"
+msgstr "Typ"
+
+#: classes/PodsAdmin.php:3731 src/Pods/Admin/Config/Field.php:52
+#: src/Pods/Admin/Config/Group.php:24 src/Pods/Admin/Config/Group.php:209
+#: ui/admin/setup-add.php:308 ui/admin/setup-add.php:534
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: classes/Pods.php:3506 classes/PodsI18n.php:173 classes/PodsUI.php:752
+#: classes/PodsUI.php:2979 classes/PodsUI.php:3254
+#: src/Pods/Admin/Config/Pod.php:319
+msgid "Search"
+msgstr "Suchen"
+
+#: classes/PodsAdmin.php:944 classes/PodsAdmin.php:1485
+#: classes/PodsAdmin.php:3690 classes/PodsUI.php:790
+#: components/Roles/Roles.php:91 components/Roles/ui/add.php:50
+#: src/Pods/Admin/Config/Field.php:136 src/Pods/Admin/Config/Group.php:99
+#: src/Pods/Tools/Repair.php:326 src/Pods/Tools/Repair.php:400
+#: src/Pods/Tools/Repair.php:823 src/Pods/Tools/Repair.php:893
+#: src/Pods/Tools/Repair.php:1039
+msgid "Name"
+msgstr "Name"
+
+#: classes/Pods.php:4517 components/Migrate-Packages/ui/wizard.php:65
+#: src/Pods/Admin/Config/Pod.php:1579
+msgid "Export"
+msgstr "Exportieren"
+
+#: classes/PodsAdmin.php:277 classes/PodsAdmin.php:1373
+#: classes/PodsAdmin.php:1893 classes/PodsAdmin.php:3725
+msgid "All"
+msgstr "Alle"
+
+#: classes/PodsAdmin.php:578 ui/admin/upgrade/upgrade_2_1_0.php:26
+msgid "Upgrade"
+msgstr "Aktualisierung"
+
+#: classes/fields/pick.php:295 classes/fields/pick.php:1016
+#: classes/PodsAdmin.php:357 classes/PodsAdmin.php:376
+#: classes/PodsAdmin.php:544 classes/PodsField.php:596 classes/PodsI18n.php:151
+#: src/Pods/Admin/Config/Field.php:258 src/Pods/Admin/Config/Pod.php:1574
+msgid "Add New"
+msgstr "Hinzufügen"

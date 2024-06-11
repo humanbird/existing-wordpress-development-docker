@@ -1,0 +1,31 @@
+/* Registrations*/
+.rmagic table.rm-user-data {
+    table-layout: fixed;
+}
+
+.rmagic table.rm-user-data.rm-user-submission-table {
+    table-layout: auto;
+}
+
+.rmagic table.rm-user-data td a {box-shadow:none;}
+
+.rmagic table.rm-user-data th.rm-submission-unique-id,
+.rmagic table.rm-user-data td.rm-submission-unique-id {
+    width: 180px;
+}
+
+.rmagic table.rm-user-data td.rm-submission-unique-id:hover {   
+    white-space: inherit;
+}
+
+/*Inbox*/
+.rmagic .rm-inbox-data tr:nth-child(4n-1) {background-color: rgb(250,250,250); }
+.rmagic .rm-inbox-data tr:nth-child(4n-3) {background-color: rgb(255,255,255); }
+.rmagic .rm-inbox-data tr.rm_email_detail_container:nth-child(4n) {background-color: rgb(250,250,250); }
+.rmagic .rm-inbox-data tr.rm_email_detail_container:nth-child(4n-2) {background-color: rgb(255,255,255); }
+.rmagic .rm-inbox-data tr.rm_email_detail_container:nth-child(4n-2):hover{ background-color: rgb(255,255,255); }
+.rmagic .rm-inbox-data tr.rm_email_detail_container:nth-child(4n):hover{ background: rgb(250,250,250);}
+.rmagic .rm-inbox-data .rm_inbox_email_unread td{ font-weight: bold;}
+
+.rmagic .rm-inbox-data .rm_email_detail_label{ width: 120px; font-weight: bold;}
+.rmagic .rm-inbox-data .rm_email_detail_body{width: calc( 100% - 120px); word-break: break-word; white-space: normal;}

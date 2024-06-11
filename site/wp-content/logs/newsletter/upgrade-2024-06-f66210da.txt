@@ -1,0 +1,114 @@
+11-06-2024 14:24:28 - INFO  - 8.3.2 - 45,5 MB/256 MB -  > Start upgrade from 8.0.8
+11-06-2024 14:24:28 - INFO  - 8.3.2 - 48,8 MB/256 MB -  > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+11-06-2024 14:24:28 - INFO  - 8.3.2 - 48,8 MB/256 MB -  > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+11-06-2024 14:24:28 - INFO  - 8.3.2 - 48,9 MB/256 MB -  > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+11-06-2024 14:24:28 - INFO  - 8.3.2 - 48,8 MB/256 MB -  > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+11-06-2024 14:24:28 - INFO  - 8.3.2 - 48,8 MB/256 MB -  > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+11-06-2024 14:24:28 - INFO  - 8.3.2 - 48,8 MB/256 MB -  > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+11-06-2024 14:24:28 - INFO  - 8.3.2 - 48,8 MB/256 MB -  > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+)
+
+11-06-2024 14:24:28 - INFO  - 8.3.2 - 48,8 MB/256 MB -  > Backing up options of 8.0.8
+11-06-2024 14:24:28 - INFO  - 8.3.2 - 48,9 MB/256 MB -  > End
+11-06-2024 15:00:06 - INFO  - 8.3.2 - 44,6 MB/256 MB -  > Start upgrade from 8.0.8
+11-06-2024 15:00:06 - INFO  - 8.3.2 - 44,2 MB/256 MB -  > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+11-06-2024 15:00:06 - INFO  - 8.3.2 - 44,2 MB/256 MB -  > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+11-06-2024 15:00:06 - INFO  - 8.3.2 - 44,2 MB/256 MB -  > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+11-06-2024 15:00:06 - INFO  - 8.3.2 - 44,2 MB/256 MB -  > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+11-06-2024 15:00:06 - INFO  - 8.3.2 - 44,2 MB/256 MB -  > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+11-06-2024 15:00:06 - INFO  - 8.3.2 - 44,2 MB/256 MB -  > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+11-06-2024 15:00:06 - INFO  - 8.3.2 - 44,2 MB/256 MB -  > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+)
+
+11-06-2024 15:00:06 - INFO  - 8.3.2 - 44,2 MB/256 MB -  > Backing up options of 8.0.8
+11-06-2024 15:00:06 - INFO  - 8.3.2 - 44,3 MB/256 MB -  > End
+11-06-2024 15:06:31 - INFO  - 8.3.2 - 45,1 MB/256 MB -  > Start upgrade from 8.0.8
+11-06-2024 15:06:31 - INFO  - 8.3.2 - 48,5 MB/256 MB -  > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+11-06-2024 15:06:31 - INFO  - 8.3.2 - 48,5 MB/256 MB -  > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+11-06-2024 15:06:31 - INFO  - 8.3.2 - 48,5 MB/256 MB -  > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+11-06-2024 15:06:31 - INFO  - 8.3.2 - 48,5 MB/256 MB -  > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+11-06-2024 15:06:31 - INFO  - 8.3.2 - 48,5 MB/256 MB -  > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+11-06-2024 15:06:31 - INFO  - 8.3.2 - 48,5 MB/256 MB -  > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+11-06-2024 15:06:31 - INFO  - 8.3.2 - 48,5 MB/256 MB -  > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+)
+
+11-06-2024 15:06:31 - INFO  - 8.3.2 - 48,5 MB/256 MB -  > Backing up options of 8.0.8
+11-06-2024 15:06:31 - INFO  - 8.3.2 - 48,6 MB/256 MB -  > End

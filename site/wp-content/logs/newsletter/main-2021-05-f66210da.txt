@@ -1,0 +1,284 @@
+06-05-2021 05:57:40 - ERROR - v: 7.1.4 - m: 28,4 MB, u: 1 - 
+06-05-2021 05:58:00 - ERROR - v: 7.1.4 - m: 27,9 MB, u: 1 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+06-05-2021 05:58:00 - ERROR - v: 7.1.4 - m: 27,9 MB, u: 1 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+06-05-2021 05:58:34 - ERROR - v: 7.1.4 - m: 27,9 MB, u: 1 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+06-05-2021 05:58:34 - ERROR - v: 7.1.4 - m: 27,9 MB, u: 1 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+06-05-2021 05:58:34 - ERROR - v: 7.1.4 - m: 27,9 MB, u: 1 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+06-05-2021 05:58:34 - ERROR - v: 7.1.4 - m: 27,9 MB, u: 1 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+06-05-2021 05:59:02 - ERROR - v: 7.1.4 - m: 27,9 MB, u: 1 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+06-05-2021 05:59:02 - ERROR - v: 7.1.4 - m: 27,9 MB, u: 1 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+06-05-2021 05:59:02 - ERROR - v: 7.1.4 - m: 27,9 MB, u: 1 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+06-05-2021 05:59:02 - ERROR - v: 7.1.4 - m: 27,9 MB, u: 1 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+06-05-2021 05:59:08 - ERROR - v: 7.1.4 - m: 28,2 MB, u: 1 - 
+06-05-2021 05:59:12 - ERROR - v: 7.1.4 - m: 28,2 MB, u: 1 - 
+06-05-2021 05:59:33 - ERROR - v: 7.1.4 - m: 28,3 MB, u: 1 - 
+06-05-2021 06:02:23 - ERROR - v: 7.1.4 - m: 28,2 MB, u: 1 - 
+06-05-2021 06:10:53 - ERROR - v: 7.1.4 - m: 28,4 MB, u: 1 - 
+06-05-2021 06:11:01 - ERROR - v: 7.1.4 - m: 28,4 MB, u: 1 - 
+06-05-2021 06:11:29 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+06-05-2021 06:13:11 - ERROR - v: 7.1.4 - m: 28,4 MB, u: 1 - 
+06-05-2021 06:39:44 - ERROR - v: 7.1.4 - m: 28,5 MB, u: 1 - 
+06-05-2021 06:39:48 - ERROR - v: 7.1.4 - m: 28,4 MB, u: 1 - 
+06-05-2021 06:54:38 - ERROR - v: 7.1.4 - m: 28,4 MB, u: 1 - 
+06-05-2021 06:55:02 - ERROR - v: 7.1.4 - m: 28,4 MB, u: 1 - 
+06-05-2021 06:56:08 - ERROR - v: 7.1.4 - m: 28,4 MB, u: 1 - 
+06-05-2021 06:56:20 - ERROR - v: 7.1.4 - m: 28,4 MB, u: 1 - 
+06-05-2021 06:56:23 - ERROR - v: 7.1.4 - m: 28,4 MB, u: 1 - 
+06-05-2021 06:56:53 - ERROR - v: 7.1.4 - m: 28,4 MB, u: 1 - 
+06-05-2021 06:57:26 - ERROR - v: 7.1.4 - m: 28,4 MB, u: 1 - 
+07-05-2021 10:29:21 - ERROR - v: 7.1.4 - m: 28,8 MB, u: 1 - 
+07-05-2021 10:51:59 - ERROR - v: 7.1.4 - m: 28,8 MB, u: 1 - 
+07-05-2021 10:52:21 - ERROR - v: 7.1.4 - m: 28,8 MB, u: 1 - 
+07-05-2021 10:53:55 - ERROR - v: 7.1.4 - m: 28,9 MB, u: 1 - 
+07-05-2021 10:54:06 - ERROR - v: 7.1.4 - m: 28,8 MB, u: 1 - 
+07-05-2021 11:14:27 - ERROR - v: 7.1.4 - m: 28,8 MB, u: 1 - 
+07-05-2021 11:14:32 - ERROR - v: 7.1.4 - m: 28,8 MB, u: 1 - 
+07-05-2021 11:14:41 - ERROR - v: 7.1.4 - m: 28,8 MB, u: 1 - 
+07-05-2021 11:16:19 - ERROR - v: 7.1.4 - m: 28,9 MB, u: 1 - 
+10-05-2021 06:57:10 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+10-05-2021 07:01:24 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+10-05-2021 07:01:32 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+10-05-2021 10:58:54 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+10-05-2021 11:05:59 - ERROR - v: 7.1.4 - m: 30,0 MB, u: 1 - 
+10-05-2021 11:06:11 - ERROR - v: 7.1.4 - m: 30,0 MB, u: 1 - 
+10-05-2021 11:07:32 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+10-05-2021 11:12:36 - ERROR - v: 7.1.4 - m: 30,0 MB, u: 1 - 
+10-05-2021 11:13:03 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+10-05-2021 11:26:32 - ERROR - v: 7.1.4 - m: 30,0 MB, u: 1 - 
+10-05-2021 11:27:14 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+10-05-2021 11:27:26 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+10-05-2021 11:28:26 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+10-05-2021 11:29:19 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+10-05-2021 11:42:51 - ERROR - v: 7.1.4 - m: 29,7 MB, u: 1 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+10-05-2021 11:42:51 - ERROR - v: 7.1.4 - m: 29,7 MB, u: 1 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+11-05-2021 13:35:36 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+11-05-2021 13:36:23 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+11-05-2021 13:36:40 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+11-05-2021 13:40:13 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+11-05-2021 13:40:20 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+11-05-2021 13:40:40 - ERROR - v: 7.1.4 - m: 30,4 MB, u: 1 - 
+11-05-2021 13:41:20 - ERROR - v: 7.1.4 - m: 29,7 MB, u: 1 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+11-05-2021 13:41:20 - ERROR - v: 7.1.4 - m: 29,7 MB, u: 1 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+11-05-2021 13:41:38 - ERROR - v: 7.1.4 - m: 29,7 MB, u: 1 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+11-05-2021 13:41:38 - ERROR - v: 7.1.4 - m: 29,7 MB, u: 1 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+11-05-2021 13:41:38 - ERROR - v: 7.1.4 - m: 29,7 MB, u: 1 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+11-05-2021 13:41:38 - ERROR - v: 7.1.4 - m: 29,7 MB, u: 1 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+11-05-2021 13:41:39 - ERROR - v: 7.1.4 - m: 29,7 MB, u: 1 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+11-05-2021 13:41:39 - ERROR - v: 7.1.4 - m: 29,7 MB, u: 1 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+11-05-2021 13:41:40 - ERROR - v: 7.1.4 - m: 29,7 MB, u: 1 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+11-05-2021 13:41:40 - ERROR - v: 7.1.4 - m: 29,7 MB, u: 1 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+11-05-2021 13:42:12 - ERROR - v: 7.1.4 - m: 29,7 MB, u: 1 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+11-05-2021 13:42:12 - ERROR - v: 7.1.4 - m: 29,7 MB, u: 1 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+11-05-2021 13:42:12 - ERROR - v: 7.1.4 - m: 29,7 MB, u: 1 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+11-05-2021 13:42:12 - ERROR - v: 7.1.4 - m: 29,7 MB, u: 1 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+11-05-2021 13:42:58 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+11-05-2021 13:43:10 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+11-05-2021 13:44:30 - ERROR - v: 7.1.4 - m: 30,4 MB, u: 1 - 
+11-05-2021 13:44:48 - ERROR - v: 7.1.4 - m: 30,6 MB, u: 1 - 
+11-05-2021 13:45:01 - ERROR - v: 7.1.4 - m: 30,6 MB, u: 1 - 
+11-05-2021 14:36:00 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+11-05-2021 14:36:08 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+11-05-2021 14:36:11 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+11-05-2021 14:36:14 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+11-05-2021 14:36:26 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+11-05-2021 14:36:59 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+12-05-2021 06:34:55 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+12-05-2021 06:35:00 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+12-05-2021 10:15:54 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 11:28:17 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+12-05-2021 11:28:25 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+12-05-2021 11:29:40 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 11:29:45 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+12-05-2021 11:29:54 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+12-05-2021 11:30:01 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+12-05-2021 11:30:22 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 11:31:04 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 11:31:22 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+12-05-2021 11:36:24 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 11:36:31 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+12-05-2021 11:36:36 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 11:36:40 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 11:36:58 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 11:37:21 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 11:37:33 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 12:26:50 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+12-05-2021 12:26:54 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 12:27:02 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+12-05-2021 12:27:05 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+12-05-2021 12:27:21 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 12:27:44 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 12:28:02 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+12-05-2021 12:45:29 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 12:45:42 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 12:45:52 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+12-05-2021 12:46:02 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 12:46:15 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 12:46:26 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+12-05-2021 13:01:24 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+12-05-2021 13:01:32 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 13:01:37 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+12-05-2021 13:13:39 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 13:24:36 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+12-05-2021 13:24:42 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 13:25:13 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 13:25:32 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+12-05-2021 13:25:54 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+12-05-2021 13:26:04 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 13:26:17 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+12-05-2021 13:26:31 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 13:26:56 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 13:27:18 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 13:27:24 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 14:43:52 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+12-05-2021 14:44:13 - ERROR - v: 7.1.4 - m: 30,6 MB, u: 1 - 
+12-05-2021 14:48:16 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+12-05-2021 14:48:21 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 15:00:19 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+12-05-2021 15:00:28 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 15:00:33 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 15:00:44 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+12-05-2021 15:01:07 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 04:18:58 - ERROR - v: 7.1.4 - m: 30,5 MB, u: 1 - 
+18-05-2021 04:19:08 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 04:19:10 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 04:19:50 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 04:28:01 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 04:28:06 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 04:28:08 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 04:28:26 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 04:31:06 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 05:36:25 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 05:51:02 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 05:56:17 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 05:56:23 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 05:56:44 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 05:56:59 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 05:57:08 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 05:57:17 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 05:57:29 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 06:02:21 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 06:02:59 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 06:03:58 - ERROR - v: 7.1.4 - m: 30,4 MB, u: 1 - 
+18-05-2021 06:23:31 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 06:23:36 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:23:51 - ERROR - v: 7.1.4 - m: 30,0 MB, u: 1 - 
+18-05-2021 06:24:25 - ERROR - v: 7.1.4 - m: 30,0 MB, u: 1 - 
+18-05-2021 06:27:57 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 06:28:14 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 06:28:27 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:28:32 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 06:28:52 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:30:30 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 06:31:06 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:31:09 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:31:17 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:31:21 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 06:33:00 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:33:03 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 06:33:55 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:34:28 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:35:34 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:35:37 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:35:49 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:35:51 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:36:08 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 06:36:14 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 06:36:16 - ERROR - v: 7.1.4 - m: 30,0 MB, u: 1 - 
+18-05-2021 06:36:19 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:36:50 - ERROR - v: 7.1.4 - m: 33,2 MB, u: 1 - 
+18-05-2021 06:37:28 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:37:33 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 06:37:47 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:39:12 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:39:17 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 06:40:34 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:45:19 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:45:22 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 06:45:32 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:45:38 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:46:39 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:46:42 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 06:46:57 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:49:34 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:49:37 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 06:49:49 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:51:03 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:51:17 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:51:34 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 06:52:12 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 07:13:51 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 07:13:58 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 07:15:22 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 07:17:42 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 07:18:33 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 07:18:39 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 07:18:43 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 07:18:46 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 07:21:23 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/05/JM-KTO-NL-Header-210512-v01-sro.jpg
+18-05-2021 07:21:23 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/05/JM-KTO-NL-Header-210512-v01-sro.jpg
+18-05-2021 07:21:32 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/05/JM-KTO-NL-Header-210512-v01-sro.jpg
+18-05-2021 07:21:32 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/05/JM-KTO-NL-Header-210512-v01-sro.jpg
+18-05-2021 07:21:54 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/05/JM-KTO-NL-Header-210512-v01-sro.jpg
+18-05-2021 07:21:54 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/05/JM-KTO-NL-Header-210512-v01-sro.jpg
+18-05-2021 07:22:07 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/05/JM-KTO-NL-Header-210512-v01-sro.jpg
+18-05-2021 07:22:07 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/05/JM-KTO-NL-Header-210512-v01-sro.jpg
+18-05-2021 07:22:25 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 07:22:27 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 07:22:40 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 07:22:43 - ERROR - v: 7.1.4 - m: 30,0 MB, u: 1 - 
+18-05-2021 07:22:53 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 07:22:58 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 07:23:05 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/05/JM-KTO-NL-Header-210512-v01-sro.jpg
+18-05-2021 07:23:05 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/05/JM-KTO-NL-Header-210512-v01-sro.jpg
+18-05-2021 07:24:00 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 07:24:05 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 07:24:17 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 07:33:48 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 07:33:51 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 07:34:02 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 07:35:30 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 07:35:38 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/05/JM-KTO-NL-Header-210512-v01-sro.jpg
+18-05-2021 07:35:38 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/05/JM-KTO-NL-Header-210512-v01-sro.jpg
+18-05-2021 08:07:33 - ERROR - v: 7.1.4 - m: 25,6 MB, u: 28 - 
+18-05-2021 08:08:12 - ERROR - v: 7.1.4 - m: 25,6 MB, u: 28 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/05/JM-KTO-NL-Header-210512-v01-sro.jpg
+18-05-2021 08:08:12 - ERROR - v: 7.1.4 - m: 25,6 MB, u: 28 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/05/JM-KTO-NL-Header-210512-v01-sro.jpg
+18-05-2021 08:13:41 - ERROR - v: 7.1.4 - m: 25,1 MB, u: 28 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+18-05-2021 08:13:41 - ERROR - v: 7.1.4 - m: 25,1 MB, u: 28 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+18-05-2021 08:13:42 - ERROR - v: 7.1.4 - m: 25,1 MB, u: 28 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+18-05-2021 08:13:42 - ERROR - v: 7.1.4 - m: 25,1 MB, u: 28 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+18-05-2021 08:14:13 - ERROR - v: 7.1.4 - m: 25,1 MB, u: 28 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+18-05-2021 08:14:13 - ERROR - v: 7.1.4 - m: 25,1 MB, u: 28 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+18-05-2021 08:14:13 - ERROR - v: 7.1.4 - m: 25,1 MB, u: 28 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+18-05-2021 08:14:13 - ERROR - v: 7.1.4 - m: 25,1 MB, u: 28 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+18-05-2021 08:14:40 - ERROR - v: 7.1.4 - m: 25,4 MB, u: 28 - 
+18-05-2021 08:15:40 - ERROR - v: 7.1.4 - m: 25,4 MB, u: 28 - 
+18-05-2021 08:15:48 - ERROR - v: 7.1.4 - m: 25,6 MB, u: 28 - 
+18-05-2021 08:16:17 - ERROR - v: 7.1.4 - m: 25,4 MB, u: 28 - 
+18-05-2021 08:16:21 - ERROR - v: 7.1.4 - m: 25,4 MB, u: 28 - 
+18-05-2021 08:16:34 - ERROR - v: 7.1.4 - m: 25,6 MB, u: 28 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/05/JM-KTO-NL-Header-210512-v01-sro.jpg
+18-05-2021 08:16:34 - ERROR - v: 7.1.4 - m: 25,6 MB, u: 28 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/05/JM-KTO-NL-Header-210512-v01-sro.jpg
+18-05-2021 08:18:58 - ERROR - v: 7.1.4 - m: 25,6 MB, u: 28 - 
+18-05-2021 08:19:01 - ERROR - v: 7.1.4 - m: 25,6 MB, u: 28 - 
+18-05-2021 08:19:20 - ERROR - v: 7.1.4 - m: 25,6 MB, u: 28 - 
+18-05-2021 08:19:23 - ERROR - v: 7.1.4 - m: 25,6 MB, u: 28 - 
+18-05-2021 08:19:34 - ERROR - v: 7.1.4 - m: 25,7 MB, u: 28 - 
+18-05-2021 08:19:47 - ERROR - v: 7.1.4 - m: 25,7 MB, u: 28 - 
+18-05-2021 08:19:54 - ERROR - v: 7.1.4 - m: 25,6 MB, u: 28 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/05/JM-KTO-NL-Header-210512-v01-sro.jpg
+18-05-2021 08:19:54 - ERROR - v: 7.1.4 - m: 25,6 MB, u: 28 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/05/JM-KTO-NL-Header-210512-v01-sro.jpg
+18-05-2021 08:21:39 - ERROR - v: 7.1.4 - m: 25,6 MB, u: 28 - 
+18-05-2021 08:21:44 - ERROR - v: 7.1.4 - m: 25,4 MB, u: 28 - 
+18-05-2021 08:21:53 - ERROR - v: 7.1.4 - m: 25,4 MB, u: 28 - 
+18-05-2021 08:21:56 - ERROR - v: 7.1.4 - m: 25,4 MB, u: 28 - 
+18-05-2021 08:22:05 - ERROR - v: 7.1.4 - m: 25,5 MB, u: 28 - 
+18-05-2021 08:24:21 - ERROR - v: 7.1.4 - m: 25,5 MB, u: 28 - 
+18-05-2021 08:24:24 - ERROR - v: 7.1.4 - m: 25,6 MB, u: 28 - 
+18-05-2021 08:24:47 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - 
+18-05-2021 08:24:53 - ERROR - v: 7.1.4 - m: 30,0 MB, u: 1 - 
+18-05-2021 08:25:11 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/05/JM-KTO-NL-Header-210512-v01-sro.jpg
+18-05-2021 08:25:11 - ERROR - v: 7.1.4 - m: 30,2 MB, u: 1 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/05/JM-KTO-NL-Header-210512-v01-sro.jpg
+18-05-2021 08:25:58 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 08:26:17 - ERROR - v: 7.1.4 - m: 25,0 MB, u: 28 - Die Abmessungen des größenveränderten Bildes konnten nicht berechnet werden. (error_getting_dimensions) - /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+18-05-2021 08:26:17 - ERROR - v: 7.1.4 - m: 25,0 MB, u: 28 - File: /var/www/clients/client4/web3/web/wp-content/uploads/2021/04/image.png
+18-05-2021 08:26:28 - ERROR - v: 7.1.4 - m: 30,3 MB, u: 1 - 
+18-05-2021 08:26:41 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
+18-05-2021 08:27:32 - ERROR - v: 7.1.4 - m: 30,1 MB, u: 1 - 
