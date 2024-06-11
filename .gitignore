@@ -1,0 +1,53 @@
+# WordPress core
+wp-admin/
+wp-includes/
+
+# WordPress content
+site/wp-content/uploads/
+site/wp-content/upgrade/
+site/wp-content/cache/
+site/wp-content/backup-db/
+site/wp-content/blogs.dir/
+site/wp-content/advanced-cache.php
+site/wp-content/wp-cache-config.php
+site/wp-content/cache-config.php
+site/wp-content/mu-plugins/
+
+# WordPress configuration files
+wp-config.php
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.sql.gz
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.bak
+*.swp
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Docker
+database/
+mysqldumps/backup.sql.gz
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+
+# Composer dependencies
+vendor/
+composer.lock
+
+# Misc
+.env
